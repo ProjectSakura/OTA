@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1588750698",
-  "filename": " ProjectSakura-GAPPS-1.Q-20200506-0738-wayne-OFFICIAL.zip ",
-  "id": "fdacb6fb332c6a8a996325ce539eadff",
+  "datetime":"1591712152",
+  "filename": " ProjectSakura-VANILLA-1.Q-20200609-1616-wayne-OFFICIAL.zip ",
+  "id": "e145a9eca31deae69dbfb5e97ead706f",
   "romtype": "nightly",
-  "size": 1213834305,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/ProjectSakura-GAPPS-1.Q-20200506-0738-wayne-OFFICIAL.zip",
+  "size": 839978995,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/Wayne/ProjectSakura-VANILLA-1.Q-20200609-1616-wayne-OFFICIAL.zip",
   "version": "1.Q"
 }
 ]
