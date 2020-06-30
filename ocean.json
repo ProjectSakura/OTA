@@ -1,13 +1,13 @@
 {
 "response": [
 {
-  "datetime":"1592320898",
-  "filename": " ProjectSakura-VANILLA-1.Q-20200616-1523-ocean-OFFICIAL.zip ",
-  "id": "94efeb3a4a1d49f70aa3387acae8279b",
+  "datetime":"1593492332",
+  "filename": " ProjectSakura-VANILLA-2.Q-20200630-0446-ocean-OFFICIAL.zip ",
+  "id": "66bfccf5ae131a166bb38cfc4faa357e",
   "romtype": "nightly",
-  "size": 595072372,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/ocean/ProjectSakura-VANILLA-1.Q-20200616-1523-ocean-OFFICIAL.zip",
-  "version": "1.Q"
+  "size": 599149369,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/ocean/ProjectSakura-VANILLA-2.Q-20200630-0446-ocean-OFFICIAL.zip",
+  "version": "2.Q"
 }
 ]
 }
