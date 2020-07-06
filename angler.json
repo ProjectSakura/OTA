@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1593661668",
-  "filename": " ProjectSakura-VANILLA-2.Q-20200702-0348-angler-OFFICIAL.zip ",
-  "id": "7f7f2bb5771caa0dd20ba7cc94d9731b",
+  "datetime":"1594028898",
+  "filename": " ProjectSakura-VANILLA-2.Q-20200706-0949-angler-OFFICIAL.zip ",
+  "id": "743d06b3390191594a265c7b94d0be9b",
   "romtype": "nightly",
-  "size": 701067206,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/angler/ProjectSakura-VANILLA-2.Q-20200702-0348-angler-OFFICIAL.zip",
+  "size": 701060268,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/angler/ProjectSakura-VANILLA-2.Q-20200706-0949-angler-OFFICIAL.zip",
   "version": "2.Q"
 }
 ]
