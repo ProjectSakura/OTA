@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Meizu 16th (m1882)
+Device maintainer: Abdibekov Dauren (TDADS)
+
+===== 2020-07-09 =====
+- m1882: Force enable VoLTE
+- m1882: Sakura face unlock has been added 
+- m1882: fix auto detect region for system 
