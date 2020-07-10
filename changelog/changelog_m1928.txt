@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Meizu 16T (m1928)
+Device maintainer: Abdibekov Dauren (TDADS)
+
+==== 2020-07-09 =====
+- m1928: Sakura face unlock has been added
+- m1928: fix auto detect region for system
+==== 2020-07-10 =====
+- m1928: official status
+- m1928: FOD dimming fix
+- m1928: add FOD delay for better sensitivity
