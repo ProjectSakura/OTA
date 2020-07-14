@@ -1,13 +1,13 @@
 {
 "response": [
 {
-  "datetime":"1592219347",
-  "filename": " ProjectSakura-GAPPS-1.Q-20200616-0046-dream2lte-OFFICIAL.zip ",
-  "id": "2781170beae3e66103bb46c3b8aa125b",
+  "datetime":"1594669534",
+  "filename": " ProjectSakura-GAPPS-2.Q-20200714-0117-dream2lte-OFFICIAL.zip ",
+  "id": "2076beb84a9d0e4be632d38e6ff53dd1",
   "romtype": "nightly",
-  "size": 1274162140,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/ProjectSakura-GAPPS-1.Q-20200616-0046-dream2lte-OFFICIAL.zip",
-  "version": "1.Q"
+  "size": 995701030,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/dream2lte/ProjectSakura-GAPPS-2.Q-20200714-0117-dream2lte-OFFICIAL.zip",
+  "version": "2.Q"
 }
 ]
 }
