@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: LeEco Le 2 (s2)
+Device maintainer: CakesTwix
+
+==== 2020-07-13 =====
+- Source Sync
+- July security patch
