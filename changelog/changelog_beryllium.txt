@@ -1,0 +1,16 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Pocofone F1 (beryllium)
+Device maintainer: HumanGlitch
+
+==== 2020-07-14 =====
+- beryllium: Updated device fingerprint to Coral (July,2020)
+- beryllium: Fixed "Internal error" message on reboot
+- beryllium: Fixed statusbar icons padding
+- beryllium: Added Dirac icons
+- sdm845-common: Enable Multiuser support
+- sdm845-common: Enabled bluetooth HFP inband ringing
+- sdm845-common: Enable Adaptive Sleep
+- sdm845-common: Enable Smart Battery
+- sdm845-common: Enable WiFi link probing support
+- sdm845-common: Miscellaneous UI improvements & Optimisations
