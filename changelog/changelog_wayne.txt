@@ -5,6 +5,7 @@ Device maintainer: Roger Willams - Lokodetoddyn
 
 ==== 2020-07-13 =====
 - wayne: Update SPL from LA.UM.8.2.r1-06700-sdm660.0
+- wayne: Added Faceunlock support and FPS support
 - merge tag 'v4.4.230' of https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux
 - kernel: Upstreamed for 4.4.230
 - kernel: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' 
