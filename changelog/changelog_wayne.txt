@@ -1,0 +1,22 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 6X (Wayne)
+Device maintainer: Roger Willams - Lokodetoddyn
+
+==== 2020-07-13 =====
+- wayne: Update SPL from LA.UM.8.2.r1-06700-sdm660.0
+- merge tag 'v4.4.230' of https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux
+- kernel: Upstreamed for 4.4.230
+- kernel: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' 
+- kernel: Localversion: LA.UM.8.2.r1-06900-sdm660.0
+- kernel: Wireguard: update wireguard to version 1.0.20200712
+- sdm660-common: Add RRO Target flag for falcon_64
+- sdm660-common_64: Perf hal support
+- sdm660-common: Some Changes for RRO overlays 
+- sdm660-common: Parts: Calculate expotenial LED Brightness slider values
+- sdm660-common: Update Hal to LA.UM.8.2.r1-06700-sdm660.0
+- sdm660-common: Overlay: Set screen off delay to 0
+- sdm660-common: Use Qcrild from LA.UM.8.2.r1-06500-sdm660.0
+- sdm660-common: Allow auto-brightness while in doze
+- sdm660-common: Sakura: Enable FPS Support for Sakura
+- sdm660-common: Switch to QTI bt stack and enable a2dp offload
