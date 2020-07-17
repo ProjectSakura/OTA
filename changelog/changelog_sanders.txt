@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Moto G (5S) Plus (sanders)
+Device maintainer: ArmSM
+
+==== 2020-07-16 =====
+- sanders: Now Official
+- sanders: Enable vibration multiple intensities
+- sanders: Add status bar burn-in protection
+- sanders: Update media configs from LA.UM.8.6.r1-02600-89xx.0
+- sanders: Gps optimization for better Positioning
+- sanders: Made few tweaks for battery saving
+- sanders: Fixed Moto Actions and FP gestures
+- sanders: Fixed Ambient Display
+- sanders: Updated kernel to Noir based on Deen's
+- sanders: Add Face Unlock
+- sanders: Other miscellaneous fixes and tweaks
