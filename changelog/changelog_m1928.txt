@@ -10,3 +10,7 @@ Device maintainer: Abdibekov Dauren (TDADS)
 - m1928: official status
 - m1928: FOD dimming fix
 - m1928: add FOD delay for better sensitivity
+===== 2020-07-24=====
+- m1882  : Initial build
+- sakura : Enable additional FOD recognizing animation effects & custom FOD icons
+- sm8150-common : fix LTE-A buffer size

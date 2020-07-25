@@ -7,3 +7,6 @@ Device maintainer: Abdibekov Dauren (TDADS)
 - m1882: Force enable VoLTE
 - m1882: Sakura face unlock has been added 
 - m1882: fix auto detect region for system 
+===== 2020-07-24=====
+- m1882  : Initial build
+- sakura : Enable additional FOD recognizing animation effects & custom FOD icons
