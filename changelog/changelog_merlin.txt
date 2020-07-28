@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Moto G3 Turbo (merlin)
+Device maintainer: Charlie
+
+==== 2020-07-16 =====
+- merlin: Now Official
+- merlin: Add Face Unlock
