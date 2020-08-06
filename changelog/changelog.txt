@@ -1,0 +1,68 @@
+######         Changelog for 06/08/2020           ######
+## These are changes made to the framework only ##
+##   For more changes check the repositories    ##
+
+base: Add OOS style switches (#8)
+[SQUASH][DNM] Merge tag 'android-10.0.0_r41' into staging/lineage-17.1_merge-android-10.0.0_r41
+Add an option to ask pin for shutdown/reboot on secure lockscreen [1/2]
+Hide power menu on secure lockscreen - improvements
+Hide power menu on secure lockscreen [1/2]
+Add isFaceAuthEnabledForUser checks in KeyguardLiftController
+Purge unused native memory before Zygote fork events
+Fix color mismatch of pointers
+Teaches the ProcessCpuTracker about USAPs.
+Adds Zygote policy flags to control how applications are launched
+Start process of next activity with top priority in advance
+Fixed an issue Zygote initialization.
+Improved timekeeping logic for USAP Pool refill mechanism.
+Resets the refill action/timing info after a pool fill event.
+Make the USAP Pool refill delay configurable.
+Re-adds a trace  point that was accidentally removed.
+Moved some thread priority changes.
+Adjust Java Language thread priority in new processes.
+Adjusts the USAP pool refill mechanism.
+Change USAP name to application name as soon as possible.
+SystemUI: Use regular global_actions_column layout for layout-sw600dp-land
+SystemUI: use DOUBLE_TAP_TO_WAKE setting also for wake from aod
+fw/b: Add support for per app network isolation
+Fix typos related to sortSelectionIndices
+Fix app crash if the selection is from reverse direction.
+New VOLTE Icon
+Add our favourite fonts in AOSP FontEngine [2/2]
+FingerprintDialogView: Improve on fod devices
+base: do not use new lockscreen layout for bypass
+UninstallAlertDialogFragment: Catch IllegalArgumentException
+frameworks: Reset battery stats
+fwb: [1/2] Implement cutout force full screen
+Add toggle to completely hide status bar on lockscreen [1/2]
+Fix long click intent for Smart Pixels tile [1/2]
+Smart Pixels: Dynamically register receiver
+SmartPixels: Add config to enable smartpixels support
+Add smart pixels [1/2]
+FODCircleView: Reset background to Lineage state for default FOD icon
+FODCircleView: Make FOD icon dimming optional
+FODAnimation: Check if view is null before adding a new one
+FODCircleView: Fix Wallpaper Color
+FODCircleView: Dim FOD icon
+FODCircleView: Apply color filter to FOD background
+FODCircleView: Improve position update
+FODCircleView: Hide circle and animation when auth fails
+FODCircleView: move fod resources to addons [1/2]
+FODCircleView: add FOD invisible icon [1/2]
+FODAnimation: Make animation resources optional [1/2]
+FODCircleView: cleanup FOD customization techniques
+FODAnimation: Allow to set vertical position offset
+FODCircleView: Separate FODAnimation into it's own class
+FODCircleView: Recognizing FP animation effects [1/2]
+FODCircleView: Recognizing fingerprint animation [1/2]
+FODCircleView: Fix position on keyguard if cutout is hidden
+FODCircleView: Fix position if cutout is hidden
+FODCircleView: FOD pressed state [1/2]
+FODCircleView: fix incorrect position on keyguard
+FODCircleView: add crDroid fod icon [1/2]
+FODCircleView: add FOD icon picker and wallpaper based color option [1/2]
+FODCircleView: Add partial wakelock on aod
+FODCircleView: AOD content should move only in Y
+PrivacyChip: Do not change view on expand
+Fix up statusbar paddings for devices with display cutouts
+Proper fix of Android Auto
