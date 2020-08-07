@@ -3,15 +3,11 @@ Build type: Monthly
 Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 
-==== 2020-07-06 =====
-- violet: official builds enabled
-- violet: Sakura face unlock has been added
-- violet: fix auto detect region for system
-==== 2020-07-10 =====
-- violet: updated kernel
-- violet: fixed fps tile
-- violet: fixed battery info in settings
-==== 2020-07-12 =====
-- violet: improved Haptics and Vibrations
-- violet: enable VoLTE and VoWIFI for all
-- violet: fixed screenrecorder lag
+==== 2020-07-08 =====
+- enabled fluence for audio/video recordings
+- improved audio
+- imported violet parts
+- set OpenGL Skia as default renderer
+- improved boot time
+- nuked AduioFX
+- adjusted status bar padding
