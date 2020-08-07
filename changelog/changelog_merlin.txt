@@ -1,8 +1,27 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Moto G3 Turbo (merlin)
+Device: Moto G Turbo Edition (merlin)
 Device maintainer: Charlie
 
+==== 2020-07-16 =====
+- Warning: Clean Flash is absolutely necessary
+- merlin: Setup LMKD
+- merlin: Inherit configs from Android GO
+- merlin: Fix TimeKeep
+- merlin: Face Unlock has been made better
+- merlin: RAM management optimizations
+- merlin: Moto Actions logo has been reworked
+- merlin: selinux denials fixed
+- merlin: Replaced Snap cam with Gcam GO
+- merlin: Replaced Eleven (music) with Phonograph
+- merlin: Replaced Jelly with Via Browser
+- merlin: Removed default Gallery app
+- source: Switch to OPLauncher
+- vendor: Camera Libs has been regenerated
+- merlin: AudioFX app has been removed
+- source: Added smart Pixels support for merlin(Disabled by default)
+- Warning: Do not complain to me about Display issues with Smart Pixels you guys requested for it
+                   
 ==== 2020-07-16 =====
 - merlin: Now Official
 - merlin: Add Face Unlock

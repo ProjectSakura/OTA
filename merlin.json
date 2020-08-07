@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1595749726",
-  "filename": " ProjectSakura-VANILLA-2.Q-20200727-0354-merlin-OFFICIAL.zip ",
-  "id": "b8b1eadcc553783074373d26ef984e97",
+  "datetime":"1596706196",
+  "filename": " ProjectSakura-VANILLA-2.Q-20200806-0930-merlin-OFFICIAL.zip ",
+  "id": "fb898027acb48a4d0df9ec67a5eef433",
   "romtype": "nightly",
-  "size":  516286233,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/merlin/ProjectSakura-VANILLA-2.Q-20200727-0354-merlin-OFFICIAL.zip",
+  "size":  533693008,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/merlin/ProjectSakura-VANILLA-2.Q-20200806-0930-merlin-OFFICIAL.zip",
   "version": "2.Q"
 }
 ]
