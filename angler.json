@@ -1,13 +1,13 @@
 {
 "response": [
 {
-  "datetime":"1594817555",
-  "filename": " ProjectSakura-VANILLA-2.Q-20200715-1253-angler-OFFICIAL.zip ",
-  "id": "ff8bcdc01ff0387f8e385cff965a43ed",
-  "romtype": "nightly",
-  "size": 698154923,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/angler/ProjectSakura-VANILLA-2.Q-20200715-1253-angler-OFFICIAL.zip",
-  "version": "2.Q"
+ "datetime": "1596777402 ",
+ "filename": "ProjectSakura-GAPPS-2.Q-20200807-0518-angler-OFFICIAL.zip ",
+ "id": "a8fd90149913783b279a7f9ff5b0e558",
+ "romtype": "nightly",
+ "size": 787271354,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/angler/ProjectSakura-GAPPS-2.Q-20200807-0518-angler-OFFICIAL.zip",
+ "version": "2.Q"
 }
 ]
 }

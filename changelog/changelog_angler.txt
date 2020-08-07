@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Nexus 6P (angler)
+Device maintainer: Amartya (xmxrtyx)
+
+==== 2020-07-08 =====
+- Time resetting after reboot bug has been fixed
+- Offline charging has been fixed
+- Added MIUI Offline Charging Animation
+- Added inbuilt GApps
+- Removed Eleven, Jelly and Gallery2 (you can now use your fav app)
+- Enabled Zygote Preforking
+- Wifi Direct Fixed
+- Moved WiFi firmware to vendor
+- Added OnePlus launcher
