@@ -21,3 +21,20 @@ Device maintainer: Roger Willams - Lokodetoddyn
 - sdm660-common: Allow auto-brightness while in doze
 - sdm660-common: Sakura: Enable FPS Support for Sakura
 - sdm660-common: Switch to QTI bt stack and enable a2dp offload
+
+==== 2020-08-07 ====
+- wayne: Cleanup, Reorder and set some stuffs for Sakura
+- wayne: Update SPL from LA.UM.8.2.r1-06700-sdm660.0
+- wayne: Remove keymap of headset buttons
+- wayne: configs: allocate dedicated pcm node for in call recording 
+- wayne: Set OnePlus Launcher by default
+- sdm660-common: prop: Disable a2dp offload by default
+- sdm660-common: overlay: Rework doze Autobrightness values
+- sdm660-common: prop: Set Perf related Props from sdm660
+- sdm660-common: Don't advertise vorbis offloading support
+- sdm660-common: IMS: Filter out the conference host in the CEP for some carriers
+- sdm660-common: data-ipa-cfg-mgr: Merge tag 'LA.UM.8.2.r1-06900-sdm660.0' 
+- kernel: Upstreamed to Linux 4.4.232
+- kernel: Merge 4.4.232 into kernel.lnx.4.4.r38-rel
+- kernel: Merge branch 'kernel.lnx.4.4.r38-rel'
+- kernel: More changes and optimizations
