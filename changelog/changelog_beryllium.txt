@@ -14,3 +14,14 @@ Device maintainer: HumanGlitch
 - sdm845-common: Enable Smart Battery
 - sdm845-common: Enable WiFi link probing support
 - sdm845-common: Miscellaneous UI improvements & Optimisations
+==== 2020-08-07 =====
+- beryllium: Updated device fingerprint to Coral (August,2020)
+- beryllium: Updated Vendor Security Patch
+- beryllium: Fixed overlays
+- beryllium: Fixed HDR Playback
+- sdm845-common: Switched to QTI Power Hal
+- sdm845-common: Force enabled VoWIFI
+- sdm845-common: Removed AudioFX
+- sdm845-common: Updated max visible notification icons
+- sdm845-common: Audio: Use QCOM Implementation for audio effects
+- sdm845-common: Enabled seamless transfer
