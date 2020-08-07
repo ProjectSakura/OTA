@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 1 (CPH1859)
+Device maintainer: MrMobTech
+
+==== 2020-07-16 =====
+- CPH1859: Made official
+- CPH1859: Updated Coral fingerprint (July,2020)
+- CPH1859: Added stock Zram script
+- CPH1859: Added face unlock
+- CPH1859: Fixed offline charging
+==== 2020-08-07 =====
+- CPH1859: Updated device Coral fingerprint (August,2020)
+- CPH1859: Included OP Launcher
+- CPH1859: Enabled Surface Flinger
