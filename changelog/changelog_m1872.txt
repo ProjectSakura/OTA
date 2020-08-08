@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Meizu 16X (m1872)
+Device maintainer: Alex (c0nfid)
+
+===== 2020-08-08=====
+- m1872  : Initial build
+- m1872  : Sakura face unlock has been added
+- sakura : Enable additional FOD recognizing animation effects & custom FOD icons
