@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
+Device maintainer: Shen (LordShenron)
+
+===== 2020-08-08=====
+- Switched to a new tree
+- Better speaker audio
+- Mic issue fixed for whatsapp and Pubg
