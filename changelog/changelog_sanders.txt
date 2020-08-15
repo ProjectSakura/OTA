@@ -3,15 +3,11 @@ Build type: Monthly
 Device: Moto G (5S) Plus (sanders)
 Device maintainer: ArmSM
 
-==== 2020-07-16 =====
-- sanders: Now Official
-- sanders: Enable vibration multiple intensities
-- sanders: Add status bar burn-in protection
-- sanders: Update media configs from LA.UM.8.6.r1-02600-89xx.0
-- sanders: Gps optimization for better Positioning
-- sanders: Made few tweaks for battery saving
-- sanders: Fixed Moto Actions and FP gestures
-- sanders: Fixed Ambient Display
-- sanders: Updated kernel to Noir based on Deen's
-- sanders: Add Face Unlock
-- sanders: Other miscellaneous fixes and tweaks
+==== 2020-08-15 =====
+- sanders: Update build fp to crosshatch Aug patch
+- sanders: Enabled Qcom boost framework
+- sanders: Updated Digital TV
+- sanders: Fixed gpay issue
+- sanders: Fixed issue where chromium browsers tend to crash
+- sanders: Fixed Night light
+- sanders: Improved dt for better performance and smooth experience
