@@ -13,4 +13,4 @@ Device maintainer: Abdibekov Dauren (TDADS)
 ===== 2020-08-20=====
 - sakura : Switched to OnePlus launcher
 - sakura : Switched to minimal GAPPS
-- sakura : Minor bug fixes
+- sakura : Minor bug fixes 
