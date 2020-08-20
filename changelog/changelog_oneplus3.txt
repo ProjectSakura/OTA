@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus3 (OnePlus 3/3T)
+Device maintainer: Deepak jr.
+
+===== 2020-08-20=====
+- Initial release
+- Switched to OnePlus launcher
+- Switch to Raizr kernel
