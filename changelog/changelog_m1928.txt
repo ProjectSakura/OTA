@@ -4,6 +4,7 @@ Device: Meizu 16T (m1928)
 Device maintainer: Abdibekov Dauren (TDADS)
 
 ==== 2020-07-09 =====
+- m1928: Initial offical build
 - m1928: Sakura face unlock has been added
 - m1928: fix auto detect region for system
 ==== 2020-07-10 =====
@@ -11,6 +12,9 @@ Device maintainer: Abdibekov Dauren (TDADS)
 - m1928: FOD dimming fix
 - m1928: add FOD delay for better sensitivity
 ===== 2020-07-24=====
-- m1928  : Initial build
 - sakura : Enable additional FOD recognizing animation effects & custom FOD icons
 - sm8150-common : fix LTE-A buffer size
+===== 2020-08-20=====
+- sakura : Switched to OnePlus launcher
+- sakura : Switched to minimal GAPPS
+- sakura : Minor bug fixes

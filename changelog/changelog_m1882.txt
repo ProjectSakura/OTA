@@ -4,9 +4,13 @@ Device: Meizu 16th (m1882)
 Device maintainer: Abdibekov Dauren (TDADS)
 
 ===== 2020-07-09 =====
+- m1882: Initial offical build
 - m1882: Force enable VoLTE
 - m1882: Sakura face unlock has been added 
 - m1882: fix auto detect region for system 
 ===== 2020-07-24=====
-- m1882  : Initial build
 - sakura : Enable additional FOD recognizing animation effects & custom FOD icons
+===== 2020-08-20=====
+- sakura : Switched to OnePlus launcher
+- sakura : Switched to minimal GAPPS
+- sakura : Minor bug fixes

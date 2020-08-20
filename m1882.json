@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1595349606",
-  "filename": " ProjectSakura-GAPPS-2.Q-20200724-1703-m1882-OFFICIAL.zip ",
-  "id": "e69dad1137c42c36a134f815aa3cf4ac",
+  "datetime":"1597908192",
+  "filename": " ProjectSakura-GAPPS-2.Q-20200820-0724-m1882-OFFICIAL.zip ",
+  "id": "5690b7cccb63b5cd4528c002c02e6827",
   "romtype": "nightly",
-  "size": 1228435846,
-  "url": "https://sourceforge.net/projects/projectsakura/files/M1882/ProjectSakura-GAPPS-2.Q-20200724-1703-m1882-OFFICIAL.zip/download",
+  "size": 1074922127,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/m1882/ProjectSakura-GAPPS-2.Q-20200820-0724-m1882-OFFICIAL.zip",
   "version": "2.Q"
 }
 ]
