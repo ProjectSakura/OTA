@@ -1,13 +1,13 @@
 {
 "response": [
 {
-  "datetime":"1594673198",
-  "filename": " ProjectSakura-GAPPS-2.Q-20200714-0219-greatlte-OFFICIAL.zip ",
-  "id": "263c860a9463287adba7b1dc372e325c",
-  "romtype": "nightly",
-  "size": 996877882,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/greatlte/ProjectSakura-GAPPS-2.Q-20200714-0219-greatlte-OFFICIAL.zip",
-  "version": "2.Q"
+ "datetime": "1596978869 ",
+ "filename": "ProjectSakura-GAPPS-2.Q-20200809-1514-greatlte-OFFICIAL.zip ",
+ "id": "fd855fe1157e7548f8876c13f740c571",
+ "romtype": "nightly",
+ "size": 902166918,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/greatlte/ProjectSakura-GAPPS-2.Q-20200809-1514-greatlte-OFFICIAL.zip",
+ "version": "2.Q"
 }
 ]
 }
