@@ -4,4 +4,8 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Amartya (wtfyuki)
 
 ==== 2020-23-08 =====
--Initial Build
+Hotfix Update
+-CTS passes now
+-Switched back to MIUI Camera
+-FPS QS Tile works
+
