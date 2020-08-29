@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1596734405 ",
- "filename": "ProjectSakura-GAPPS-2.Q-20200807-0726-beryllium-OFFICIAL.zip ",
- "id": "18bdcbf98f7001b44906a96dd1a586cb",
- "romtype": "nightly",
- "size": 1187922513,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/beryllium/ProjectSakura-GAPPS-2.Q-20200807-0726-beryllium-OFFICIAL.zip",
+ "datetime": "1598617074",
+ "filename": "ProjectSakura-GAPPS-2.Q-20200828-1304-beryllium-OFFICIAL.zip",
+ "id": "aa6235e8be11b8bc928014edcc16ce31",
+ "romtype":"nightly",
+ "size": 1159691033,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/beryllium/ProjectSakura-GAPPS-2.Q-20200828-1304-beryllium-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
