@@ -25,3 +25,13 @@ Device maintainer: HumanGlitch
 - sdm845-common: Updated max visible notification icons
 - sdm845-common: Audio: Use QCOM Implementation for audio effects
 - sdm845-common: Enabled seamless transfer
+==== 2020-08-07 =====
+- sdm845-common: Added MotoDolby
+- sdm845-common: Added ART Props
+- sdm845-common: Use Proton clang
+- sdm845-common: Switch to 24bit Playback
+- sdm845-common: Disabled NearbyMessagingService and DiscoveryService
+- sdm845-common: Added changes to improve audio and mic volume
+- sdm845-common: Added parameters for hotspot 2.0
+- sdm845-common: Imported some missing blobs from MIUI
+- vendor: Imported Post Processing Blobs from MIUI
