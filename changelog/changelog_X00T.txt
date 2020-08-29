@@ -3,6 +3,11 @@ Build type: Monthly
 Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 
+===== 2020-08-28=====
+- Fixed Broken FPS meter
+- Fixed Dual volte
+- Somewhat fixed the speaker crack on full audio
+
 ===== 2020-08-08=====
 - Switched to a new tree
 - Better speaker audio
