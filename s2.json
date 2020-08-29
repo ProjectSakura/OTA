@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1596826248 ",
- "filename": "ProjectSakura-VANILLA-2.Q-20200807-1852-s2-OFFICIAL.zip ",
- "id": "b0b2d9372ef70d5b860bd0915da54a9f",
+ "datetime": "1598622482",
+ "filename": "ProjectSakura-VANILLA-2.Q-20200828-1348-s2-OFFICIAL.zip ",
+ "id": "c7318da7ebd317a2c6f8b137e651674",
  "romtype": "nightly",
- "size": 695338073,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-VANILLA-2.Q-20200807-1852-s2-OFFICIAL.zip",
+ "size": 702151566,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-VANILLA-2.Q-20200828-1348-s2-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
