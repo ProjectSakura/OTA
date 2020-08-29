@@ -38,3 +38,17 @@ Device maintainer: Roger Willams - Lokodetoddyn
 - kernel: Merge 4.4.232 into kernel.lnx.4.4.r38-rel
 - kernel: Merge branch 'kernel.lnx.4.4.r38-rel'
 - kernel: More changes and optimizations
+
+==== 2020-08-07 ====
+- sdm660-common: overlay: Remove doze Autobrightness values
+- sdm660-common: Add Xiaomi Parts/Doze JP translation 
+- sdm660-common: Update LPA interface version
+- sdm660-common: Add permissions for RCS service
+- sdm660-common: init: Update ueventd rules and init rc for new audio drivers
+- sdm660-common: rootdir: Set Netflix and media property based on target
+- sdm660-common: Add new config overlay for call composer 
+- sdm660-common: Enable FBE encryption
+- kernel: Linux 4.4.234 
+- kernel: Merge 4.4.234 into kernel.lnx.4.4.r38-rel
+- kernel: Merge 4.4.234 from https://github.com/android-linux-stable/msm-4.4]
+- kernel: Some other fixes and optimizations
