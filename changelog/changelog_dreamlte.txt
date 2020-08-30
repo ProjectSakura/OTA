@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy S8 (dreamlte)
+Device maintainer: Haridhayal
+
+===== 2020-08-30=====
+- Added f2fs support (Flash latest RZ kernel after flashing ROM)
+Latest RZ kernel can be found here
+https://bit.ly/34SWBfk
