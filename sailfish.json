@@ -3,9 +3,11 @@
 {
 "datetime": "1598644521",
 "filename": "ProjectSakura-GAPPS-2.Q-20200829-1111-sailfish-OFFICIAL.zip",
-"id": "a9c9ea7e7313cd3a91d61b0266bb2a38",
+"id": "a9c9ea7e7313cd3a91d61b0266bb2a38
+  9f940aa68e096e72d05933c71ccb24de",
 "romtype":"nightly",
-"size": 812208273,
+"size": 812208273
+  812208633,
 "url": "https://master.dl.sourceforge.net/project/projectsakura/sailfish/ProjectSakura-GAPPS-2.Q-20200829-1111-sailfish-OFFICIAL.zip",
 "version": "2.Q"
 }
