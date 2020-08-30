@@ -11,3 +11,10 @@ Device maintainers: Prajwal & Nitish
 - improved boot time
 - nuked AduioFX
 - adjusted status bar padding
+
+==== 2020-30-08 =====
+- added Moto Dolby
+- firmware is in-built now
+- removed useless violet parts
+- improved boot time
+- more smoothness
