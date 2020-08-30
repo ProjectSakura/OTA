@@ -3,12 +3,12 @@ Build type: Monthly
 Device: Moto G7 Power <ocean>
 Device maintainer: Vitor Santos <vulkan-ops>
 
-==== 2020-08-07 =====
-- ocean: Added Faceunlock support and FPS support
-- ocean: Enable support for zswap
-- kernel: driver: add KCAL
-- kernel: driver: set zram
-- sdm632-common: Sakura: Enable FPS Support for Sakura
-- sdm632-common: LineageActions -> MotoActions
-- sdm632-common: Add Gcam
-- sdm632-common: Update configs from ocean QPOS30.52-29-2
+==== 2020-08-29 =====
+- ocean: Added battery and system info
+- ocean: Added skoll kernel
+- kernel: driver: add sysfs node in dpu driver to provide fps
+- kernel: driver: set energy variable for longer battery life
+- sdm632-common: Add support for Battery Health
+- sdm632-common: Fixed apn configs
+- sdm632-common: Added Moto Dolby
+- sdm632-common: Disable notification led while charging

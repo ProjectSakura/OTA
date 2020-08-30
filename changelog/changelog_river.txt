@@ -1,15 +1,14 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Moto G7  <river>
-Device maintainer: Vulkan-ops
+Device maintainer: Vitor Santos <vulkan-ops>
 
-==== 2020-08-07 =====
-- river: Added Faceunlock support and FPS support
-- river: Enable support for zswap
-- kernel: driver: add KCAL
-- kernel: driver: set zram
-- sdm632-common: Sakura: Enable FPS Support for Sakura
-- sdm632-common: LineageActions -> MotoActions
-- sdm632-common: Add Gcam
-- sdm632-common: Update configs from river QPOS30.52-29-2
-
+==== 2020-08-29 =====
+- river: Added battery and system info
+- river: Added skoll kernel
+- kernel: driver: add sysfs node in dpu driver to provide fps
+- kernel: driver: set energy variable for longer battery life
+- sdm632-common: Add support for Battery Health
+- sdm632-common: Fixed apn configs
+- sdm632-common: Added Moto Dolby
+- sdm632-common: Disable notification led while charging
