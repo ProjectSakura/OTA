@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1593580688",
-  "filename": " ProjectSakura-GAPPS-2.Q-20200701-0501-riva-OFFICIAL.zip ",
-  "id": "f45f1a3a1f8ec453cd951b4addf26fb7",
+  "datetime":"1598546870",
+  "filename": " ProjectSakura-GAPPS-2.Q-20200827-1847-riva-OFFICIAL.zip ",
+  "id": "c8dec2c09bff41c045d63ff8d58e73c8",
   "romtype": "nightly",
-  "size": 1137217828,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/riva/GAPPS/ProjectSakura-GAPPS-2.Q-20200701-0501-riva-OFFICIAL.zip",
+  "size": 852614728,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/riva/GAPPS/ProjectSakura-GAPPS-2.Q-20200827-1847-riva-OFFICIAL.zip",
   "version": "2.Q"
 }
 ]
