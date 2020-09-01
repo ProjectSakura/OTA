@@ -7,3 +7,9 @@ Device maintainer: Deepak jr.
 - Initial release
 - Switched to OnePlus launcher
 - Switch to Raizr kernel
+
+===== 2020-09-01=====
+- Upstream kernel to 3.18.140
+- Kernel tweaks
+- Switch back to Lawnchair launcher
+- Enable all device specific overlays (smart charging broken afaik)
