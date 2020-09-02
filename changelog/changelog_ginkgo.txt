@@ -4,12 +4,11 @@ Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Amartya (wtfyuki)
 
 ==== 2020-01-09 =====
-~bOoM bOoM update~
 -Changed corner content padding to 16dp
 -Reduced keyboard tap vibration intensity
--Enabled Auto-Brightness, who tf thought disabling that is a good idea ;-;
+-Enabled Auto-Brightness 
 -Kanged dexpreopt bits from OnePlus 7 tree
--Removed Jelly, Gallery2 and Eleven (you guys can now install whatever app you want .-.)
+-Removed Jelly, Gallery2 and Eleven (you guys can now install whatever app you want)
 -Removed AudioFX and XiaomiParts
 -Fixed Smart Charging
 -Added Moto Dolby
