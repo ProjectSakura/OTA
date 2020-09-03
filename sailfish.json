@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1598644521",
- "filename": "ProjectSakura-GAPPS-2.Q-20200831-1752-sailfish-OFFICIAL.zip",
- "id": "9142edcbf8186ff7168a83301f581084",
+ "datetime": "1599063533",
+ "filename": "ProjectSakura-GAPPS-2.Q-20200902-1928-sailfish-OFFICIAL.zip",
+ "id": "92b425a6f2a3b39c262caf3ccfaf348a",
  "romtype":"nightly",
- "size": "812208265",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/sailfish/ProjectSakura-GAPPS-2.Q-20200831-1752-sailfish-OFFICIAL.zip",
+ "size": 812192785,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/sailfish/ProjectSakura-GAPPS-2.Q-20200902-1928-sailfish-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
