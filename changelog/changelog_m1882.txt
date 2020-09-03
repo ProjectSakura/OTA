@@ -14,3 +14,6 @@ Device maintainer: Abdibekov Dauren (TDADS)
 - sakura : Switched to OnePlus launcher
 - sakura : Switched to minimal GAPPS
 - sakura : Minor bug fixes 
+===== 2020-09-03=====
+- sakura : Minor bug fixes
+- sakura : face unlock has been fixed
