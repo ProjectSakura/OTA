@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 9 Pro (joyeuse)
+Device maintainer: a9ito
+
+==== 2020-09-5 =====
+Initial Official Build
+Added Face Unlock
+
