@@ -5,5 +5,4 @@ Device maintainer: a9ito
 
 ==== 2020-09-5 =====
 Initial Official Build
-Added Face Unlock
-
+Redefine GAPPS
