@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 9 Pro (joyeuse)
+Device maintainer: Anggit Febriantoro (a9ito)
+
+==== 2020-09-05 =====
+- Initial Official Build
+- Redefined Gapps
