@@ -4,6 +4,11 @@ Device: Meizu 16X (m1872)
 Device maintainer: Alex (c0nfid)
 
 ===== 2020-08-08=====
+- m1872  : Add three FOD color
+- m1872  : Update on new sources Sakura
+- m1872  : Add flash animation by TRANSAERO21 (http:/github.com/transaero21/)
+
+===== 2020-08-08=====
 - m1872  : Initial build
 - m1872  : Sakura face unlock has been added
 - sakura : Enable additional FOD recognizing animation effects & custom FOD icons
