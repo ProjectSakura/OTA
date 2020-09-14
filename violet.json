@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1598798522",
-  "filename": "ProjectSakura-GAPPS-2.Q-20200830-2012-violet-OFFICIAL.zip",
-  "id": "be2186e41f09110ddf9e2c743850d12f",
+  "datetime":"1600088129",
+  "filename": "ProjectSakura-GAPPS-2.Q-20200914-2002-violet-OFFICIAL.zip",
+  "id": "c2b8b9e666335c8b127b8abfdf3f6eb2",
   "romtype": "nightly",
-  "size": 1173468821,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-GAPPS-2.Q-20200830-2012-violet-OFFICIAL.zip",
+  "size": 1176252561,
+  "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-GAPPS-2.Q-20200914-2002-violet-OFFICIAL.zip",
   "version": "2.Q"
 }
 ]

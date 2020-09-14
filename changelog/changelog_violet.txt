@@ -15,6 +15,13 @@ Device maintainers: Prajwal & Nitish
 ==== 2020-30-08 =====
 - added Moto Dolby
 - firmware is in-built now
-- removed useless violet parts
+- removed violet parts
 - improved boot time
 - more smoothness
+
+==== 2020-14-09 =====
+- september security patch merged
+- fixed smart charging
+- fixed blank fastboot issue
+- improve touch sensitivity by significant margin
+- tuned sound a little bit
