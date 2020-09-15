@@ -39,7 +39,7 @@ Device maintainer: Roger Willams - Lokodetoddyn
 - kernel: Merge branch 'kernel.lnx.4.4.r38-rel'
 - kernel: More changes and optimizations
 
-==== 2020-08-07 ====
+==== 2020-08-28 ====
 - sdm660-common: overlay: Remove doze Autobrightness values
 - sdm660-common: Add Xiaomi Parts/Doze JP translation 
 - sdm660-common: Update LPA interface version
@@ -52,3 +52,9 @@ Device maintainer: Roger Willams - Lokodetoddyn
 - kernel: Merge 4.4.234 into kernel.lnx.4.4.r38-rel
 - kernel: Merge 4.4.234 from https://github.com/android-linux-stable/msm-4.4]
 - kernel: Some other fixes and optimizations
+
+==== 2020-09-14 ====
+- kernel: Upstreamed to Linux 4.4.236 HMP
+- kernel: touchscreen: import aospa dt2w changes
+- kernel: net: wireguard: update wireguard to version v1.0.20200908
+- More updates and fixes
