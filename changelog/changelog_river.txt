@@ -3,12 +3,9 @@ Build type: Monthly
 Device: Moto G7  <river>
 Device maintainer: Vitor Santos <vulkan-ops>
 
-==== 2020-08-29 =====
-- river: Added battery and system info
-- river: Added skoll kernel
-- kernel: driver: add sysfs node in dpu driver to provide fps
-- kernel: driver: set energy variable for longer battery life
-- sdm632-common: Add support for Battery Health
-- sdm632-common: Fixed apn configs
-- sdm632-common: Added Moto Dolby
-- sdm632-common: Disable notification led while charging
+==== 2020-09-14 =====
+- river: Droped battery and system info
+- river: Droped skoll kernel / retorne stock kernel
+- kernel: driver: Improve lowram standards
+- sdm632-common: Enable enforce
+- sdm632-common: Droped Moto Dolby / retorne AudioFX
