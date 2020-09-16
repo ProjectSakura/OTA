@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1597440805",
- "filename": "ProjectSakura-VANILLA-2.Q-20200814-2134-sanders-OFFICIAL.zip",
- "id": "2f369aae10fd2b844dd92b4b7e332bed",
+ "datetime": "1600260468",
+ "filename": "ProjectSakura-VANILLA-2.Q-20200916-1249-sanders-OFFICIAL.zip",
+ "id": "d4b0504f254d831d361c0dc3ed4b74e5",
  "romtype":"nightly",
- "size": "706041069",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/sanders/ProjectSakura-VANILLA-2.Q-20200814-2134-sanders-OFFICIAL.zip",
+ "size": "712517868",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/sanders/ProjectSakura-VANILLA-2.Q-20200916-1249-sanders-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
