@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1598589480",
- "filename": "ProjectSakura-GAPPS-2.Q-20200828-0746-X00T-OFFICIAL.zip",
- "id": "bf1fe369531f32467705abed78b1b5d3",
+ "datetime": "1600177524",
+ "filename": "ProjectSakura-GAPPS-2.Q-20200915-1545-X00T-OFFICIAL.zip",
+ "id": "046c3d775626ce40e4896500394b0456",
  "romtype":"nightly",
- "size": 938553404,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-GAPPS-2.Q-20200828-0746-X00T-OFFICIAL.zip",
+ "size": 939278582,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-GAPPS-2.Q-20200915-1545-X00T-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
