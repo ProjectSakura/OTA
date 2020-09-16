@@ -3,10 +3,6 @@ Build type: Monthly
 Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 
-==== 2020-08-28 =====
+==== 2020-09-16 =====
 - Source Sync
-- Revert commit "Increase earpiece volume a little"
-- Removed LePref
-- New auto brightness values
-- Translation of camera settings into Spanish
-- Set default hotspot ssid: LeEco Le 2
+- September security patch
