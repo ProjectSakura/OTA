@@ -5,3 +5,6 @@ Device maintainer: Haridhayal
 
 ===== 2020-09-13=====
 - Initial Official Build
+
+===== 2020-09-16=====
+- September Security Patch
