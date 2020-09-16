@@ -13,3 +13,7 @@ Device maintainer: MrMobTech
 - CPH1859: Updated device Coral fingerprint (August,2020)
 - CPH1859: Included OP Launcher
 - CPH1859: Enabled Surface Flinger
+==== 2020-09-16 =====
+- CPH1859: Fingerprint updated to Walleye (September,2020)
+- CPH1859: Included Kernel Source
+- CPH1859: Enabled Zygote Preforking
