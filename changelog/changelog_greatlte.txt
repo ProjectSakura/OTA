@@ -7,3 +7,7 @@ Device maintainer: Haridhayal
 - Added f2fs support (Flash latest RZ kernel after flashing ROM)
 Latest RZ kernel can be found here
 https://bit.ly/34SWBfk
+
+===== 2020-09-16=====
+- Fixed Encryption issue
+- Remapped Bixby button to Google Assistant
