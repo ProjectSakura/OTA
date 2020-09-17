@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Bi-Monthly
 Device: Oneplus3 (OnePlus 3/3T)
 Device maintainer: Deepak jr.
 
@@ -13,3 +13,7 @@ Device maintainer: Deepak jr.
 - Kernel tweaks
 - Switch back to Lawnchair launcher
 - Enable all device specific overlays (smart charging broken afaik)
+
+===== 2020-09-17=====
+- Switched to new trees so better stability
+- Some kernel tweaks
