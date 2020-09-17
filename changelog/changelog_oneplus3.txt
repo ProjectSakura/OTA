@@ -17,3 +17,4 @@ Device maintainer: Deepak jr.
 ===== 2020-09-17=====
 - Switched to new trees so better stability
 - Some kernel tweaks
+- HOTFIX for volte and small stuffs
