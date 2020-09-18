@@ -1,14 +1,12 @@
 {
 "response": [
 {
- "datetime": "1600171302",
- "filename": "ProjectSakura-VANILLA-2.Q-20200915-1302-oneplus3-OFFICIAL.zip",
- "id":
-"3a508910a525901a60486bdccdeb47373a508910a525901a60486bdccdeb4737",
+ "datetime": "1600354953",
+ "filename": "ProjectSakura-VANILLA-2.Q-20200917-1602-oneplus3-OFFICIAL.zip",
+ "id": "b0f787136bc65657806adf08b5c2c70f",
  "romtype":"nightly",
- "size": 722781688
-722781688,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/oneplus3/ProjectSakura-VANILLA-2.Q-20200915-1302-oneplus3-OFFICIAL.zip",
+ "size": 722785885,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/oneplus3/ProjectSakura-VANILLA-2.Q-20200917-1602-oneplus3-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
