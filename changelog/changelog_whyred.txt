@@ -3,9 +3,9 @@ Build type: Monthly
 Device: Xiaomi Redmi Note 5 Pro (whyred)
 Device maintainer: Sipun Kumar Mahanta (Darkstar085)
 
-===== 2020-08-17=====
-- Fixed Bootlooping For Some Users.
-- Updated Blobs from jasmine-user-10-QKQ1.190910.002-V11.0.11.0.QDIMIX…
-- Updated Google Camera Go (Now supports front flash).
-- Fixed Live display.
-- Included lattest Strombreaker kernel (EAS-OLDCAM)
+===== 2020-09-18=====
+• September Security Patch.
+• Fixes and upstreams from Lineage.
+• Updated Gcam.
+• Merged lattest changes from Strombreaker kernel.
+• Fix Heating and brightness issue while playing games.
