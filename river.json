@@ -1,13 +1,13 @@
 {
-"response": [
-{
- "datetime": "1600136495",
- "filename": "ProjectSakura-VANILLA-2.Q-20200915-0424-river-OFFICIAL.zip",
- "id": "d14e60a81ecc392e489a772de361c8ff",
- "romtype":"nightly",
- "size": 635078629,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/river/ProjectSakura-VANILLA-2.Q-20200915-0424-river-OFFICIAL.zip",
- "version": "2.Q"
-}
-]
+    "response": [
+        {
+            "datetime": "1600136495",
+            "filename": "ProjectSakura-VANILLA-2.Q-20200915-0424-river-OFFICIAL.zip",
+            "id": "d14e60a81ecc392e489a772de361c8ff",
+            "romtype": "nightly",
+            "size": 635078629,
+            "url": "https://master.dl.sourceforge.net/project/projectsakura/river/ProjectSakura-VANILLA-2.Q-20200915-0424-river-OFFICIAL.zip",
+            "version": "2.Q"
+        }
+    ]
 }

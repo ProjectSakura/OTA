@@ -1,13 +1,13 @@
 {
-"response": [
-{
- "datetime": "1598691700",
- "filename": "ProjectSakura-GAPPS-2.Q-20200905-1534-joyeuse-OFFICIAL.zip",
- "id": "7d43860ca204d8736b4b0bf7a6a1c822",
- "romtype":"nightly",
- "size": 1186736535,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/joyeuse/ProjectSakura-GAPPS-2.Q-20200905-1534-joyeuse-OFFICIAL.zip",
- "version": "2.Q"
-}
-]
+    "response": [
+        {
+            "datetime": "1598691700",
+            "filename": "ProjectSakura-GAPPS-2.Q-20200905-1534-joyeuse-OFFICIAL.zip",
+            "id": "7d43860ca204d8736b4b0bf7a6a1c822",
+            "romtype": "nightly",
+            "size": 1186736535,
+            "url": "https://master.dl.sourceforge.net/project/projectsakura/joyeuse/ProjectSakura-GAPPS-2.Q-20200905-1534-joyeuse-OFFICIAL.zip",
+            "version": "2.Q"
+        }
+    ]
 }

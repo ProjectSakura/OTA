@@ -1,13 +1,13 @@
 {
-"response": [
-{
-  "datetime":"1589972040",
-  "filename": " ProjectSakura-VANILLA-1.Q-20200520-1255-mido-OFFICIAL.zip ",
-  "id": "38128afba5dbe2333a61e8a83316c8b3",
-  "romtype": "nightly",
-  "size": 675703682,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/Mido/ProjectSakura-VANILLA-1.Q-20200520-1255-mido-OFFICIAL.zip",
-  "version": "1.Q"
-}
-]
+  "response": [
+    {
+      "datetime": "1589972040",
+      "filename": " ProjectSakura-VANILLA-1.Q-20200520-1255-mido-OFFICIAL.zip ",
+      "id": "38128afba5dbe2333a61e8a83316c8b3",
+      "romtype": "nightly",
+      "size": 675703682,
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/Mido/ProjectSakura-VANILLA-1.Q-20200520-1255-mido-OFFICIAL.zip",
+      "version": "1.Q"
+    }
+  ]
 }

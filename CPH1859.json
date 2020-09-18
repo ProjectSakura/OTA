@@ -1,14 +1,13 @@
 {
-"response": [
-{
-  "datetime": "1600242926",
-  "filename": "ProjectSakura-VANILLA-2.Q-20200916-0755-CPH1859-OFFICIAL.zip",
-  "id": "aeb469570f2ea26b2dbcb219b6c9c5e9",
-  "romtype": "nightly",
-  "size": 651811428,
-  "url": "https://master.dl.sourceforge.net/project/projectsakura/CPH1859/ProjectSakura-VANILLA-2.Q-20200916-0755-CPH1859-OFFICIAL.zip",
-  "version": "2.Q"
-
-}
-]
+  "response": [
+    {
+      "datetime": "1600242926",
+      "filename": "ProjectSakura-VANILLA-2.Q-20200916-0755-CPH1859-OFFICIAL.zip",
+      "id": "aeb469570f2ea26b2dbcb219b6c9c5e9",
+      "romtype": "nightly",
+      "size": 651811428,
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/CPH1859/ProjectSakura-VANILLA-2.Q-20200916-0755-CPH1859-OFFICIAL.zip",
+      "version": "2.Q"
+    }
+  ]
 }
