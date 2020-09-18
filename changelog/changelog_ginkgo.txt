@@ -3,12 +3,6 @@ Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Amartya (wtfyuki)
 
-==== 2020-01-09 =====
--Changed corner content padding to 16dp
--Reduced keyboard tap vibration intensity
--Enabled Auto-Brightness 
--Kanged dexpreopt bits from OnePlus 7 tree
--Removed Jelly, Gallery2 and Eleven (you guys can now install whatever app you want)
--Removed AudioFX and XiaomiParts
--Fixed Smart Charging
--Added Moto Dolby
+==== 2020-18-09 =====
+-Switched to Adi's trees
+
