@@ -3,6 +3,12 @@ Build type: Monthly
 Device: Redmi Note 9 Pro (joyeuse)
 Device maintainer: Anggit Febriantoro (a9ito)
 
-==== 2020-09-05 =====
-- Initial Official Build
-- Redefined Gapps
+==== 2020-09-22 =====
++ Merged September Patch
++ Sakura Source Optimization and Fixes
++ CTS Pass
++ Some Under Hood Device-sided Optimization
++ Added Face Unlock
+
+Bugs :
+- Sakura Launcher Forced Close ( use launcher magisk module or any apk as you have from you own )
