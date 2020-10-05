@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1601069289",
- "filename": "ProjectSakura-GAPPS-2.Q-20200925-2331-marlin-OFFICIAL.zip",
- "id": "9f3a913f5bc48d17f6793daee5a086f6",
+ "filename": "ProjectSakura-GAPPS-2.Q-20201005-2257-marlin-OFFICIAL.zip",
+ "id": "e9747fe7133f7021de77f3d504b22bd1",
  "romtype":"nightly",
- "size": 787129698,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/marlin/ProjectSakura-GAPPS-2.Q-20200925-2331-marlin-OFFICIAL.zip",
+ "size": 813416273,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/marlin/ProjectSakura-GAPPS-2.Q-20201005-2257-marlin-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
