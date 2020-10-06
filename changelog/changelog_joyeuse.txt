@@ -3,12 +3,21 @@ Build type: Monthly
 Device: Redmi Note 9 Pro (joyeuse)
 Device maintainer: Anggit Febriantoro (a9ito)
 
-==== 2020-09-22 =====
-+ Merged September Patch
-+ Sakura Source Optimization and Fixes
-+ CTS Pass
-+ Some Under Hood Device-sided Optimization
-+ Added Face Unlock
+==== 2020-10-06 =====
+!!!DISCLAIMER!!!
+PLEASE MAKE A CLEAN INSTALL WHILE INSTALLING, ANY BUGS OR ERROR ENCOUNTERED CAN'T BE TOLERATED IF YOU DO DIRTY FLASH OR OTHER THING!
 
-Bugs :
-- Sakura Launcher Forced Close ( use launcher magisk module or any apk as you have from you own )
+Device Changelog :
++ Switching to new trees, thanks to @Kry9toN
++ Fixed Random Reboot
++ Improved Battery
++ Fixed AudioFX
++ Fixed Launcher
++ Fixed DT2W and DT2S
++ All function now works (WiFi, Bluetooth, Hotspot, NFC, Sound, and Camera)
++ upstreamed Kernel to 4.14.200 Based on ProjectThankYou-BLC-1.1+
++ Fixed USB Tethering
+
+Device Bug :
+- Playstore Uncertified (Fixed by flashing Magisk v20.4 or v21)
+- FastCharging not work (Can use Gengchao FastCharging Magisk Module, pick 3k mAh or 5k mAh option)
