@@ -8,3 +8,9 @@ Device maintainer: Haridhayal
 
 ===== 2020-09-16=====
 - September Security Patch
+
+===== 2020-10-13=====
+- Fixed NFC on european varient
+- Fixed low speaker sound
+- Fixed Incorrect video length(video gets lengthened by the exact amount of time that the phone was in deepsleep)
+- Enabled GloveMode by default (increases touch sensitivity)
