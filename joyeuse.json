@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1601979475",
- "filename": "ProjectSakura-VANILLA-2.Q-20201006-1718-joyeuse-OFFICIAL.zip",
- "id": "6e7ca062c79b43943a04ad3cfc8192d4",
+ "datetime": "1602850240",
+ "filename": "ProjectSakura-VANILLA-2.Q-20201016-1211-joyeuse-OFFICIAL.zip",
+ "id": "2470bba96b175e75297119bd01de864c",
  "romtype":"nightly",
- "size": 1074288120,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/joyeuse/ProjectSakura-VANILLA-2.Q-20201006-1718-joyeuse-OFFICIAL.zip",
+ "size": 1046871218,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/joyeuse/ProjectSakura-VANILLA-2.Q-20201016-1211-joyeuse-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
