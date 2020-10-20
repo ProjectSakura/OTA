@@ -3,7 +3,12 @@ Build type: Monthly
 Device: Meizu 16X (m1872)
 Device maintainer: Alex (c0nfid)
 
-===== 2020-08-08=====
+===== 2020-20-10=====
+- m1872  : Update on new Sakura
+- m1872  : Fixed corners
+- m1872  : Add GCam for stock.
+
+===== 2020-09-09=====
 - m1872  : Add three FOD color
 - m1872  : Update on new sources Sakura
 - m1872  : Add flash animation by TRANSAERO21 (http:/github.com/transaero21/)
