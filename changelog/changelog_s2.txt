@@ -3,6 +3,36 @@ Build type: Monthly
 Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 
-==== 2020-09-16 =====
+==== 2020-11-05 =====
 - Source Sync
-- September security patch
+- Launcher - Lawnchair 
+s2: Disable DiscoveryService/NearbyMessagingService
+s2: Remove BUILD_UTC_DATE
+Revert "s2: Create system copy of ims-ext-common and add to classpath"
+s2: Add AOSP RCS packages
+s2: Decrease the volume of the earpiece
+s2: use 64bit dex2oat for better dexopt time
+s2: Correct define libinit variable
+s2: Fix imsrcsd crash
+s2: Use Soong namespace to avoid device build conflicts
+s2: Set OpenGL Skia as default renderer
+s2: Enable USAP
+s2: overlay: Use Cloudflare DNS servers as hints
+s2: overlay: Disable UI touch sounds by defaul
+s2: Enable adaptive sleep
+s2: fix error sending auth token to KeyStore
+s2: rootdir: Clear settings cache after dirty flash
+s2: ro.ril.enable.amr.wideband
+s2: Limit hotspot to 10 devices
+s2: overlay: Show rsrp signal level
+s2: Telephony: Add support for 2 digit normal dialing numbers
+s2: Add support for 32/48KHz voip
+s2: Disable Bluetooth by default
+s2: Enable USB debugging on boot
+s2: Enable Seamless Transfer
+s2: Improving the sound of the earpiece
+s2: overlay: VIBRATE_WHEN_RINGING & APPLY_RAMPING_RINGER
+s2: overlay: Add some overlays
+s2: devicesettings: Add Russian translation for LeEco Settings
+s2: Disable VSync for CPU rendered apps
+s2: overlay: Enable VoLTE/VoWIFI for all indian cariers 
