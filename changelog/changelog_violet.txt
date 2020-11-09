@@ -3,3 +3,6 @@ Build type: Monthly
 Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Versio: 11
+
+==== 2020-09-11 =====
+- intital Android R release
