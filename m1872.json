@@ -1,13 +1,15 @@
 {
 "response": [
 {
- "datetime": "1603130720",
- "filename": "ProjectSakura-GAPPS-2.Q-20201020-0959-m1872-OFFICIAL.zip",
- "id": "35575bcef8991d138c481e01f8ddfb1a",
+ "datetime": "1604142823",
+ "filename": "ProjectSakura-GAPPS-2.Q-20201031-1115-m1872-OFFICIAL.zip",
+ "id": "e1e4baa4752e3d8dd04acc4ed46934c9",
  "romtype":"nightly",
- "size": 1175876287,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/m1872/ProjectSakura-GAPPS-2.Q-20201020-0959-m1872-OFFICIAL.zip",
+ "size": 1192301467,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/m1872/ProjectSakura-GAPPS-2.Q-20201031-1115-m1872-OFFICIAL.zip",
  "version": "2.Q"
 }
 ]
 }
+ 
+
