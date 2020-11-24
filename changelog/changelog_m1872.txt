@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Meizu 16X (m1872)
 Device maintainer: Alex (c0nfid)
 
+===== 2020-21-11=====
+- m1872  : Delete AudioFX
+- m1872  : Delete Lawnchair
+
 ===== 2020-20-10=====
 - m1872  : Update on new Sakura
 - m1872  : Fixed corners
@@ -17,3 +21,4 @@ Device maintainer: Alex (c0nfid)
 - m1872  : Initial build
 - m1872  : Sakura face unlock has been added
 - sakura : Enable additional FOD recognizing animation effects & custom FOD icons
+
