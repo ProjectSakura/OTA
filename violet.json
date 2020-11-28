@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1604930004",
- "filename": "ProjectSakura-3.R-20201109-1355-violet-OFFICIAL-BETA.zip",
- "id": "e1529d01019d439c37bca1f40d66bf96",
+ "datetime": "1606573363",
+ "filename": "ProjectSakura-3.R.BETA-2-GAPPS-20201128-1422-violet-OFFICIAL.zip",
+ "id": "c078434b6f88871d856b3b68c69819d5",
  "romtype": "nightly",
- "size": 912237988,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-3.R-20201109-1355-violet-OFFICIAL-BETA.zip",
+ "size": 1491069815,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-3.R.BETA-2-GAPPS-20201128-1422-violet-OFFICIAL.zip",
  "version": "3.R"
 }
 ]
