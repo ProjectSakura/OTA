@@ -2,7 +2,18 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
-Android Versio: 11
+Android Version: 11
+
+==== 2020-27-11 =====
+- encrypted build
+- selinux: enforcing
+- dolby is back
+- tuned audio
+- better haptics
+- fixed smart charging
+- fixed audio distortion
+- enabled fps overlay
+- fixed slow hotspot
 
 ==== 2020-09-11 =====
 - intital Android R release
