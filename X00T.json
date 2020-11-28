@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1604984688",
- "filename": "ProjectSakura-3.R-20201110-0604-X00T-OFFICIAL-BETA.zip",
- "id": "be1f51b354b892ec8b850ddfe0f3bd46",
+ "datetime": "1606559451",
+ "filename": "ProjectSakura-3.R.BETA-2-GAPPS-20201128-1132-X00T-OFFICIAL.zip",
+ "id": "77274e1971e67e64184445bd0022376b",
  "romtype":"nightly",
- "size": 733581691,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-3.R-20201110-0604-X00T-OFFICIAL-BETA.zip",
+ "size": 1012310097,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-3.R.BETA-2-GAPPS-20201128-1132-X00T-OFFICIAL.zip",
  "version": "3.R"
 }
 ]
