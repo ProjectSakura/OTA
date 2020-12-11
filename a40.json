@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1605987005",
- "filename": "ProjectSakura-3.R-20201122-0101-a40-OFFICIAL-BETA.zip",
- "id": "ffa39041b5839ad2dfffe7fce9360370",
+ "datetime": "1607659953",
+ "filename": "ProjectSakura-3.R.BETA3-VANILLA-20201211-0415-a40-OFFICIAL.zip",
+ "id": "5aa4eaa7547f7a50ce02cc7f4a983cd0",
  "romtype":"nightly",
- "size": 622178040,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/a40/ProjectSakura-3.R-20201122-0101-a40-OFFICIAL-BETA.zip",
+ "size": 654260394,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a40/ProjectSakura-3.R.BETA3-VANILLA-20201211-0415-a40-OFFICIAL.zip",
  "version": "3.R"
 }
 ]

@@ -6,3 +6,8 @@ Android Versio: 11
 
 ==== 2020-11-22 =====
 - Intital Android R release
+
+==== 2020-12-11 =====
+- Fixed Fingerprint authentication in third party apps
+- Fixed Browser crashes
+- Fixed Brightness Slider
