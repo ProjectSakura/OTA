@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 8 Pro (begonia)
+Device maintainer: Himanshu
+Android Version: 11
+
+==== 2020-12-10 =====
+- Initial Official Build
+- Added Face Unlock
+- Kernel upstream to linux 4.14.211+
+- Added Xiaomi Parts
+- Added Engineering Mode
+- Fixed CPU offline status
+- Fixed SystemUI freezing
+- Safetynet (CTS) true by magisk hide.
