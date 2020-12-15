@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 1 (CPH1859/CPH1861)
+Device maintainer: JAISHNAVPRASAD
+Android Version: 11
+
+==== 2020-12-15 =====
+- Android R release
+- Fixed volte (on boot)
+- Modified brightness values
+- Modified vibration patterns
+- Disabled HW Overlays by default
+- Perfomance tweaks
+- Make QKMS as default messaging app
+- Inbuilt AlienKernel
+- November Security patch
+
