@@ -4,6 +4,14 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2020-15-12 =====
+- builds are signed with private keys so clean flash necessary
+- fixed dolby crashes
+- fixed random youtube and similar crashes
+- fixed wifi issues
+- fixed root being detected for some apps
+- blur is back. find it in dev options
+
 ==== 2020-27-11 =====
 - encrypted build
 - selinux: enforcing
