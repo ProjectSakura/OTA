@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: LeEco Le 2 (s2)
+Device maintainer: CakesTwix
+Android Version: 11 
+
+==== 2020-12-19 =====
+- Android R release
+- November Security patch
