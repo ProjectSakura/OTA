@@ -4,6 +4,13 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2020-21-12 =====
+- improved app opening speed
+- gcam is inbuilt
+- fixed OTA. future builds can use OTA
+- improved wifi range a little
+- improved boot times
+
 ==== 2020-15-12 =====
 - builds are signed with private keys so clean flash necessary
 - fixed dolby crashes
