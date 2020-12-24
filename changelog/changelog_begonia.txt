@@ -13,3 +13,13 @@ Android Version: 11
 - Fixed CPU offline status
 - Fixed SystemUI freezing
 - Safetynet (CTS) true by magisk hide.
+
+===== 2020-12-24 =====
+- Kernel Upstream to v4.14.212+
+- Prebuilt ANXCamera (MIUI Camera Port)
+- Dropped ims blobs from bomb RP1A.200720.01
+- Removed Xiaomi Parts
+- Updated camera {aux, priv-app} list
+- Switched to OSS IMS & VT Service
+- little misc changes.
+
