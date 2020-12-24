@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1607860364",
- "filename": "ProjectSakura-3.R.BETA3-VANILLA-20201213-1152-begonia-OFFICIAL.zip",
- "id": "967b5a9790d8f74de4ef77c901f8859e",
+ "datetime": "1608789604",
+ "filename": "ProjectSakura-3.R.BETA3-VANILLA-20201224-0600-begonia-OFFICIAL.zip",
+ "id": "1a5b5dc6089766715d3d33be99bea37d",
  "romtype":"nightly",
- "size": 736332387,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-3.R.BETA3-VANILLA-20201213-1152-begonia-OFFICIAL.zip",
+ "size": 957042614,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-3.R.BETA3-VANILLA-20201224-0600-begonia-OFFICIAL.zip",
  "version": "3.R"
 }
 ]
