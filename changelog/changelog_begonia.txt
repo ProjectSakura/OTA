@@ -23,3 +23,6 @@ Android Version: 11
 - Switched to OSS IMS & VT Service
 - little misc changes.
 
+==== 2020-12-29 =====
+- 4.R Update based on Lineage 18.1
+- CTS true by default
