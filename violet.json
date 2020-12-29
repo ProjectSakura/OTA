@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1608555972",
- "filename": "ProjectSakura-3.R.BETA3-GAPPS-20201221-1306-violet-OFFICIAL.zip",
- "id": "70e0c80c662f94d868800c7fdf101320",
+ "datetime": "1609241633",
+ "filename": "ProjectSakura-4.R-GAPPS-20201229-1133-violet-OFFICIAL.zip",
+ "id": "9f30fb4e21ee8fead4ef6c16dfca2c68",
  "romtype": "nightly",
- "size": 1445867535,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-3.R.BETA3-GAPPS-20201221-1306-violet-OFFICIAL.zip",
- "version": "3.R"
+ "size": 1446465252,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-4.R-GAPPS-20201229-1133-violet-OFFICIAL.zip",
+ "version": "4.R"
 }
 ]
 }
