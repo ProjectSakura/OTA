@@ -2,7 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Samsung Galaxy A30 (a30)
 Device maintainer: Haridhayal
-Android Versio: 11
+Android Version: 11
 
 ==== 2020-11-22 =====
 - Intital Android R release
@@ -11,3 +11,8 @@ Android Versio: 11
 - Fixed Fingerprint authentication in third party apps
 - Fixed Browser crashes
 - Fixed Brightness Slider
+
+==== 2020-12-29 =====
+- 4.R Update based on Lineage 18.1
+- Fixed Statusbar settings crash
+- Fixed Video flicker issue
