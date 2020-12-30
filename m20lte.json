@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1607655425",
- "filename": "ProjectSakura-3.R.BETA3-VANILLA-20201211-0259-m20lte-OFFICIAL.zip",
- "id": "5d9cf26e294a6921c919d85b9328a063",
+ "datetime": "1609220422",
+ "filename": "ProjectSakura-4.R-VANILLA-20201229-1112-m20lte-OFFICIAL.zip",
+ "id": "807f8ac29a58f21d35944b3747cb1017",
  "romtype":"nightly",
- "size": 650741624,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/m20lte/ProjectSakura-3.R.BETA3-VANILLA-20201211-0259-m20lte-OFFICIAL.zip",
- "version": "3.R"
+ "size": 658316465,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/m20lte/ProjectSakura-4.R-VANILLA-20201229-1112-m20lte-OFFICIAL.zip",
+ "version": "4.R"
 }
 ]
 }
