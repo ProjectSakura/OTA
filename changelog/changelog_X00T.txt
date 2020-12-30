@@ -4,6 +4,15 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+30 December 2020
+
+- Clean flash needed
+- Firmware latest
+- SELinux enforced
+- Hotspot will only work unprotected for now
+- NFC maybe fixed (don't have hardware to test)
+- Internal Audio recording while screenrecording is fixed
+
 29 November 2020
 
 - Fixed hotspot issues.
