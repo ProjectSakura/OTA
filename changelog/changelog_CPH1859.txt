@@ -15,3 +15,6 @@ Android Version: 11
 - Inbuilt AlienKernel
 - November Security patch
 
+==== 2020-12-15 =====
+- Descember security patch
+- 4.R release
