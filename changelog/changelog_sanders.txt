@@ -1,0 +1,16 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Moto G5S Plus (sanders)
+Device maintainer: ArmSM
+Android Version: 11
+
+==== 2021-01-01 =====
+- Initial Android R release
+- sanders : Enable updatable APEX
+- sanders : Compile hwui for better performance
+- sanders : Switch to Audio HAL V6
+- sanders : Disable Lineage recovery updates
+- sanders : Enable Leagacy audio policy
+- sanders : Tune zram performance
+=================================
+Security Patch : 5 December 2020
