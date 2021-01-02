@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 6X (wayne)
+Device maintainer: Lokodetoddyn
+Android Version: 11
+
+==== 29/12/2020 ====
+- Initial Android R Release
+- Swiched to EAS tree
+- Optimized battery compsume in EAS base
