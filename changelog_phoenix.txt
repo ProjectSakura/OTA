@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco X2 (Phoenix)
+Device maintainer: Shivam
+Android Version: 11 
+
+==== 2021-1-18 =====
+- Initial official release
+- Added ANX Camera
+- Updated sunfish fp to January
