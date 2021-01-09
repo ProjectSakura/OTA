@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1609255540",
- "filename": "ProjectSakura-4.R-VANILLA-20201229-1525-begonia-OFFICIAL.zip",
- "id": "b0ab5fd4141d7123460c45dd4db815b6",
+ "datetime": "1610202500",
+ "filename": "ProjectSakura-4.R-VANILLA-20210109-1428-begonia-OFFICIAL.zip",
+ "id": "fe676d8097ad9f75dcc3dd98190c2034",
  "romtype":"nightly",
- "size": 962099919,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-4.R-VANILLA-20201229-1525-begonia-OFFICIAL.zip",
+ "size": 972642598,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-4.R-VANILLA-20210109-1428-begonia-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
