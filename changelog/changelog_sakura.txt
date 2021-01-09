@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 6 Pro (Sakura)
+Device maintainer: Alex
+Android Version: 11
+
+==== 2020-11-22 =====
+- Import QTI telephony jar from LA.UM.9.6.2.r1-03300-89xx.0
+- Drop Xiaomi Parts
+- Update to redfin Jan Patch
+- Cleanup some GPS properities
