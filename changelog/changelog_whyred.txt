@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 5 Pro (whyred)
+Device maintainer: Sipun Ku Mahanta (Darkstar085)
+Android Version: 11
+
+======= 09 January 2021 ========
+
+- Initial Eleven Based Release
