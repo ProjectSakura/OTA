@@ -26,3 +26,9 @@ Android Version: 11
 ==== 2020-12-29 =====
 - 4.R Update based on Lineage 18.1
 - CTS true by default
+
+==== 2021-01-09 =====
+- Synced with latest source changes
+- January Secuity Patch
+- Updated Xiaomi Parts
+- Fix ANXCam 64MP
