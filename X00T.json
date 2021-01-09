@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1609317299",
- "filename": "ProjectSakura-4.R-VANILLA-20201230-0935-X00T-OFFICIAL.zip",
- "id": "8538a7f8219b90359885ac2d97cf147f",
+ "datetime": "1610026260",
+ "filename": "ProjectSakura-4.R-VANILLA-20210107-1431-X00T-OFFICIAL.zip",
+ "id": "c7f256a3df57a50e806f8c495abc73b2",
  "romtype":"nightly",
- "size": 780247831,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-4.R-VANILLA-20201230-0935-X00T-OFFICIAL.zip",
+ "size": 786031461,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-4.R-VANILLA-20210107-1431-X00T-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
