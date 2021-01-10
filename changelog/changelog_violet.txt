@@ -4,6 +4,10 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-10-01 =====
+- fixed lockscreen media notification bugs
+- january security patch merged
+
 ==== 2020-29-12 =====
 - fixed CTS issues. Now CTS will pass without magisk
 - fixed USB tethering
