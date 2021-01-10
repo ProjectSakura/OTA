@@ -16,3 +16,9 @@ Android Version: 11
 - 4.R Update based on Lineage 18.1
 - Fixed Statusbar settings crash
 - Fixed Video flicker issue
+
+==== 2021-01-10 =====
+- Jan Security Patch
+- Fixed Proximity Sensor
+- Enabled double tap to wake on m30, a30, a40
+- OSS Exynos PowerHal (Better Performance & battery life)
