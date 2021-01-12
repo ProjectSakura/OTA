@@ -10,3 +10,9 @@ Android Version: 11
 ==== 2020-12-29 ====
 - 4.R Update based on Lineage 18.1
 - Added blur by default
+
+==== 2021-01-09 ====
+- New Sakura features
+- Improve FOD working
+- Fix IR
+- HDR support
