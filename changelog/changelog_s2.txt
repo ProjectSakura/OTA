@@ -4,6 +4,8 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-01-12 =====
+- January Security patch
 ==== 2021-01-02 =====
 - Drop QTI BT Stack
 - Русский перевод настроек (Russian translation of settings)

@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1609598085",
- "filename": "ProjectSakura-4.R-VANILLA-20210102-1634-s2-OFFICIAL.zip",
- "id": "3a70929a276def35bc2c4a0bf1d28db6",
+ "datetime": "1610381544",
+ "filename": "ProjectSakura-4.R-VANILLA-20210111-1812-s2-OFFICIAL.zip",
+ "id": "296a9f7f83409876b3f335696413de56",
  "romtype":"Monthly",
- "size": 726032872,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-4.R-VANILLA-20210102-1634-s2-OFFICIAL.zip",
+ "size": 732182919,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-4.R-VANILLA-20210111-1812-s2-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
