@@ -4,5 +4,9 @@ Device: Xiaomi Redmi Note 9 S/Pro/Pro Max (miatoll)
 Device maintainer: a9ito
 Android Version: 11
 
+==== 2021-01-14 ====
+- Added Decryption for Data
+- CTS Fixed
+
 ==== 2020-11-22 =====
 - Intital Android R release
