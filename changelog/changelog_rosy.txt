@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 5 (rosy)
+Device maintainer: Shriiyansh Pandey (shriiyansh_210)
+Android Version: 11
+
+==== 2021-01-15 ====
+- Initial Official Release
