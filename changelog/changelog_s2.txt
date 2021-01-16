@@ -4,6 +4,12 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-01-16 =====
+- FIXED ECHO!
+Thanks to @tImIBreakdown, @wladislv, @alexander_baransky496,
+@BIONICLElover
+- The sound is adjustable during calls
+- Fixed adb
 ==== 2021-01-12 =====
 - January Security patch
 ==== 2021-01-02 =====
