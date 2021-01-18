@@ -1,12 +1,12 @@
 {
     "response": [
     {
-     "datetime": "1610180945",
-     "filename": "ProjectSakura-4.R-VANILLA-20210109-1401-whyred-OFFICIAL.zip",
-     "id": "951fb4ce8df09f37106e0a51b8adf5c5",
+     "datetime": "1610968591",
+     "filename": "ProjectSakura-4.R-VANILLA-20210118-1648-whyred-OFFICIAL.zip",
+     "id": "63e5cd651bd8474bf0d15e3bc8919571",
      "romtype":"nightly",
-     "size": 818722917,
-     "url": "https://master.dl.sourceforge.net/project/projectsakura/whyred/ProjectSakura-4.R-VANILLA-20210109-1401-whyred-OFFICIAL.zip",
+     "size": 819767662,
+     "url": "https://master.dl.sourceforge.net/project/projectsakura/whyred/ProjectSakura-4.R-VANILLA-20210118-1648-whyred-OFFICIAL.zip",
      "version": "4.R"
     }
     ]
