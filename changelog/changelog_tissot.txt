@@ -1,8 +1,17 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Xiaomi Mi A2 (tissot)
+Device: Xiaomi Mi A1 (tissot)
 Device maintainer: Lokodetoddyn
 Android Version: 11
 
-==== 01/09/2020 ====
+==== 01/09/2021 ====
 - Initial Android R Release
+
+==== 01/18/2021 ====
+- device: Some overlay changes
+- device: Bug Fixed! - Notification and Calling tones in settings
+- msm8953-common: manifest: Remove Trust interface entry
+- msm8953-common: sepolicy: Address iorap_prefetcherd denials
+- msm8953-common: Update Display props 
+- msm8953-common: Revert "msm8953-common: disable blur by default"
+- kernel-msm8953: fixed some bugs
