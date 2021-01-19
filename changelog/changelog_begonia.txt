@@ -32,3 +32,10 @@ Android Version: 11
 - January Secuity Patch
 - Updated Xiaomi Parts
 - Fix ANXCam 64MP
+
+==== 2021-01-19 = ====
+- Initial VNDK30 build
+- Kernel Upstream to linux 4.14.215+
+- Updated FP to Sunfish January
+- Changed Pixel Props to Sunfish RQ1A.201205.002
+- Fixed lockscreen charging info values
