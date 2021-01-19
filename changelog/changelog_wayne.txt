@@ -1,10 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Xiaomi Mi 6X (wayne)
-Device maintainer: Lokodetoddyn
+Device maintainer: Markdarkness
 Android Version: 11
 
-==== 29/12/2020 ====
-- Initial Android R Release
-- Swiched to EAS tree
-- Optimized battery compsume in EAS base
+==== 19/01/2021 ====
+- Initial Build
+- Update perfd from laurel_sprout RKQ1.200903.002-V12.0.3.0
+- Drop thermal profile from xiaomi parts
+- Set default hotspot name (Mi 6X)
+- Use qualcomm Assertive Display Calibration
+- Rearrange thermal config
+- Changed temperature sensors
+- Use full thermal blobs from jasmine V11.0.19.0
