@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1610724694 ",
- "filename": "ProjectSakura-4.R-VANILLA-20210115-2101-rosy-OFFICIAL.zip ",
- "id": "4c7d145689240356a8f5f78d2db954fa",
+ "datetime": "1611140396 ",
+ "filename": "ProjectSakura-4.R-VANILLA-20210120-1630-rosy-OFFICIAL.zip ",
+ "id": "1990447c5dd1200ca98f8834f3253d89",
  "romtype": "nightly",
- "size": 770657356,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/rosy/ProjectSakura-4.R-VANILLA-20210115-2101-rosy-OFFICIAL.zip",
+ "size": 770615647,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/rosy/ProjectSakura-4.R-VANILLA-20210120-1630-rosy-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
