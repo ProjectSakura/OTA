@@ -4,5 +4,11 @@ Device: Xiaomi Redmi 5 (rosy)
 Device maintainer: Shriiyansh Pandey (shriiyansh_210)
 Android Version: 11
 
+===== 2021-1-20 =====
+- fixed wifi and hotspot issues
+- fixed incorrect lockscreen charging ampere
+- fixed CTS (green by default)
+- synced w/ latest Sakura Sources as of 20 Jan 2021
+
 ==== 2021-01-15 ====
 - Initial Official Release
