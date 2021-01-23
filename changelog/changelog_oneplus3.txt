@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 3/3T (Sakura)
+Device maintainer: Deepak Jr.
+Android Version: 11
+
+==== 2021-01-23 =====
+- First official Android 11 release
+- Switched to Bromite system webview
+- Added GCAM 
+- Kernel tweaks and updated to V1.4
