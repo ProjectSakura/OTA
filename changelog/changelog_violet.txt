@@ -4,6 +4,10 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-30-01 =====
+- fixed lockscreen charging stats
+- fixed safetynet
+
 ==== 2021-10-01 =====
 - fixed lockscreen media notification bugs
 - january security patch merged
