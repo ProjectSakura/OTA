@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1610979529",
- "filename": "ProjectSakura-4.R-VANILLA-20210118-1620-tucana-OFFICIAL.zip",
- "id": "47a6bbae2c4af246aa48757703d4ed61",
+ "datetime": "1612622043",
+ "filename": "ProjectSakura-4.R-VANILLA-20210206-1641-tucana-OFFICIAL.zip",
+ "id": "26f3b67087db5fa5ca9153fdf3831bb2",
  "romtype":"nightly",
- "size": 733505719,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-4.R-VANILLA-20210118-1620-tucana-OFFICIAL.zip",
+ "size": 781555235,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-4.R-VANILLA-20210206-1641-tucana-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
