@@ -4,6 +4,11 @@ Device: Xiaomi Redmi Note 9 S/Pro/Pro Max (miatoll)
 Device maintainer: a9ito
 Android Version: 11
 
+==== 2021-02-08 ====
+- Merged February Security Patch
+- Merged Latest Kernel Update to 4.14.215-Etherious-LA.UM.8.9.r1-10900-SM6xx.0
+- Permissive Build
+
 ==== 2021-01-14 ====
 - Added Decryption for Data
 - CTS Fixed
