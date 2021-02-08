@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi 9T (davinci)
+Device maintainer: Gabriel260
+Android Version: 11
+
+==== 2021-02-08 ====
+- Initial Official Release
