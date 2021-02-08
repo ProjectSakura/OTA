@@ -25,5 +25,3 @@ Android Version: 11
 
 ==== 2021-01-10 =====
 - Feb Security Patch
-- Added option to disable fastcharge in battery settings
-- Added Pixel offline charging animation
