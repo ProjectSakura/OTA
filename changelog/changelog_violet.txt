@@ -4,6 +4,10 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-08-02 =====
+- feburary security patch merged
+- enabled 2.4GHz channel bonding on wifi
+
 ==== 2021-30-01 =====
 - fixed lockscreen charging stats
 - fixed safetynet
