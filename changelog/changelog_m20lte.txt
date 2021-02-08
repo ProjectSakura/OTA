@@ -22,3 +22,8 @@ Android Version: 11
 - Fixed Proximity Sensor
 - Enabled double tap to wake on m30, a30, a40
 - OSS Exynos PowerHal (Better Performance & battery life)
+
+==== 2021-01-10 =====
+- Feb Security Patch
+- Added option to disable fastcharge in battery settings
+- Added Pixel offline charging animation
