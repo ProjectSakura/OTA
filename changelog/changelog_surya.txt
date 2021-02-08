@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco X3 (surya)
+Device maintainer: Agus ( nubpeeps01 )
+Android Version: 11 
+
+
+===== 2021-02-08 =====
+- initial Official build
+- Feb Security Patch
+- Fix scrolling issues when touching fingerprint sensor
