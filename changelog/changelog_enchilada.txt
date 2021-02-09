@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 6 (enchilada)
+Device maintainer: Zahid M
+Android Version: 11
+
+====09/02/2021====
+- Initial Official Release
