@@ -4,12 +4,25 @@ Device: Xiaomi Mi 6X (wayne)
 Device maintainer: Markdarkness
 Android Version: 11
 
-==== 19/01/2021 ====
-- Initial Build
-- Update perfd from laurel_sprout RKQ1.200903.002-V12.0.3.0
-- Drop thermal profile from xiaomi parts
-- Set default hotspot name (Mi 6X)
-- Use qualcomm Assertive Display Calibration
-- Rearrange thermal config
-- Changed temperature sensors
-- Use full thermal blobs from jasmine V11.0.19.0
+==== 08/02/2021 ====
+Update WFD and Time services blobs from LA.UM.9.6.2.r1-02500
+Regenerate and fixup permission for some blobs
+Drop thermal profile from DeviceParts
+Use gps from device
+Drop Lineage AudioFX
+Add MusicFX from Google - 1.4 on September 8, 2020 (Android 11)
+Add missing radio blobs
+Update same blobs from jasmine V11.0.20.0
+[Audio,Audio FX modules,DRM (Widevine),Keymaster,Sensors,Common Camera]
+Add 3.0 and 4.0 IMapper instance to manifest 
+Use QCOM_WLAN HAL instead of AOSP
+Update media_codecs_performance from LA.UM.9.2.r1-02000
+Import Hotword Enrollment blobs
+Checkout rootdir and init stuffs from caf
+Remove unused gps certificates
+Remove unused entries from config.fs
+Regenerated GPS blobs from LA.UM.8.2.r1-07400-sdm660.0
+Cleanup Vendor
+Thermal Conf modified by me
+Bump kernel HALCYON to v3.6
+Merge tag 'v4.4.256' into eas
