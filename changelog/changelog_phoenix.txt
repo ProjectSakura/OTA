@@ -4,6 +4,13 @@ Device: Poco X2 (Phoenix)
 Device maintainer: Shivam
 Android Version: 11 
 
+==== 2021-2-10 =====
+- Feb security patch.
+- Added GcamGo and dropped ANX.
+- Added oxygen os launcher.
+- Fixed thermal profiles.
+- synced with latest project sakura sources.
+
 ==== 2021-1-18 =====
 - Initial official release
 - Added ANX Camera
