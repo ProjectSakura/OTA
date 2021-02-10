@@ -4,6 +4,10 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-02-10 =====
+- Stock Launcher -> OPLauncher
+- Updated DRM
+Should help with crashes to Google Chrome [Test]
 ==== 2021-01-16 =====
 - FIXED ECHO!
 Thanks to @tImIBreakdown, @wladislv, @alexander_baransky496,
