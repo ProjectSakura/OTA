@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 6 (RMX2001)
+Device maintainer: Tanmay
+Android Version: 11
+
+==== 2021-02-11 ====
+- Initial Official Release
