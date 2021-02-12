@@ -6,3 +6,11 @@ Android Version: 11
 
 ====09/02/2021====
 - Initial Official Release
+
+====12/02/2021====
+- Stable changes to enhance battery backup
+- Devicesettings bumped up to 4.0
+- Bumped up kernel to 4.9.251
+- Drop Proton clang for now
+- Add high viberation warning
+- Drop touch gestures

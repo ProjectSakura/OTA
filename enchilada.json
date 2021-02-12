@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1612881026",
- "filename": "ProjectSakura-4.R-VANILLA-20210209-1430-enchilada-OFFICIAL.zip",
- "id": "5b540cf3b960c613759df7a58ee77b32",
+ "datetime": "1613158881",
+ "filename": "ProjectSakura-4.R-VANILLA-20210212-1941-enchilada-OFFICIAL.zip",
+ "id": "521c94b2f7e9c5d20437964a9f1dc324",
  "romtype":"nightly",
- "size": 773601758,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/enchilada/ProjectSakura-4.R-VANILLA-20210209-1430-enchilada-OFFICIAL.zip",
+ "size": 809446855,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/enchilada/ProjectSakura-4.R-VANILLA-20210212-1941-enchilada-OFFICIAL.zip",
  "version": "4.R"
 }
 ]
