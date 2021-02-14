@@ -19,3 +19,4 @@ Create and symlink a dummy /metadata/apex
 Cleanup dead targets 
 Drop non-functional soundtrigger
 Checkout rootdir and init stuffs from caf
+performance improvement
