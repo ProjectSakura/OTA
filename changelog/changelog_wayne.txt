@@ -4,25 +4,18 @@ Device: Xiaomi Mi 6X (wayne)
 Device maintainer: Markdarkness
 Android Version: 11
 
-==== 08/02/2021 ====
-Update WFD and Time services blobs from LA.UM.9.6.2.r1-02500
-Regenerate and fixup permission for some blobs
-Drop thermal profile from DeviceParts
-Use gps from device
-Drop Lineage AudioFX
-Add MusicFX from Google - 1.4 on September 8, 2020 (Android 11)
-Add missing radio blobs
-Update same blobs from jasmine V11.0.20.0
-[Audio,Audio FX modules,DRM (Widevine),Keymaster,Sensors,Common Camera]
-Add 3.0 and 4.0 IMapper instance to manifest 
-Use QCOM_WLAN HAL instead of AOSP
-Update media_codecs_performance from LA.UM.9.2.r1-02000
-Import Hotword Enrollment blobs
+==== 14/02/2021 ====
+Set opengl renderer (Fix playing videos and strory on instagram)
+Drop Hotword Enrollment blobs
+Fix broken google to access storage
+Cleanup GPS blobs
+Allow system permission for RPS sysfs node
+Add permissions to /dev/membuf 
+Configure SQLite to operate in MEMORY mode
+Enable fluence voice recording
+Add 2 instance support for record_24
+Drop sched_enable_hmp/power_aware boot argument
+Create and symlink a dummy /metadata/apex
+Cleanup dead targets 
+Drop non-functional soundtrigger
 Checkout rootdir and init stuffs from caf
-Remove unused gps certificates
-Remove unused entries from config.fs
-Regenerated GPS blobs from LA.UM.8.2.r1-07400-sdm660.0
-Cleanup Vendor
-Thermal Conf modified by me
-Bump kernel HALCYON to v3.6
-Merge tag 'v4.4.256' into eas
