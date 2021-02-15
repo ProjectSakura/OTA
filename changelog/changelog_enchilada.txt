@@ -5,4 +5,4 @@ Device maintainer: eduardo
 Android Version: 11
 
 ====12/02/2021====
-- Initial Official Release
+- Small Update of Official Release
