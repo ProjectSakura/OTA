@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi 10i 5G | Mi 10T Lite (gauguin)
+Device maintainers: Prajwal & Nitish
+Android Version: 11
+
+==== 2021-17-02 =====
+- initial A11 build
