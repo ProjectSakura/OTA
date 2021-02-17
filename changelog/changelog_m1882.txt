@@ -9,3 +9,7 @@ Android Version: 11
 - Intital Android R release
 - Moto Dolby Digital Plus™ added
 - Meizu adapt fastcharging
+
+==== 2020-02-16 =====
+- Change default notification & ringtone sound 
+- Fix dolby crashing
