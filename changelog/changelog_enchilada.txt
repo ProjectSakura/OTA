@@ -6,3 +6,7 @@ Android Version: 11
 
 ====17/02/2021====
 - change to Shapeshift kernel
+
+
+
+
