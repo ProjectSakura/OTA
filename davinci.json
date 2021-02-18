@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1613372233 ",
- "filename": "ProjectSakura-4.R-VANILLA-20210214-2139-davinci-OFFICIAL.zip ",
- "id": "407c9d50eaf6a6190dd13ba354f69426",
+ "datetime": "1613644393 ",
+ "filename": "ProjectSakura-4.R-VANILLA-20210217-2222-davinci-OFFICIAL.zip ",
+ "id": "7276dd6dfe058f4ec60565c9a8ca4d27",
  "romtype": "nightly",
- "size": 1052304333,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/davinci/ProjectSakura-4.R-VANILLA-20210214-2139-davinci-OFFICIAL.zip",
+ "size": 1068587300,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/davinci/ProjectSakura-4.R-VANILLA-20210217-2222-davinci-OFFICIAL.zip",
  "version": "4.R"
 }
 ]

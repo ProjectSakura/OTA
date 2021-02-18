@@ -4,6 +4,15 @@ Device: Xiaomi Mi 9T (davinci)
 Device maintainer: Gabriel260
 Android Version: 11
 
+==== 2021-02-18 ====
+Switched to libperfmgr power hal
+Added battery health overlay
+Added Anti burn-in feature
+Gestures are set by default (can be changed in settings)
+Updated audio input sampling rates
+Fixed all calls issues and switched to google dialer
+Compiled kernel with -O3 flag for better performance
+Other fixes and improvements
 ==== 2021-02-15 ====
 Added OPLauncher
 Fixed Recents bug
