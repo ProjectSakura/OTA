@@ -4,5 +4,5 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
-====13/02/2021====
-- Small Update of Official Release
+====17/02/2021====
+- change to Shapeshift kernel
