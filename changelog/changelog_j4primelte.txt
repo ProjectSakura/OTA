@@ -4,5 +4,8 @@ Device: Samsung Galaxy J4+ (j4primelte)
 Device maintainer: Gabriel260
 Android Version: 11
 
+==== 2021-02-21 ====
+- Fixed FPS info
+- Other fixes and improvements
 ==== 2021-02-16 ====
 - Initial Official Release
