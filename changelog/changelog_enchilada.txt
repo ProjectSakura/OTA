@@ -4,19 +4,10 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c5fc02d638d85c866877be3c9400757041553c14
 ====21/02/2021====
 - added OPFile manager
 
 ====17/02/2021====
 - change to Shapeshift kernel
-<<<<<<< HEAD
 
-
-
-
-=======
->>>>>>> c5fc02d638d85c866877be3c9400757041553c14
