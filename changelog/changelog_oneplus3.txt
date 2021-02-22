@@ -9,3 +9,8 @@ Android Version: 11
 - Switched to Bromite system webview
 - Added GCAM 
 - Kernel tweaks and updated to V1.4
+
+==== 2021-02-16 =====
+- Rebased LOS kernel
+- Switched to enforcing builds
+- Added OPGallery and App warden
