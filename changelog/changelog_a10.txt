@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy A10 (a10)
+Device maintainer: Chatur
+Android Version: 11
+
+==== 2021-03-03 ====
+- Initial Official Release
