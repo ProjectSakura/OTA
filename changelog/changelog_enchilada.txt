@@ -4,6 +4,10 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
+====03/03/21====
+- introducing Apokolyps kernel
+- fixes dc dimming and vibration strength
+- corrected smart charging 
 
 ====21/02/2021====
 - added OPFile manager
