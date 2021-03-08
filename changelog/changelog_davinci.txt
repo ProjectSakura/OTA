@@ -4,6 +4,8 @@ Device: Xiaomi Mi 9T (davinci)
 Device maintainer: Gabriel260
 Android Version: 11
 
+==== 2021-03-08 ====
+5.R Update
 ==== 2021-02-18 ====
 Switched to libperfmgr power hal
 Added battery health overlay
