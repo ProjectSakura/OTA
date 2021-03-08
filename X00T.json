@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1612696405",
- "filename": "ProjectSakura-4.R-VANILLA-20210207-1213-X00T-OFFICIAL.zip",
- "id": "ffb4fa88d7aa402ed351150b055d6ff3",
+ "datetime": "1615192006",
+ "filename": "ProjectSakura-5.R-GAPPS-20210308-0927-X00T-OFFICIAL.zip",
+ "id": "91d22187821a513447caef7284f349e2",
  "romtype":"nightly",
- "size": 785816029,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-4.R-VANILLA-20210207-1213-X00T-OFFICIAL.zip",
- "version": "4.R"
+ "size": 1130498910,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.R-GAPPS-20210308-0927-X00T-OFFICIAL.zip",
+ "version": "5.R"
 }
 ]
 }

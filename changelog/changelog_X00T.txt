@@ -4,6 +4,11 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 08 March 2021 ========
+
+- Fixed Gcam video audio recording
+- Built in Gcam GO
+
 ======= 08 February 2021 ========
 
 - No device specific changes.
