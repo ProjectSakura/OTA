@@ -4,6 +4,11 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-03-08 =====
+- Latest Device source (Thanks to @tImIBreakdown)
+- March Security patch
+- ProjectSakura Kernel (just renamed)
+- VoLTE fixed
 ==== 2021-02-10 =====
 - Stock Launcher -> OPLauncher
 - Updated DRM
