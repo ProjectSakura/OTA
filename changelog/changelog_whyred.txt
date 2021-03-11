@@ -4,12 +4,6 @@ Device: Xiaomi Redmi Note 5 Pro (whyred)
 Device maintainer: Sipun Ku Mahanta (Darkstar085)
 Android Version: 11
 
-======= 18 January 2021 ========
+======= 08 February 2021 ========
 
-• SELinux enforcing.
-• Drop deprecated android.hardware.thermal HAL.
-• Switch to QTI thermal 2.0 hal.
-• Add shim for libdpmframework
-• Build libhidltransport/libhwbinder from source.
-• Kernel upstreamed to Linux version 4.4.251.
-• Misc changes.
+• Strombreaker v6.9 inlined.

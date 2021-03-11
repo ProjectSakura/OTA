@@ -14,3 +14,7 @@ Android Version: 11
 - Rebased LOS kernel
 - Switched to enforcing builds
 - Added OPGallery and App warden
+
+==== 2021-03-11 =====
+- Added dirac
+- Update to Redfin March fingerprints
