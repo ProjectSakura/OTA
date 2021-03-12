@@ -4,8 +4,23 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
+====10/03/21====
+- update to 5R
+
+====03/03/21====
+- introducing Apokolyps kernel
+- fixes dc dimming and vibration strength
+- corrected smart charging 
+
+====21/02/2021====
+- added OPFile manager
+
 ====17/02/2021====
 - change to Shapeshift kernel
+
+====17/02/2021====
+- change to Shapeshift kernel
+
 
 
 
