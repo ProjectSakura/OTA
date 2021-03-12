@@ -4,6 +4,9 @@ Device: Moto G5S Plus (sanders)
 Device maintainer: ArmSM
 Android Version: 11
 
+==== 2021-03-12 =====
+-Sanders :Update Migrate permissions
+
 ==== 2021-02-14 =====
 - sanders : Use OPLauncher
 - sanders : fix hotspot issue
