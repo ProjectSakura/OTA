@@ -5,4 +5,6 @@ Device maintainer: Tanmay
 Android Version: 11
 
 ==== 2021-02-11 ====
-- Initial Official Release
+- Selinux is enforcing now 
+- Added NFC support(EU varient)
+- Misc improvements
