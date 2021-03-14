@@ -4,8 +4,14 @@ Device: Xiaomi Mi 9T (davinci)
 Device maintainer: Gabriel260
 Android Version: 11
 
+==== 2021-03-14 ====
+Updated blobs from MIUI 21.2.3
+Kernel upstreamed to 4.14.225
+Source upstream (including chat bubles fix)
+
 ==== 2021-03-08 ====
 5.R Update
+
 ==== 2021-02-18 ====
 Switched to libperfmgr power hal
 Added battery health overlay
@@ -15,8 +21,10 @@ Updated audio input sampling rates
 Fixed all calls issues and switched to google dialer
 Compiled kernel with -O3 flag for better performance
 Other fixes and improvements
+
 ==== 2021-02-15 ====
 Added OPLauncher
 Fixed Recents bug
+
 ==== 2021-02-08 ====
 - Initial Official Release
