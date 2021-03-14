@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Meizu 16th (m1882)
+Device maintainer: Abdibekov Dauren (TDADS)
+Android Version: 11
+
+  
+==== 2020-02-13 =====
+- Intital Android R release
+- Moto Dolby Digital Plus™ added
+- Meizu adapt fastcharging
+
+==== 2020-02-16 =====
+- Change default notification & ringtone sound 
+- Fix dolby crashing

@@ -4,25 +4,30 @@ Device: Xiaomi Mi 6X (wayne)
 Device maintainer: Markdarkness
 Android Version: 11
 
-==== 08/02/2021 ====
-Update WFD and Time services blobs from LA.UM.9.6.2.r1-02500
-Regenerate and fixup permission for some blobs
-Drop thermal profile from DeviceParts
-Use gps from device
-Drop Lineage AudioFX
-Add MusicFX from Google - 1.4 on September 8, 2020 (Android 11)
-Add missing radio blobs
-Update same blobs from jasmine V11.0.20.0
-[Audio,Audio FX modules,DRM (Widevine),Keymaster,Sensors,Common Camera]
-Add 3.0 and 4.0 IMapper instance to manifest 
-Use QCOM_WLAN HAL instead of AOSP
-Update media_codecs_performance from LA.UM.9.2.r1-02000
-Import Hotword Enrollment blobs
-Checkout rootdir and init stuffs from caf
-Remove unused gps certificates
-Remove unused entries from config.fs
-Regenerated GPS blobs from LA.UM.8.2.r1-07400-sdm660.0
-Cleanup Vendor
-Thermal Conf modified by me
-Bump kernel HALCYON to v3.6
-Merge tag 'v4.4.256' into eas
+==== 14/03/2021 ====
+March Security Patch.
+Better icon pack support in Trebuchet
+App Drawer Opacity support in Trebuchet
+Icon size support in Trebuchet
+Moved Lineage Settings from System to SakuraConfig
+Lockscreen weather
+New IDE lockscreen clock
+Data usage in QS Panel
+Redesigned Volume Panel
+Materialized Toasts
+QS media player can be toggled ON and OFF
+FaceUnlock animations
+Notification sounds can be suppressed while screen is ON
+Long ScreenShot support (Though it's kinda buggy)
+And everything else that we cannot write here..
+
+==== Device Changelog ====
+Update WiFi blob from LA.UM.9.6.2.r1-03600-89xx.0
+Update wfd blobs from LA.UM.9.6.2.r1-03600-89xx.0
+Enable QCRIL radio power saving
+Don't pin camera app in memory
+Reduce screenshot delay to 0
+Update Telephony overlays from LA.UM.9.2.1.r1-05500
+New zRam config
+Update sensor blobs from LA.UM.8.2.r1-07400-sdm660.0
+Update kernel from HALCYON to v4.0

@@ -23,5 +23,9 @@ Android Version: 11
 - Enabled double tap to wake on m30, a30, a40
 - OSS Exynos PowerHal (Better Performance & battery life)
 
-==== 2021-01-10 =====
+==== 2021-02-10 =====
 - Feb Security Patch
+
+==== 2021-03-08 =====
+- March Security Patch
+- Fixed MagiskHide
