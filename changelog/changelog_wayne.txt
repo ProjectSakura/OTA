@@ -4,19 +4,30 @@ Device: Xiaomi Mi 6X (wayne)
 Device maintainer: Markdarkness
 Android Version: 11
 
-==== 14/02/2021 ====
-Set opengl renderer (Fix playing videos and strory on instagram)
-Drop Hotword Enrollment blobs
-Fix broken google to access storage
-Cleanup GPS blobs
-Allow system permission for RPS sysfs node
-Add permissions to /dev/membuf 
-Configure SQLite to operate in MEMORY mode
-Enable fluence voice recording
-Add 2 instance support for record_24
-Drop sched_enable_hmp/power_aware boot argument
-Create and symlink a dummy /metadata/apex
-Cleanup dead targets 
-Drop non-functional soundtrigger
-Checkout rootdir and init stuffs from caf
-performance improvement
+==== 14/03/2021 ====
+March Security Patch.
+Better icon pack support in Trebuchet
+App Drawer Opacity support in Trebuchet
+Icon size support in Trebuchet
+Moved Lineage Settings from System to SakuraConfig
+Lockscreen weather
+New IDE lockscreen clock
+Data usage in QS Panel
+Redesigned Volume Panel
+Materialized Toasts
+QS media player can be toggled ON and OFF
+FaceUnlock animations
+Notification sounds can be suppressed while screen is ON
+Long ScreenShot support (Though it's kinda buggy)
+And everything else that we cannot write here..
+
+==== Device Changelog ====
+Update WiFi blob from LA.UM.9.6.2.r1-03600-89xx.0
+Update wfd blobs from LA.UM.9.6.2.r1-03600-89xx.0
+Enable QCRIL radio power saving
+Don't pin camera app in memory
+Reduce screenshot delay to 0
+Update Telephony overlays from LA.UM.9.2.1.r1-05500
+New zRam config
+Update sensor blobs from LA.UM.8.2.r1-07400-sdm660.0
+Update kernel from HALCYON to v4.0
