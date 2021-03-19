@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Lenovo Z5s (jd2019)
+Device maintainer: CakesTwix
+Android Version: 11 
+
+==== 2021-03-19 =====
+- Initial Android R release
+
