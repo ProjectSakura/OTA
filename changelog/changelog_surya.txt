@@ -1,9 +1,22 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 (surya)
-Device maintainer: ArmSM ( @UsingTheName ) & Agus ( @nubpeeps01 )
+Device maintainer: ArmSM ( @UsingTheName ) & Agus ( @agustkid )
 Android Version: 11 
 
+
+===== 2021-03-19 =====
+- Add New Face Unlock Features
+- Add Some Missing Apps in previous build
+- Allow using face as auth method for apps
+- parts: Implement auto-lowering refresh rate on battery saver
+- parts: Add touch profiles for gaming and benchmarking
+- parts: Add dirac QS tile 
+- parts: Introduce Refresh Rate QS tile 
+- Implement Hide Cutout Notch Setting by System
+- Fixed Weird issue on 5% battery
+- Possibility to Fix Smart Charging
+- Misc fixes and upstream changes
 
 ===== 2021-03-09 =====
 - March Security Patch
