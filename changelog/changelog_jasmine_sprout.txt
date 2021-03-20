@@ -1,0 +1,16 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mi A2 (jasmine sprout)
+Device maintainer: Markdarkness
+Android Version: 11
+
+==== 20/03/2021 ====
+Bubbles are fixed, we were constantly spammed for this one.
+AOKP system animations are no more available in ROM.
+For your ugly face that even satan can't recognize, Newer Faceunlock.
+FOD icon picker and animations.
+FOD animation effects.
+
+==== Device Changelog ====
+Update kernel from HALCYON to v4.1
+Merge tag Linux v4.4.261
