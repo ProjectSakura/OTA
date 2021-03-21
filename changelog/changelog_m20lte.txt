@@ -29,3 +29,7 @@ Android Version: 11
 ==== 2021-03-08 =====
 - March Security Patch
 - Fixed MagiskHide
+
+==== 2021-03-21 =====
+- New Faceunlock
+
