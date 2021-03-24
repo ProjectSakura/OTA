@@ -18,3 +18,12 @@ Android Version: 11
 ==== 2020-12-15 =====
 - Descember security patch
 - 4.R release
+
+==== 2021-03-24 ====
+- March security patch
+- Added AOD
+- Added EngineerMode
+- Bootup and shutdown improvements
+- Fixed Recovery loop
+- Minor improvements
+- 5.R Release
