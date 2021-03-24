@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1609388382",
- "filename": "ProjectSakura-4.R-VANILLA-20201231-0422-CPH1859-OFFICIAL.zip",
- "id": "ce8bc2ba4e92f8dd2fa5c9eef25b6f51",
+ "datetime": "1616554577",
+ "filename": "ProjectSakura-5.R-VANILLA-20210324-0256-CPH1859-OFFICIAL.zip",
+ "id": "0f484f36a34254392a39113397136d8d",
  "romtype":"nightly",
- "size": 689522003,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/CPH1859/ProjectSakura-4.R-VANILLA-20201231-0422-CPH1859-OFFICIAL.zip",
- "version": "4.R"
+ "size": 703253763,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/CPH1859/ProjectSakura-5.R-VANILLA-20210324-0256-CPH1859-OFFICIAL.zip",
+ "version": "5.R"
 }
 ]
 }
