@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1615200160",
- "filename": "ProjectSakura-5.R-VANILLA-20210308-0942-a10-OFFICIAL.zip",
- "id": "28d9d1c9e044c7b30f386cfc3972cbfa",
+ "datetime": "1617646465",
+ "filename": "ProjectSakura-5.R-VANILLA-20210405-1759-a10-arm-OFFICIAL.zip",
+ "id": "49912b88b8f0a501465e4461807bf899",
  "romtype":"nightly",
- "size": 888587915,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/a10/ProjectSakura-5.R-VANILLA-20210308-0942-a10-OFFICIAL.zip",
+ "size": 653509208,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a10/ProjectSakura-5.R-VANILLA-20210405-1759-a10-arm-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
