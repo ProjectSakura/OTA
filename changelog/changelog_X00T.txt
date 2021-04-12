@@ -4,6 +4,10 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 12 April 2021 ========
+
+- Kernel improvements
+
 ======= 19 March 2021 ========
 
 - Sound is louder and clearer from speaker
