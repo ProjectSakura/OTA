@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy Note8 (greatlte)
+Device maintainer: Haridhayal
+Android Version: 11
+
+==== 2020-04-12 =====
+- Intital Android R release
+
