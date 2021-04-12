@@ -39,3 +39,9 @@ Android Version: 11
 - Updated FP to Sunfish January
 - Changed Pixel Props to Sunfish RQ1A.201205.002
 - Fixed lockscreen charging info values
+
+==== 2021-04-11 ====
+- 5.R Update based on Lineage 18.1
+- April Secuity Patch
+- Updated FP to Sunfish April
+- Upstreamed NextKernel
