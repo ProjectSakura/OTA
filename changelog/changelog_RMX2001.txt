@@ -4,6 +4,13 @@ Device: Realme 6 (RMX2001)
 Device maintainer: Tanmay
 Android Version: 11
 
+==== 2021-04-13 ====
+- Added Smart charging support 
+- Added Gcam go Prebuilt
+- Added Wifi calling support
+- Updated Sunfish Fp to april
+- Some other improvements and bug fixes
+
 ==== 2021-03-14 ====
 - Selinux is enforcing now 
 - Added NFC support(EU varient)
