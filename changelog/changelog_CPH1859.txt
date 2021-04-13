@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Realme 1 (CPH1859/CPH1861)
-Device maintainer: JAISHNAVPRASAD
+Device maintainer: Jaishnav Prasad
 Android Version: 11
 
 ==== 2020-12-15 =====
@@ -27,3 +27,11 @@ Android Version: 11
 - Fixed Recovery loop
 - Minor improvements
 - 5.R Release
+
+==== 2021-04-13 ====
+- April security patch
+- Added support for 3G Calls
+- Tweaked OK Google recognition
+- Added ktweaks for minor improvements
+- Added flipendo 
+- Now comes with Hentai kernel
