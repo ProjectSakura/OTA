@@ -29,3 +29,14 @@ Android Version: 11
 ==== 2021-03-08 =====
 - March Security Patch
 - Fixed MagiskHide
+
+==== 2021-03-21 =====
+- New Faceunlock
+
+==== 2021-04-12 ===== (Clean Flash needed)
+- Switched to GAPPS build
+- Added Devfreq boost driver (boosts the device that controls how quickly data can move between RAM and the CPU (improves overall fluidity))
+- Added wireguard support
+- ZRAM improvements
+- Corrected lowest brightness level
+

@@ -7,3 +7,14 @@ Android Version: 11
 ==== 2021-03-08 =====
 - Initial Android R release
 
+==== 2021-04-06 ====
+- Fixed proximity sensor
+- Fixed Ambient display and AOD
+- Other minor improvements
+
+==== 2021-04-12 ====
+- April Security Patch
+- New QS Tiles
+- DT2W working for some models..
+- Updated to Magisk 22.1
+

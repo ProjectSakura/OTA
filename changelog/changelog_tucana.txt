@@ -4,15 +4,19 @@ Device: Xiaomi Mi Note 10 (tucana)
 Device maintainer: Sanya Pilot
 Android Version: 11
 
-==== 2020-12-26 ====
-- Initial Android R Release (4.R prerelease)
-
-==== 2020-12-29 ====
-- 4.R Update based on Lineage 18.1
-- Added blur by default
+==== 2021-03-21 ====
+- New Sakura features
+- FOD themes and animations
 
 ==== 2021-01-09 ====
 - New Sakura features
 - Improve FOD working
 - Fix IR
 - HDR support
+
+==== 2020-12-29 ====
+- 4.R Update based on Lineage 18.1
+- Added blur by default
+
+==== 2020-12-26 ====
+- Initial Android R Release (4.R prerelease)

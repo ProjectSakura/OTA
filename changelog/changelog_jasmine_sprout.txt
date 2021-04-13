@@ -1,6 +1,6 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Xiaomi Mi 6X (wayne)
+Device: Xiaomi Mi A2 (jasmine sprout)
 Device maintainer: Markdarkness
 Android Version: 11
 

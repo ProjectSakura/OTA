@@ -12,6 +12,9 @@ Android Version: 11
 - Some other improvements and bug fixes
 
 ==== 2021-03-14 ====
+=======
+==== 2021-03-14 ====
+
 - Selinux is enforcing now 
 - Added NFC support(EU varient)
 - Misc improvements
