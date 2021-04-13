@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1617736219",
- "filename": "ProjectSakura-5.R-VANILLA-20210406-1645-a20-OFFICIAL.zip",
- "id": "3a52164a5c5f9bb11ab2b7bc7f51eaf9",
+ "datetime": "1618254474",
+ "filename": "ProjectSakura-5.R-VANILLA-20210412-0859-a20-OFFICIAL.zip",
+ "id": "4c6da520fba8d825f0becfc19c287fd0",
  "romtype":"nightly",
- "size": 871871772,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/a20/ProjectSakura-5.R-VANILLA-20210406-1645-a20-OFFICIAL.zip",
+ "size": 837609824,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a20/ProjectSakura-5.R-VANILLA-20210412-0859-a20-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
