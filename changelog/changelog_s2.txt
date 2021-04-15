@@ -4,6 +4,8 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-04-15 =====
+- April security patch
 ==== 2021-03-08 =====
 - Latest Device source (Thanks to @tImIBreakdown)
 - March Security patch
