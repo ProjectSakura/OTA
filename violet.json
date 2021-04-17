@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1615911784",
- "filename": "ProjectSakura-5.R-GAPPS-20210316-1623-violet-OFFICIAL.zip",
- "id": "c500e87bab09326e3b66cb7cb28680c3",
+ "datetime": "1618661762",
+ "filename": "ProjectSakura-5.R-GAPPS-20210417-1216-violet-OFFICIAL.zip",
+ "id": "1db1d2f7bc18240deceb9c9ca33a1519",
  "romtype":"nightly",
- "size": 1430231199,
- "url": "https://master.dl.sourceforge.net/project/projectsakura//ProjectSakura-5.R-GAPPS-20210316-1623-violet-OFFICIAL.zip",
+ "size": 1475525189,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-5.R-GAPPS-20210417-1216-violet-OFFICIAL.zip",
  "version": "5.R"
 }
 ]

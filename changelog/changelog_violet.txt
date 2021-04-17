@@ -4,6 +4,12 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-17-04 =====
+- april security patch merged
+- smart charging fixed
+- stock thermals
+- minor bug fixes and improvements
+
 ==== 2021-16-03 =====
 - march security patch merged
 - updated gcam to 8.1 (ctgcam)
