@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8 Pro (begonia)
-Device maintainer: Himanshu
+Device maintainer: abhixv
 Android Version: 11
 
 ==== 2020-12-14 =====
