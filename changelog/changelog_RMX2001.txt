@@ -4,6 +4,10 @@ Device: Realme 6 (RMX2001)
 Device maintainer: Tanmay
 Android Version: 11
 
+==== 2021-04-21 ====
+- Compiled with inline kernel
+- Safetynet passed ( By default ) 
+
 ==== 2021-04-13 ====
 - Added Smart charging support 
 - Added Gcam go Prebuilt
