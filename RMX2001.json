@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1618163765",
- "filename": "ProjectSakura-5.R-GAPPS-20210413-0555-RMX2001-OFFICIAL.zip",
- "id": "6364260a0b846654e39c89cc9b41a66c",
+ "datetime": "1618839250",
+ "filename": "ProjectSakura-5.R-GAPPS-20210421-1120-RMX2001-OFFICIAL.zip",
+ "id": "d5eb914e61dabd588c31538c44a9af4e",
  "romtype":"nightly",
- "size": 1077234537,
- "url": "https://sourceforge.net/projects/projectsakura/files/RMX2001/ProjectSakura-5.R-GAPPS-20210413-0555-RMX2001-OFFICIAL.zip/download",
+ "size": 1177234537,
+ "url": "https://sourceforge.net/projects/projectsakura/files/RMX2001/ProjectSakura-5.R-GAPPS-20210421-1120-RMX2001-OFFICIAL.zip/download",
  "version": "5.R"
 }
 ]
