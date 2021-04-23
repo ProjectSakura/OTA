@@ -4,6 +4,9 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
+====23/04/2021====
+- general bug fixes and performance improvements ;)
+
 ====12/04/2021====
 - general bug fixes and performance improvements ;)
 
