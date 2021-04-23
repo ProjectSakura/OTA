@@ -1,14 +1,13 @@
 {
 "response": [
 {
- "datetime": "1618204026",
- "filename": "ProjectSakura-5.R-GAPPS-20210412-0707-X00T-OFFICIAL.zip",
- "id": "2921b4e7031cb602aa5cf734fec51b17",
+ "datetime": "1618395128",
+ "filename": "ProjectSakura-5.R-GAPPS-20210414-1213-X00T-OFFICIAL.zip",
+ "id": "7fe24d12f6ee43a9dc2e6c62c031bbf2",
  "romtype":"nightly",
- "size": 1140730053,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.R-GAPPS-20210412-0707-X00T-OFFICIAL.zip",
+ "size": 1132350811,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.R-GAPPS-20210414-1213-X00T-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
 }
-

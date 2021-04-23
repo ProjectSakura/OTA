@@ -4,6 +4,10 @@ Device: Moto G5S Plus (sanders)
 Device maintainer: ArmSM
 Android Version: 11
 
+==== 2021-04-13 =====
+
+- Improvement on deep sleep and audio in call volume
+
 ==== 2021-03-12 =====
 -Sanders :Update Migrate permissions
 

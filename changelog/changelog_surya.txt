@@ -27,3 +27,15 @@ Android Version: 11
 - Overlay: Enable doze by default
 - Treewide cleanup
 - Audio_platform: cleanup 
+
+===== 2021-04-12 =====
+- switch to user build
+- bringback blur prop
+- parts: readded touch profil 
+- parts: add & update some string
+- kernel: Enable zram writeback support
+- kernel: use lz4 as default zram compression
+- kernel: switch to  userspace LMKD
+- Fixed SmartCharging
+- Fixed booting issue ( now you can boot in encrypted and decrypted vendor)
+- Misc fixed and Improvement

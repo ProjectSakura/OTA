@@ -11,3 +11,13 @@ Android Version: 11
 - Switched to arm build
 - Fixed Ambient display
 - Minor improvements
+
+==== 2021-04-12 ====
+- April Security Patch
+- Updated to Eureka R6.4.1 kernel
+     - Updated kernel GPU driver to R26p0
+     - Switched to Proton Clang 13 toolchain
+     - Upstreamed kernel from 4.4.258 to 4.4.265
+- New QS Tiles
+- Updated to Magisk 22.1
+

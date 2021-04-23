@@ -4,5 +4,20 @@ Device: Mi 10i 5G | Mi 10T Lite (gauguin)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-19-04 =====
+- clean flash necessary
+- requires A11 prebuilt vendor
+- selinux enforcing
+- switched to user builds
+- added hotword blobs
+- enabled vowifi
+- enabled widevine drm L1
+- fixed smart charging
+- switched to trebuchet launcher
+- enabled 2.4 GHz channel bonding on wifi
+- some more wifi improvements
+
+- bugs: DT2W
+
 ==== 2021-17-02 =====
 - initial A11 build
