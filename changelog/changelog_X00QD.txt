@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Asus Zenfone 5 2018 (X00QD)
+Device maintainer: henricaodopao
+Android Version: 11
+
+==== 2021-04-23 ====
+- Initial OTA
+
