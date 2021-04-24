@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Motorola moto g(7) play (channel)
+Device maintainer: Amy Grace (amyosx, 00p513)
+Android Version: 11
+
+======= 24 April 2021 ========
+
+- Initial official build :)
+- This needs a clean flash
+- Moto apps now included
+- User build
+
