@@ -70,6 +70,16 @@
       "active": true
     },
     {
+      "brand": "Moto",
+      "name": "moto g(7) play",
+      "codename": "channel",
+      "maintainer_name": "Amy Grace",
+      "maintainer_xda": "null",
+      "maintainer_country": "GBR",
+      "xda_thread": "",
+      "active": true
+    },
+    {
       "brand": "OnePlus",
       "name": "OnePlus 3/3T",
       "codename": "oneplus3",
