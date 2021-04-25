@@ -7,7 +7,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "ASUS",
@@ -17,7 +18,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BRA",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.com/donate/?business=46R74U4XB26B8&currency_code=BRL"
     },
     {
       "brand": "LeEco",
@@ -27,7 +29,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "UKR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Lenevo",
@@ -37,7 +40,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "UKR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Meizu",
@@ -47,7 +51,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "KAZ",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Meizu",
@@ -57,7 +62,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "KAZ",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Moto",
@@ -67,7 +73,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "ALB",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Moto",
@@ -77,7 +84,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "GBR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":"https://paypal.me/anyGSI"
     },
     {
       "brand": "OnePlus",
@@ -87,7 +95,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "OnePlus",
@@ -97,7 +106,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "US",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":"https://paypal.me/eduardoroms"
     },
     {
       "brand": "Realme",
@@ -107,7 +117,8 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/cyberjalagam.10857311",
       "maintainer_country": "IND",
       "xda_thread": "https://forum.xda-developers.com/t/rom-volte-official-cph1859-61-project-sakura-5-r-24-03-2021.4128811/",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Realme",
@@ -117,7 +128,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Samsung",
@@ -127,7 +139,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "MAUR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Samsung",
@@ -137,7 +150,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "MAUR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Samsung",
@@ -147,7 +161,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "SL",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -157,7 +172,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "SL",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -167,7 +183,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BRA",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Samsung",
@@ -177,7 +194,8 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/haridhayal.9053429",
       "maintainer_country": "SL",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4193417",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -187,7 +205,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "SL",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -197,7 +216,8 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/haridhayal.9053429",
       "maintainer_country": "SL",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4261403",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -207,7 +227,8 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/haridhayal.9053429",
       "maintainer_country": "SL",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4261403",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Samsung",
@@ -217,7 +238,8 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/haridhayal.9053429/",
       "maintainer_country": "SL",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4261405",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
       "brand": "Xiaomi",
@@ -227,7 +249,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -237,7 +260,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "ID",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -247,7 +271,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -257,7 +282,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -267,7 +293,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -277,7 +304,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":"https://paypal.me/epicure06"
     },
     {
       "brand": "Xiaomi",
@@ -287,7 +315,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "RUS",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -297,7 +326,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -307,7 +337,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -317,7 +348,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "US",
       "xda_thread": "",
-      "active": false
+      "active": false,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -327,7 +359,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -337,7 +370,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -347,7 +381,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -357,7 +392,8 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":"https://www.paypal.me/abhixv"
     },
     {
       "brand": "Xiaomi",
@@ -367,6 +403,7 @@
       "maintainer_xda": "null",
       "maintainer_country": "ID",
       "xda_thread": "",
-      "active": true
+      "active": true,
+      "donation_link":""
     }
   ]
