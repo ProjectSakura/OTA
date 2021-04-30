@@ -4,6 +4,11 @@ Device: Motorola moto g(7) play (channel)
 Device maintainer: Amy Grace (amyosx, 00p513)
 Android Version: 11
 
+======= 26 April 2021 ========
+
+- Enable blurs
+- SafetyNet passing
+
 ======= 24 April 2021 ========
 
 - Initial official build :)
