@@ -88,6 +88,17 @@
       "donation_link":"https://paypal.me/anyGSI"
     },
     {
+      "brand": "Moto",
+      "name": "moto g(7) power",
+      "codename": "ocean",
+      "maintainer_name": "hisoka_simp",
+      "maintainer_xda": "https://forum.xda-developers.com/m/hisoka_simp.11481799/",
+      "maintainer_country": "GER",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://ko-fi.com/hisokasimp"
+    },
+    {
       "brand": "OnePlus",
       "name": "OnePlus 3/3T",
       "codename": "oneplus3",
