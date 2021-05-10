@@ -39,3 +39,9 @@ Android Version: 11
 - Fixed SmartCharging
 - Fixed booting issue ( now you can boot in encrypted and decrypted vendor)
 - Misc fixed and Improvement
+
+===== 2021-05-10 =====
+- May Security Patch
+- Addressed some sepolicy denial
+- Enable some overlay related source feature
+- This is Miui vendor based ( not OSS )
