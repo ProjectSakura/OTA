@@ -4,6 +4,11 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 10 May 2021 ==========
+
+- "Ok google" detection is fixed
+- Blur is enabled by default (because it's finally smooth)
+
 ======= 14 April 2021 ========
 
 - Switched from userdebug to user builds for release
