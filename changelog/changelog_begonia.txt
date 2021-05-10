@@ -45,3 +45,7 @@ Android Version: 11
 - April Secuity Patch
 - Updated FP to Sunfish April
 - Upstreamed NextKernel
+
+==== 2021-05-10 ====
+- 5.R Update based on Lineage 18.1
+- May Secuity Patch
