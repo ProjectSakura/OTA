@@ -7,3 +7,9 @@ Android Version: 11
 ==== 2020-04-12 =====
 - Intital Android R release
 
+==== 2021-05-10 =====
+- Remapped Bixby key to Google Assistant
+- Included Footej Camera
+- Fast charge toggle added under battery settings
+- Enable blur
+- Disabled AOD by default
