@@ -4,6 +4,20 @@ Device: Realme 6 (RMX2001)
 Device maintainer: Tanmay
 Android Version: 11
 
+==== 2021-05-13 ===-
+- Updated Gcam go to 1.9
+- Made UI more smoother
+- Improved RAM managment
+- Added performance profiles
+- Improved Kernel performance
+- Improved padding of status bar 
+- Improved 5ghz network signal tolerance
+- Fixed those green boxes while setup 
+- Fixed Fps metre
+- Fixed DT2W
+- Fixed weird pop-up after boot
+- Some other improvements and bug fixes 
+
 ==== 2021-04-21 ====
 - Compiled with inline kernel
 - Safetynet passed ( By default ) 

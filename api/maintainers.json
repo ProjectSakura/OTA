@@ -172,19 +172,19 @@
     "maintainer_photo": "https://avatars.githubusercontent.com/u/63528549?s=120&v=4"
   },
   {
-    "maintainer_name": "Amy",
-    "devices_mantaining": ["moto g(7) play Maintainer"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-united-kingdom_1f1ec-1f1e7.png",
-    "telegram_link": "https://t.me/amyosx",
-    "github_link": "https://github.com/00p513-dev",
-    "maintainer_photo": "https://avatars.githubusercontent.com/u/54113654?v=4"
-  },
-  {
     "maintainer_name": "hisoka_simp",
     "devices_mantaining": ["moto g(7) power Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-germany_1f1e9-1f1ea.png",
     "telegram_link": "https://t.me/the_only_one_bruno",
     "github_link": "https://github.com/DeinMathelehrer",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/58335765?v=4"
+  },
+  {
+    "maintainer_name": "Amy",
+    "devices_mantaining": ["moto g(7) play Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-united-kingdom_1f1ec-1f1e7.png",
+    "telegram_link": "https://t.me/amyosx",
+    "github_link": "https://github.com/00p513-dev",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/54113654?v=4"
   }
 ]
