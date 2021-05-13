@@ -30,5 +30,13 @@
         "github_link": "https://github.com/tanishq-arya",
         "linkedin_link": "https://www.linkedin.com/in/tanishq-arya-697b571a3/",
         "contributor_photo": "https://avatars.githubusercontent.com/u/77333275?s=400&u=6163493ca123bd7c23a3fb646f085a233c34df3a&v=4"
+    },
+    {
+        "contributor_name": "Ritik Rawal",
+        "contributing_role": ["WEB DEVELOPER"],
+        "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+        "github_link": "https://github.com/ritik307",
+        "linkedin_link": "https://www.linkedin.com/in/ritik-rawal-698a18142/",
+        "contributor_photo": "https://avatars.githubusercontent.com/u/22374829?s=400&u=fb06c34474dc996c283f3fe6eed03d8714c74fc7&v=4"
     }
 ]
