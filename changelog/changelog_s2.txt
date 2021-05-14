@@ -3,6 +3,11 @@ Build type: Monthly
 Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 
+==== 2021-05-14 =====
+- Source Sync
+- Security Patch - May 2021
+- Major update of device sources
+- Echo fixed
 ==== 2020-11-05 =====
 - Source Sync
 - Launcher - Lawnchair 
