@@ -4,6 +4,13 @@ Device: Motorola moto g(7) play (channel)
 Device maintainer: Amy Grace (amyosx, 00p513)
 Android Version: 11
 
+======== 15 May 2021 =========
+
+- Switch to Android GO
+- May security patch
+- Blurs now disabled by default due to GO.
+- Note: You can disable GO by setting ro.lowram to false.
+
 ======= 26 April 2021 ========
 
 - Enable blurs
