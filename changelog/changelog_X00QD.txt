@@ -4,6 +4,10 @@ Device: Asus Zenfone 5 2018 (X00QD)
 Device maintainer: henricaodopao
 Android Version: 11
 
+==== 2021-05-10 ====
+- May Security Patch
+- Update thermal configs from jasmine
+
 ==== 2021-04-23 ====
 - Initial OTA
 

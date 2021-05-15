@@ -4,6 +4,13 @@ Device: Samsung Galaxy S8 (dreamlte)
 Device maintainer: Haridhayal
 Android Version: 11
 
+==== 2021-05-11 =====
+- Remapped Bixby key to Google Assistant
+- HDR video playback fixed
+- Included Footej Camera
+- Fast charge toggle added under battery settings
+- Disabled AOD by default (it can be enabled using the quicksettings toggle)
+- Disabled Blur as it is bugged
+
 ==== 2020-04-12 =====
 - Intital Android R release
-

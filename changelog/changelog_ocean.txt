@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Motorola moto g7 power (ocean) 
+Device maintainer: hisoka_simp
+Android Version: 11
+
+======= 05 May 2021 =======
+
+-Initial official build
+-dropped gapps version
+-May 2021 Security Patch

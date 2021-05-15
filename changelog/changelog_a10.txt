@@ -21,3 +21,9 @@ Android Version: 11
 - New QS Tiles
 - Updated to Magisk 22.1
 
+==== 2021-05-13 =====
+- May Security Patch
+- Updated to Eureka R6.5 kernel
+- Updated to Magisk 23
+- Fixed Smart Charging
+- BUG: Notification shade blur broken

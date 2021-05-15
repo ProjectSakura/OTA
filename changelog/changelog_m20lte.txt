@@ -40,3 +40,6 @@ Android Version: 11
 - ZRAM improvements
 - Corrected lowest brightness level
 
+==== 2021-05-10 =====
+- May Security Patch
+
