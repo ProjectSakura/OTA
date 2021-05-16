@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1619459273",
- "filename": "ProjectSakura-5.R-VANILLA-20210426-1854-channel-OFFICIAL.zip",
- "id": "5038a9dfa9cfbb7314cb4964b9be8a09",
+ "datetime": "1621105600",
+ "filename": "ProjectSakura-5.R-VANILLA-20210515-2007-channel-OFFICIAL.zip",
+ "id": "c8301ef4ea440a263134ba37937742f4",
  "romtype":"nightly",
- "size": 764792349,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/channel/ProjectSakura-5.R-VANILLA-20210426-1854-channel-OFFICIAL.zip",
+ "size": 711599805,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/channel/ProjectSakura-5.R-VANILLA-20210515-2007-channel-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
