@@ -4,6 +4,13 @@ Device: Xiaomi Mi Note 10 (tucana)
 Device maintainer: Sanya Pilot
 Android Version: 11
 
+==== 2021-05-15 ====
+- New Sakura features! (https://projectsakura.xyz/posts/5.R-May-2021-update.html)
+- May security patch
+
+==== 2021-04-15 ====
+- April security patch
+
 ==== 2021-03-21 ====
 - New Sakura features
 - FOD themes and animations
