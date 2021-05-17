@@ -256,11 +256,11 @@
       "brand": "Xiaomi",
       "name": "Poco X2",
       "codename": "phoenix",
-      "maintainer_name": "Shivam",
-      "maintainer_xda": "null",
+      "maintainer_name": "Kunal",
+      "maintainer_xda": "https://forum.xda-developers.com/m/kunal-facebook.11415481/",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": false,
+      "active": true,
       "donation_link":""
     },
     {
