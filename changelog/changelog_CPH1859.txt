@@ -35,3 +35,8 @@ Android Version: 11
 - Added ktweaks for minor improvements
 - Added flipendo 
 - Now comes with Hentai kernel
+
+==== 2021-05-18 ====
+- May security patch
+- Nuked treble app
+- Now comes with AlienKernel 2.1
