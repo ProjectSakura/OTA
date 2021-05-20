@@ -4,6 +4,10 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
+====15/05/2021====
+- May patch
+- general bug fixes and performance improvements ;)
+
 ====23/04/2021====
 - hotfix to get alert slider working
 
