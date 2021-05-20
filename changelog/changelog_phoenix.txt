@@ -1,17 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X2 (Phoenix)
-Device maintainer: Shivam
-Android Version: 11 
+Device maintainer: Kunal
+Android Version: 11
 
-==== 2021-2-10 =====
-- Feb security patch.
-- Added GcamGo and dropped ANX.
-- Added oxygen os launcher.
-- Fixed thermal profiles.
-- synced with latest project sakura sources.
-
-==== 2021-1-18 =====
+==== 2021-5-20 =====
 - Initial official release
-- Added ANX Camera
-- Updated sunfish fp to January
+- Based on oss vendor
+- Added thermal profile, L1 support, improved Q's padding,etc.
+- Miui Cam pre included.
+- Safetynet fix by default
+- Update Build FP to Redfin May 2021
+- Enforcing Build
+
