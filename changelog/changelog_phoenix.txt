@@ -12,4 +12,3 @@ Android Version: 11
 - Safetynet fix by default
 - Update Build FP to Redfin May 2021
 - Enforcing Build
-
