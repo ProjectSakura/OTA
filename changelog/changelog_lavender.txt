@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 7 (lavender)
+Device maintainer: AlissonGrizotti
+Android Version: 11
+
+==== 21-05-2021 ====
+- Initial Build
