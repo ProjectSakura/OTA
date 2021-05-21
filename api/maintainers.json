@@ -194,5 +194,13 @@
     "telegram_link": "https://t.me/facebook6ix9ine",
     "github_link": "https://github.com/facebook6ix9ine",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/83390919?v=4"
+  },
+  {
+    "maintainer_name": "Alisson Grizotti",
+    "devices_mantaining": ["Redmi Note 7 Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/twitter/53/flag-for-brazil_1f1e7-1f1f7.png",
+    "telegram_link": "https://t.me/Bagualisson",
+    "github_link": "https://github.com/AlissonGrizotti",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/16360520?v=4"
   }
 ]
