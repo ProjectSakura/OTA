@@ -375,6 +375,17 @@
     },
     {
       "brand": "Xiaomi",
+      "name": "Redmi Note 7",
+      "codename": "lavender",
+      "maintainer_name": "AlissonGrizotti",
+      "maintainer_xda": "null",
+      "maintainer_country": "BR",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://www.paypal.com/donate/?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url"
+    },
+    {
+      "brand": "Xiaomi",
       "name": "Redmi Note 7 PRO",
       "codename": "violet",
       "maintainer_name": "SpicyDoughnut",
