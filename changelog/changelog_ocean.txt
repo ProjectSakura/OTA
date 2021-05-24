@@ -5,7 +5,10 @@ Device maintainer: hisoka_simp
 Android Version: 11
 
 ======= 05 May 2021 =======
-
 -Initial official build
 -dropped gapps version
 -May 2021 Security Patch
+
+======= 23 May 2021 =======
+-fixed the space for google search bar on the homescreen
+-switched to amys common tree
