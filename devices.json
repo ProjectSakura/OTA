@@ -427,5 +427,16 @@
       "xda_thread": "",
       "active": true,
       "donation_link":""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Poco X3 Pro",
+      "codename": "vayu",
+      "maintainer_name": "kiam001",
+      "maintainer_xda": "kiam001",
+      "maintainer_country": "DE",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
     }
   ]
