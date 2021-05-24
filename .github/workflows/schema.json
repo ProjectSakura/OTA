@@ -5,7 +5,7 @@
  "filename": "string",
  "id": "string",
  "romtype":"string",
- "size": ,
+ "size": false,
  "url": "string",
  "version": "string"
 }
