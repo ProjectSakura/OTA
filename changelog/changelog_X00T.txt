@@ -4,6 +4,12 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 24 May 2021 ==========
+
+- Unblocked OTA installations
+- Switched to ElectroPerf as default kernel
+- Heating and charging issues are solved
+
 ======= 10 May 2021 ==========
 
 - "Ok google" detection is fixed
