@@ -12,3 +12,4 @@ jobs:
         env:
           INPUT_SCHEMA: /.github/workflows/schema.json
           INPUT_JSONS: /*.json
+          

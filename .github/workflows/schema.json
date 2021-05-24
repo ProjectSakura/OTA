@@ -1,14 +1,50 @@
 {
-"response": [
-{
- "datetime": "integer",
- "filename": "string",
- "id": "string",
- "romtype":"string",
- "size": false,
- "url": "string",
- "version": "string"
-}
-]
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "response": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "datetime": {
+              "type": "string"
+            },
+            "filename": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "romtype": {
+              "type": "string"
+            },
+            "size": {
+              "type": "integer"
+            },
+            "url": {
+              "type": "string"
+            },
+            "version": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "datetime",
+            "filename",
+            "id",
+            "romtype",
+            "size",
+            "url",
+            "version"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "response"
+  ]
 }
 
