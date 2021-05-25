@@ -1,14 +1,13 @@
 {
 "response": [
 {
- "datetime": "1620674583",
- "filename": "ProjectSakura-5.R-GAPPS-20210510-2124-dream2lte-OFFICIAL.zip",
- "id": "59924d5ccbe1c35ef70f748f869cb5f2",
+ "datetime": "1621939728",
+ "filename": "ProjectSakura-5.R-GAPPS-20210525-1250-dreamlte-OFFICIAL.zip",
+ "id": "69f22f13a3686f964b30cda9607a52b0",
  "romtype":"nightly",
- "size": 1167561012,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/dream2lte/ProjectSakura-5.R-GAPPS-20210510-2124-dream2lte-OFFICIAL.zip",
+ "size": 1169838144,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/dreamlte/ProjectSakura-5.R-GAPPS-20210525-1250-dreamlte-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
 }
-

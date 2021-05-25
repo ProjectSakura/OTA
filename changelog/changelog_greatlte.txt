@@ -4,6 +4,10 @@ Device: Samsung Galaxy Note8 (greatlte)
 Device maintainer: Haridhayal
 Android Version: 11
 
+==== 2021-05-25 =====
+- May second update
+- Fixed Blur
+
 ==== 2021-05-11 =====
 - Remapped Bixby key to Google Assistant
 - HDR video playback fixed
@@ -12,5 +16,5 @@ Android Version: 11
 - Disabled AOD by default (it can be enabled using the quicksettings toggle)
 - Disabled Blur as it is bugged
 
-==== 2020-04-12 =====
+==== 2021-04-12 =====
 - Intital Android R release
