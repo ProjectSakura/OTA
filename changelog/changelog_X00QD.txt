@@ -4,6 +4,11 @@ Device: Asus Zenfone 5 2018 (X00QD)
 Device maintainer: henricaodopao
 Android Version: 11
 
+==== 2021-05-24 ====
+- Add QTI telephony jar from LA.QSSI.11.0.r1-09400-qssi.0
+- Update Time services blobs from LA.UM.9.2.r1-01800-SDMxx0.0
+- Update vendor.qti.data.factory from cmi
+
 ==== 2021-05-10 ====
 - May Security Patch
 - Update thermal configs from jasmine
