@@ -4,6 +4,8 @@ Device: Lenovo Z5s (jd2019)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-04-25 =====
+- Built in ARCore
 ==== 2021-05-10 =====
 - May security patch
 - All recent changes from WaveOS (device side)
@@ -11,4 +13,3 @@ Android Version: 11
 - April security patch
 ==== 2021-03-19 =====
 - Initial Android R release
-
