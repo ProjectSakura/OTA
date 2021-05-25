@@ -66,6 +66,17 @@
       "donation_link":"https://www.paypal.me/DAbdibekov"
     },
     {
+      "brand": "Meizu",
+      "name": "Meizu 16X",
+      "codename": "m1872",
+      "maintainer_name": "c0nfid",
+      "maintainer_xda": "null",
+      "maintainer_country": "RUS",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://www.donationalerts.com/r/c0nfid"
+    },
+    {
       "brand": "Moto",
       "name": "Moto G5S+",
       "codename": "sanders",
