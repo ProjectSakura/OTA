@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco X3 Pro (vayu)
+Device maintainer: kiam001
+Android Version: 11
+
+======= 25 May 2021 =======
+-Initial official build
+-May 2021 Security Patch
+-To install and keep Working OTA use this Recovery https://github.com/kiam001/releases/releases/download/ProjectSakura-5.R-GAPPS-20210525-1826-vayu-OFFICIAL-1842/recovery.img
+-Use MIUI Stock Vendor 12.0.6 or 12.0.5 to Get No Boot Errors
