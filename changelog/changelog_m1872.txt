@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Meizu 16/X (m1872)
+Device maintainer: c0nfid
+Android Version: 11
+
+==== 2021-05-25 =====
+- First official Android 11 release
+- Added settings contrast display in LiveDisplay
+- Added doze and AoD
+- Fixed crush SystemUI
