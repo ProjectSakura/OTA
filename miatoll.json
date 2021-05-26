@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1621438478",
- "filename": "ProjectSakura-5.R-VANILLA-20210519-1536-miatoll-OFFICIAL.zip",
- "id": "f8d74b14d42bfd64526196331176441b",
+ "datetime": "1621980694",
+ "filename": "ProjectSakura-5.R-VANILLA-20210525-2211-miatoll-OFFICIAL.zip",
+ "id": "62ec6b3e7b0089ec0044ffe6ad836b1f",
  "romtype":"nightly",
- "size": 1269717446,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-5.R-VANILLA-20210519-1536-miatoll-OFFICIAL.zip",
+ "size": 1265335118,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-5.R-VANILLA-20210525-2211-miatoll-OFFICIAL.zip",
  "version": "5.R"
 }
 ]
