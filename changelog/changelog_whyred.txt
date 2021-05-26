@@ -4,7 +4,7 @@ Device: Xiaomi Redmi Note 5 Pro (whyred)
 Device maintainer: Sipun Ku Mahanta (Darkstar085)
 Android Version: 11
 
-======= 12 May 2021 ========
+======= 24 May 2021 ========
 
-- Upstreamed kernel.
-- Misc fixes.
+- Souce Upstream.
+- Build Livedisplay.
