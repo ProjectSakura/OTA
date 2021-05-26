@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1621934413",
- "filename": "ProjectSakura-5.R-GAPPS-20210525-1121-m20lte-OFFICIAL.zip",
- "id": "bc9d34605958be1485cbab2ec3d1be03",
+ "datetime": "1620626125",
+ "filename": "ProjectSakura-5.R-GAPPS-20210510-0756-m20lte-OFFICIAL.zip",
+ "id": "690daaf05f3942e6a3289f237d0f6d40",
  "romtype":"nightly",
- "size": 1045907249,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/m20lte/ProjectSakura-5.R-GAPPS-20210525-1121-m20lte-OFFICIAL.zip",
+ "size": 1044045579,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/m20lte/ProjectSakura-5.R-GAPPS-20210510-0756-m20lte-OFFICIAL.zip",
  "version": "5.R"
 }
 ]

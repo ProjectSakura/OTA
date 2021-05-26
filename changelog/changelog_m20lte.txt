@@ -43,6 +43,4 @@ Android Version: 11
 ==== 2021-05-10 =====
 - May Security Patch
 
-==== 2021-05-25 =====
-- May second update
-- Fixed Blur
+
