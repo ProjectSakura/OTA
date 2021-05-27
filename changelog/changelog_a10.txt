@@ -4,13 +4,16 @@ Device: Samsung Galaxy A10 (a10)
 Device maintainer: Chatur
 Android Version: 11
 
-==== 2021-03-08 =====
-- Initial Android R release
+==== 2021-05-27 =====
+- Mid May update
+- Fixed Blur
 
-==== 2021-04-05 ====
-- Switched to arm build
-- Fixed Ambient display
-- Minor improvements
+==== 2021-05-13 =====
+- May Security Patch
+- Updated to Eureka R6.5 kernel
+- Updated to Magisk 23
+- Fixed Smart Charging
+- BUG: Notification shade blur broken
 
 ==== 2021-04-12 ====
 - April Security Patch
@@ -21,9 +24,11 @@ Android Version: 11
 - New QS Tiles
 - Updated to Magisk 22.1
 
-==== 2021-05-13 =====
-- May Security Patch
-- Updated to Eureka R6.5 kernel
-- Updated to Magisk 23
-- Fixed Smart Charging
-- BUG: Notification shade blur broken
+==== 2021-04-05 ====
+- Switched to arm build
+- Fixed Ambient display
+- Minor improvements
+
+==== 2021-03-08 =====
+- Initial Android R release
+
