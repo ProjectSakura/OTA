@@ -5,6 +5,28 @@ Device maintainer: ArmSM ( @UsingTheName ) & Agus ( @agustkid )
 Android Version: 11 
 
 
+===== 2021-05-27 =====
+- source updated to mid may
+- Fix Ok Google Detection
+
+===== 2021-05-10 =====
+- May Security Patch
+- Addressed some sepolicy denial
+- Enable some overlay related source feature
+- This is Miui vendor based ( not OSS )
+
+===== 2021-04-12 =====
+- switch to user build
+- bringback blur prop
+- parts: readded touch profil 
+- parts: add & update some string
+- kernel: Enable zram writeback support
+- kernel: use lz4 as default zram compression
+- kernel: switch to  userspace LMKD
+- Fixed SmartCharging
+- Fixed booting issue ( now you can boot in encrypted and decrypted vendor)
+- Misc fixed and Improvement
+
 ===== 2021-03-19 =====
 - Add New Face Unlock Features
 - Add Some Missing Apps in previous build
@@ -26,22 +48,4 @@ Android Version: 11
 - Switch build fingerprint from sunfish
 - Overlay: Enable doze by default
 - Treewide cleanup
-- Audio_platform: cleanup 
-
-===== 2021-04-12 =====
-- switch to user build
-- bringback blur prop
-- parts: readded touch profil 
-- parts: add & update some string
-- kernel: Enable zram writeback support
-- kernel: use lz4 as default zram compression
-- kernel: switch to  userspace LMKD
-- Fixed SmartCharging
-- Fixed booting issue ( now you can boot in encrypted and decrypted vendor)
-- Misc fixed and Improvement
-
-===== 2021-05-10 =====
-- May Security Patch
-- Addressed some sepolicy denial
-- Enable some overlay related source feature
-- This is Miui vendor based ( not OSS )
+- Audio_platform: cleanup
