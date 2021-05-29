@@ -4,6 +4,17 @@ Device: Mi 10i 5G | Mi 10T Lite (gauguin)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-29-05 =====
+- may security patch
+- dynamic refresh rate
+- fixed touch/scroll issues on fp touch events
+- fixed WFD
+- fixed DT2W
+- fixed FPS meter
+- switched Skia rendering backend to Vulkan
+- force triple frame buffers
+- misc improvements
+
 ==== 2021-19-04 =====
 - clean flash necessary
 - requires A11 prebuilt vendor
