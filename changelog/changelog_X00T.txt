@@ -4,6 +4,10 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 17 June 2021 =========
+
+- Switched back to Stardust kernel
+
 ======= 29 May 2021 ==========
 
 - Fixed Touchscreen gestures
