@@ -1,0 +1,6 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Moto G5 (cedric)
+Device maintainer: nift4
+Android Version: 11
+Required Firmware: Stock Oreo 8.1
