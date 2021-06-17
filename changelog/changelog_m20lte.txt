@@ -5,6 +5,7 @@ Device maintainer: Haridhayal
 Android Version: 11
 
 ==== 2021-06-17 ===== (CLEAN FLASH REQUIRED)
+- Switched to Vanilla. (If you want gapps flash Nikgapps after flashing ROM)
 - June Patch
 - Fixed Bluetooth Calls
 
