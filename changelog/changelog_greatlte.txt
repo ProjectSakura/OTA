@@ -4,6 +4,11 @@ Device: Samsung Galaxy Note8 (greatlte)
 Device maintainer: Haridhayal
 Android Version: 11
 
+==== 2021-06-17 ===== (CLEAN FLASH REQUIRED)
+- Switched to Vanilla. (If you want gapps flash Nikgapps after flashing ROM)
+- June Patch
+- Fixed FastCharge Toggle.(Now it actually works.)
+ 
 ==== 2021-05-25 =====
 - May second update
 - Fixed Blur
