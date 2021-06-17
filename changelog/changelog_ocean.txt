@@ -12,3 +12,8 @@ Android Version: 11
 ======= 23 May 2021 =======
 -fixed the space for google search bar on the homescreen
 -switched to amys common tree
+
+
+======= 17 June 2021 =======
+-add calender and calculator in vanilla build
+-Netflix issue fixed now
