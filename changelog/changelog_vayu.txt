@@ -9,3 +9,11 @@ Android Version: 11
 -May 2021 Security Patch
 -To install and keep Working OTA use this Recovery https://github.com/kiam001/releases/releases/download/ProjectSakura-5.R-GAPPS-20210525-1826-vayu-OFFICIAL-1842/recovery.img
 -Use MIUI Stock Vendor 12.0.6 or 12.0.5 to Get No Boot Errors
+
+======= 17 June 2021 =======
+-June Update
+-Sakura Update 5.1 more infos here https://projectsakura.xyz/blog/#/5.1-june-2021-update
+-Set Volume Steps on 11 by Default
+-VOIP calls now Mono not Stereo Anymore
+-Fix some on Init file
+-Try Add Fastcharge detect
