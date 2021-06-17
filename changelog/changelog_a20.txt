@@ -4,6 +4,13 @@ Device: Samsung Galaxy A20 (a20)
 Device maintainer: Chatur
 Android Version: 11
 
+==== 2021-06-17 =====
+- June Security Patch
+- Switched to user build
+- Updated to Eureka R7.0 kernel
+	- Enjoy high torch brightness
+	- Double tap to wake fully fixed
+
 ==== 2021-05-27 =====
 - Mid May update
 - Fixed Blur
