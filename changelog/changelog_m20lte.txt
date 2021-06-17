@@ -4,6 +4,10 @@ Device: Samsung Galaxy M20 (m20lte)
 Device maintainer: Haridhayal
 Android Version: 11
 
+==== 2021-06-17 =====
+- June Patch
+- Fixed Bluetooth Calls
+
 ==== 2020-11-22 =====
 - Intital Android R release
 
