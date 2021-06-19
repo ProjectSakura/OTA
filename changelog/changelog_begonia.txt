@@ -49,3 +49,14 @@ Android Version: 11
 ==== 2021-05-10 ====
 - 5.R Update based on Lineage 18.1
 - May Secuity Patch
+
+==== 2021-06-19 ====
+- 5.1 Update based on Lineage 18.1
+- June Secuity Patch
+- Update blobs from begonia V12.0.7.0.QGGMIXM 
+- Updated apn configs from RP1A.200720.011 
+- Updated media configs from begonia V12.0.7.0.QGGMIXM 
+- Updated nfc configs from begonia V12.0.7.0.QGGMIXM
+- Set arch variant to ARMv8.2-A 
+- Enabled Call Recording
+- Fixed Charging LED
