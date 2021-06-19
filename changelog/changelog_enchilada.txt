@@ -5,6 +5,13 @@ Device maintainer: eduardo
 Android Version: 11
 
 ====15/05/2021====
+- UPDATE to 5.1!
+- June patch
+- rebase device/kernel to all LineageOS trees for more lineage feel to the Rom as dev intended.
+- LiveDisplay and color now 100% available
+- Alert slider functioning correctly
+
+====15/05/2021====
 - May patch
 - general bug fixes and performance improvements ;)
 
