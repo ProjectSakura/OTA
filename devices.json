@@ -78,6 +78,17 @@
     },
     {
       "brand": "Moto",
+      "name": "Moto G5",
+      "codename": "cedric",
+      "maintainer_name": "nift4",
+      "maintainer_xda": "https://forum.xda-developers.com/m/nift4.9942894/",
+      "maintainer_country": "DE",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
+    {
+      "brand": "Moto",
       "name": "Moto G5S+",
       "codename": "sanders",
       "maintainer_name": "ArmSM",
