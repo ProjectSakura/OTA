@@ -4,3 +4,7 @@ Device: Moto G5 (cedric)
 Device maintainer: nift4
 Android Version: 11
 Required Firmware: Stock Oreo 8.1
+Recommened Recovery: Official TWRP 3.5.2_9 or later
+
+======= 20 June 2021 =======
+- Initial official build based on official LineageOS trees
