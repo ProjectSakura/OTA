@@ -4,14 +4,6 @@ Device: Moto G5S Plus (sanders)
 Device maintainer: ArmSM
 Android Version: 11
 
-==== 2021-03-12 =====
--Sanders :Update Migrate permissions
-
-==== 2021-02-14 =====
-- sanders : Use OPLauncher
-- sanders : fix hotspot issue
-- sanders : fix usb tehering
-- sanders : small improvements and cleanup on DT
-=================================
-Security Patch : 5 February 2021
-
+==== 2021-06-19 =====
+- sanders: fix in call audio volume
+- sanders: fix battery charging LED
