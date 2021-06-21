@@ -4,6 +4,14 @@ Device: Poco X2 (Phoenix)
 Device maintainer: Kunal
 Android Version: 11
 
+==== 21-06-2021 ====
+- Added new POCO Parts (Kcal,Vibration intensity, etc)
+- Show turbo charging instead of charging rapidly 
+- Update blobs from phoenix 21.6.2
+- Fixed offline charging
+- Updated Redfin fp
+
+
 ==== 2021-5-20 =====
 - Initial official release
 - Based on oss vendor
