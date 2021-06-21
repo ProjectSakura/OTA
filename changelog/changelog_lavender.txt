@@ -4,6 +4,14 @@ Device: Redmi Note 7 (lavender)
 Device maintainer: AlissonGrizotti
 Android Version: 11
 
+==== 21-06-2021 ====
+- XiaomiParts Removed
+- Blur in QS and lockscreen added
+- Lag on Pixel Live Wallpapers fixed
+- FPS Info Fixed
+- ZRAM 4GB enebled
+- I/O Sheduler readahead up to 2048kb for 4GB variant and 512 for 3GB variant
+
 ==== 24-05-2021 ====
 - Kernel upstreamed source | 4.4.269
 
