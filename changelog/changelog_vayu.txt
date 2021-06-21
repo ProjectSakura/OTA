@@ -17,3 +17,6 @@ Android Version: 11
 -VOIP calls now Mono not Stereo Anymore
 -Fix some on Init file
 -Try Add Fastcharge detect
+
+====== 20 June 2021 =======
+-Add Fullscreen toggel for Legacy Apps
