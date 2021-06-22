@@ -1,10 +1,19 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Realme 6 (RMX2001)
-Device maintainer: Tanmay
+Device maintainer: Tanmay (@tlas01) & Sharan (@sharanpai)
 Android Version: 11
 
-==== 2021-05-13 ===-
+==== 2021-06-22 ====
+- Updated Gcam go to 1.11
+- Fixed percentage not showing while offline charging
+- Fixed Wifi calling 
+- Fixed Serial console notification at boot 
+- Added Double-tap to lock in QS and Realme settings
+- Removed Realme settings from launcher
+- Performance optimizations
+
+==== 2021-05-13 ====
 - Updated Gcam go to 1.9
 - Made UI more smoother
 - Improved RAM managment
