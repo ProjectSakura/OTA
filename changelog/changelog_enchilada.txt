@@ -5,9 +5,11 @@ Device maintainer: eduardo
 Android Version: 11
 
 ====15/05/2021====
+
 - hotfix for smartcharging
 
 ====15/05/2021====
+
 - UPDATE to 5.1!
 - June patch
 - rebase device/kernel to all LineageOS trees for more lineage feel to the Rom as dev intended.
