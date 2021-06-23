@@ -4,6 +4,12 @@ Device: Xiaomi Mi Note 10 (tucana)
 Device maintainer: Sanya Pilot
 Android Version: 11
 
+==== 2021-06-23 ====
+- Updated DT: fixed yellowish colors, improved battery life
+- Enabled ProtonAOSP blur
+- New Sakura features! (https://projectsakura.xyz/blog/#/5.1-june-2021-update)
+- June security patch
+
 ==== 2021-05-15 ====
 - New Sakura features! (https://projectsakura.xyz/posts/5.R-May-2021-update.html)
 - May security patch
