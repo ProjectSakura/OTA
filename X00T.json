@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623928654",
- "filename": "ProjectSakura-5.1-GAPPS-20210617-1319-X00T-OFFICIAL.zip",
- "id": "ea06fbe2487377c2265f93ab3b36ed17",
+ "datetime": "1624419730",
+ "filename": "ProjectSakura-5.1-GAPPS-20210623-0542-X00T-OFFICIAL.zip",
+ "id": "e08254123962a15e48b6f6460d70db52",
  "romtype":"nightly",
- "size": 1179493369,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.1-GAPPS-20210617-1319-X00T-OFFICIAL.zip",
+ "size": 1179178631,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.1-GAPPS-20210623-0542-X00T-OFFICIAL.zip",
  "version": "5.1"
 }
 ]

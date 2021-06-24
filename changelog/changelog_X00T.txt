@@ -4,6 +4,10 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 24 June 2021 =========
+
+- Fixed responsiveness issues
+
 ======= 17 June 2021 =========
 
 - Switched back to Stardust kernel
