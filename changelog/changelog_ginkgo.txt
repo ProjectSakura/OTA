@@ -1,17 +1,5 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8 (ginkgo)
-Device maintainer: Fernando Sánchez
+Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
-
-==== 2021-03-20 =====
-- Initial Android R release
-
-==== 2021-04-11 ====
-• Updated kernel: Surge 228 (Further tweaked for performance/battery)
-• April Security Patch merged
-• Update Redfin FP to April
-• Updated blobs from MIUI 21.3.21 (A11)
-• Smart Charging fixed
-• OnePlus Launcher compatibility fixed
-• Overall smoothness improved
