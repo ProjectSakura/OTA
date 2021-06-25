@@ -124,14 +124,6 @@
     "maintainer_photo": "https://avatars.githubusercontent.com/u/69016406?s=96&v=4"
   },
   {
-    "maintainer_name": "Fernando Sanchez",
-    "devices_mantaining": ["Xiaomi Redmi Note 8/8T Maintainer"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-brazil_1f1e7-1f1f7.png",
-    "telegram_link": "https://t.me/fernandosanch",
-    "github_link": "https://github.com/fernandosang",
-    "maintainer_photo": "https://avatars.githubusercontent.com/u/77039486?s=120&v=4"
-  },
-  {
     "maintainer_name": "Henrique",
     "devices_mantaining": ["ASUS ZenFone 5 Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-brazil_1f1e7-1f1f7.png",
@@ -218,5 +210,21 @@
     "telegram_link": "https://t.me/nift4",
     "github_link": "https://github.com/nift4",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/36458596?v=4"
+  },
+  {
+    "maintainer_name": "Ashwin DS",
+    "devices_mantaining": ["Xiaomi Redmi Note 8/8T Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-oman_1f1f4-1f1f2.png",
+    "telegram_link": "https://t.me/dsashwin",
+    "github_link": "https://github.com/geek0609",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/66074607?v=4"
+  },
+  {
+    "maintainer_name": "Karan Parashar",
+    "devices_mantaining": ["Xiaomi Redmi Note 8/8T Co-Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+    "telegram_link": "https://t.me/whyredFire",
+    "github_link": "https://github.com/whyredFire",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/72072109?v=4"
   }
 ]

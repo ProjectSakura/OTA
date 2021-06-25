@@ -432,12 +432,12 @@
       "brand": "Xiaomi",
       "name": "Redmi Note 8",
       "codename": "ginkgo",
-      "maintainer_name": "Fernando Sanchez",
-      "maintainer_xda": "null",
-      "maintainer_country": "BR",
-      "xda_thread": "",
-      "active": false,
-      "donation_link":""
+      "maintainer_name": "Ashwin DS & Karan Parashar",
+      "maintainer_xda": "https://forum.xda-developers.com/m/whyredfire.11124523/",
+      "maintainer_country": "IND",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-for-redmi-note-8-8t-unified-official.4277445/",
+      "active": true,
+      "donation_link":"https://www.paypal.com/paypalme/whyredfire"
     },
     {
       "brand": "Xiaomi",
