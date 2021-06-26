@@ -4,6 +4,18 @@ Device: Lenovo Z5s (jd2019)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-06-26 =====
+- June security patch
+- Disable DiscoveryService & NearbyMessagingService (was affecting wifi speed)
+- Disabled mobile plan preference item
+- Fixed GBoard spacing while immersive navigation
+- Set default hotspot name as Lenovo Z5s
+- Decreased launch boost to 3sec (system will boot faster)
+- Relaxed WiFi re-association RSSI thresholds (should fix random wifi crashes)
+- Switched to AOSP surfaceflinger (blur is smoother now)
+- Reduced screenshot delay to 0
+- Disabled WLAN Firmware loggings
+- Gesture navigation by default
 ==== 2021-04-25 =====
 - Built in ARCore
 ==== 2021-05-10 =====
