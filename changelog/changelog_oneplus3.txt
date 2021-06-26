@@ -21,3 +21,6 @@ Android Version: 11
 
 ==== 2021-05-01 =====
 -Kernel Improvements
+
+==== 2021-06-26 =====
+- Some device source side changes
