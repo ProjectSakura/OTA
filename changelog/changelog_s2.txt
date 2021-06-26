@@ -4,6 +4,14 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-06-26 =====
+- June security patch
+- Enforce Kernel
+- Latest Device source (Thanks to @tImIBreakdown)
+- kang bluetooth blobs from daisy 10
+- Update and drop deprecated media codecs
+- kang bluetooth blobs from daisy 10
+- drop Lineage charger
 ==== 2021-05-26 =====
 - Latest Device source (Thanks to @tImIBreakdown)
 - GPS has become faster
