@@ -20,3 +20,11 @@ Android Version: 11
 
 ====== 20 June 2021 =======
 -Add Fullscreen toggel for Legacy Apps
+
+====== 26 June 2021 =======
+-Add AOD display
+-Add Night Light
+-Screen framerate is now full Dynamic
+-QS FPS now Full Working
+
+
