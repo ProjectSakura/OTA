@@ -8,3 +8,7 @@ Recommened Recovery: Official TWRP 3.5.2_9 or later
 
 ======= 20 June 2021 =======
 - Initial official build based on official LineageOS trees
+
+======= 27 June 2021 =======
+- Lowered boot animation to 720p for faster booting
+- Added jpzex' scripts for kernel optimization
