@@ -1,9 +1,14 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 (surya)
-Device maintainer: ArmSM ( @UsingTheName ) & Agus ( @agustkid )
+Device maintainer: Agus ( @agustkid )
 Android Version: 11 
 
+===== 2021-06-30 =====
+- Switch to OSS Vendor build
+- Update blobs from LA.UM.9.1.r1-10200-SMxxx0.0
+- Update blobs from MIUI V12.0.1.0.RJGMIXM
+- Fix Offline Charging ( no need wait 10-20s)
 
 ===== 2021-05-27 =====
 - source updated to mid may
