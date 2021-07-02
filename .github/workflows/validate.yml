@@ -1,14 +1,20 @@
-name: Validate JSONs
-
-on: [pull_request]
-
+name: Validate Device JSONs
+on:
+  push:
+    branches:
+      - 11
+  pull_request:
+    branches:
+      - 11
 jobs:
-  verify-json-validation:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /.github/workflows/schema.json
-          INPUT_JSONS: /*.json
+      - uses: actions/checkout@v2
+      - name: validate
+        uses: anyone-developer/anyone-validate-json@main
+        with:
+          file-extension: ".json"
+          ignore-files: "README.md"
+          ignore-directories: ".git"
+          read-path: "/"
