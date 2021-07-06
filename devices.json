@@ -143,6 +143,17 @@
       "donation_link":"https://paypal.me/eduardoroms"
     },
     {
+      "brand": "OnePlus",
+      "name": "OnePlus 9 Pro",
+      "codename": "lemonadep",
+      "maintainer_name": "Eduardo",
+      "maintainer_xda": "null",
+      "maintainer_country": "US",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://paypal.me/eduardoroms"
+    },    
+    {
       "brand": "Realme",
       "name": "Realme 1",
       "codename": "CPH1859",
