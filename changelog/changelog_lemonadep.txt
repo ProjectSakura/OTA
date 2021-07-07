@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 9Pro
+Device maintainer: eduardo
+Android Version: 11
+
+====04/07/2021====
+- Initial Release!
+- June patch
+- all LineageOS trees for more lineage feel to the Rom as dev intended.
+- LiveDisplay and color now 100% available
+- Alert slider functioning correctly
+- build is beta, report issues w/logs on XDA thread
