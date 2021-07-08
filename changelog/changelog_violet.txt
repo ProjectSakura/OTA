@@ -4,6 +4,11 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: SpicyDoughnut
 Android Version: 11
 
+==== 2021-07-07 =====
+- june security patch merged
+- disabled wlan logging
+- source side improvements
+
 ==== 2021-17-04 =====
 - april security patch merged
 - smart charging fixed
