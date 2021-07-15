@@ -4,6 +4,8 @@ Device: Lenovo Z5s (jd2019)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-07-15 =====
+- July security patch
 ==== 2021-06-26 =====
 - June security patch
 - Disable DiscoveryService & NearbyMessagingService (was affecting wifi speed)
