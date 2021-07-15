@@ -4,6 +4,10 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 15 July 2021 =========
+
+- Fixed Wrong slot detection for VoLTE icons
+
 ======= 24 June 2021 =========
 
 - Fixed responsiveness issues
