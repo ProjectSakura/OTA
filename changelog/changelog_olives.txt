@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Nightly
+Device: Redmi 8 Series (olives)
+Device maintainer: deadlylxrd
+Android Version: 11
+
+==== 2021-07-15 ====
+- Initial OFFICIAL build
