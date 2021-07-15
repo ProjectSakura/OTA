@@ -4,16 +4,19 @@ Device: Motorola moto g7 power (ocean)
 Device maintainer: hisoka_simp
 Android Version: 11
 
-======= 05 May 2021 =======
--Initial official build
--dropped gapps version
--May 2021 Security Patch
+======= 14 July 2021 =======
+-bump to latest sakura update
+-update moto apps
+
+======= 17 June 2021 =======
+-add calender and calculator in vanilla build
+-Netflix issue fixed now
 
 ======= 23 May 2021 =======
 -fixed the space for google search bar on the homescreen
 -switched to amys common tree
 
-
-======= 17 June 2021 =======
--add calender and calculator in vanilla build
--Netflix issue fixed now
+======= 05 May 2021 =======
+-Initial official build
+-dropped gapps version
+-May 2021 Security Patch
