@@ -4,5 +4,14 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 15 July 2021 =======
+- Removed smartcharging
+- Updated blobs from MIUI 21.7.13
+- Switched to QTI health implementation
+- Changes to Stune Configuration
+- Added LED indicator for offline charging
+- Freed some RAM from useless virtual framebuffer
+- Kernel upstreamed to 4.14.238 QuicksilveR-v2.5 
+
 ====== 27 June 2021 =======
 - Initial official build
