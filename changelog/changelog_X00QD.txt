@@ -4,6 +4,13 @@ Device: Asus Zenfone 5 2018 (X00QD)
 Device maintainer: henricaodopao
 Android Version: 11
 
+==== 2021-07-15 ====
+- July Security Patch
+- Switch to userdebug again
+- Fix WFD (kinda)
+- Fix blue screen after using camera sometimes (hopefully for the love of god)
+- Import Pixel power-libperfmgr 
+
 ==== 2021-06-17 ====
 - Switch to user build
 - June Security Patch
