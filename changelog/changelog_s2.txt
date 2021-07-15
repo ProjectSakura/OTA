@@ -4,6 +4,11 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-07-15 =====
+- July security patch
+- system.prop: cleanup and reorganized
+- Cleanup dead targets
+- Enable IWLAN overlays
 ==== 2021-06-26 =====
 - June security patch
 - Enforce Kernel
