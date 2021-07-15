@@ -4,6 +4,11 @@ Device: OnePlus 9Pro
 Device maintainer: eduardo
 Android Version: 11
 
+====07/14/2021====
+- July ASB
+- OTA re-authorized
+- lots os source side stuffs
+
 ====07/07/2021====
 switch back to full sideload zip
 
