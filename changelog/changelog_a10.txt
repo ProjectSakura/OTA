@@ -4,6 +4,10 @@ Device: Samsung Galaxy A10 (a10)
 Device maintainer: Chatur
 Android Version: 11
 
+==== 2021-07-15 =====
+- July Security Patch
+- Support dropped
+
 ==== 2021-06-17 =====
 - June Security Patch
 - Switched to user build
