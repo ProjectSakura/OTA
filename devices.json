@@ -419,6 +419,17 @@
     },
     {
       "brand": "Xiaomi",
+      "name": "Redmi 8 Series",
+      "codename": "olives",
+      "maintainer_name": "IAmDeadlylxrd",
+      "maintainer_xda": "null",
+      "maintainer_country": "RUS",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },    
+    {
+      "brand": "Xiaomi",
       "name": "Redmi Note 7",
       "codename": "lavender",
       "maintainer_name": "AlissonGrizotti",

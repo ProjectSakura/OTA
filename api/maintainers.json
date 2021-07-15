@@ -226,5 +226,13 @@
     "telegram_link": "https://t.me/whyredFire",
     "github_link": "https://github.com/whyredFire",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/72072109?v=4"
-  }
+  },
+  {
+    "maintainer_name": "IAmDeadlylxrd",
+    "devices_mantaining": ["Redmi 8 Series"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-russia_1f1f7-1f1fa.png",
+    "telegram_link": "https://t.me/deadlylxrd",
+    "github_link": "https://github.com/IAmDeadlylxrd",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/84336055?v=4"
+  }  
 ]
