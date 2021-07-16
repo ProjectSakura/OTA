@@ -1,8 +1,13 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Monthly(Vanilla)
 Device: Samsung Galaxy Note8 (greatlte)
 Device maintainer: Haridhayal
 Android Version: 11
+
+Recommended gapps: https://opengapps.org/
+
+==== 2021-07-16 =====
+- July Patch 
 
 ==== 2021-06-17 ===== (CLEAN FLASH REQUIRED)
 - Switched to Vanilla. (If you want gapps flash Nikgapps after flashing ROM)
