@@ -4,15 +4,52 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: abhixv
 Android Version: 11
 
-==== 2020-12-14 =====
-- Initial Official Build
-- Added Face Unlock
-- Kernel upstream to linux 4.14.211+
-- Added Xiaomi Parts
-- Added Engineering Mode
-- Fixed CPU offline status
-- Fixed SystemUI freezing
-- Safetynet (CTS) true by magisk hide.
+==== 2021-07-15 ====
+- 5.1 Update based on Lineage 18.1
+- July Secuity Patch
+- Enable MTK 1.3 neural networks HAL 
+- Update Neural Networks stack from begonia V12.5.1.0 RGGCNXM 
+- Updated apn configs from RP1A.200720.011 
+- Add Support for Smart Charging & Smart cutoff
+- Enable Gboard rounded corners
+
+==== 2021-06-19 ====
+- 5.1 Update based on Lineage 18.1
+- July Secuity Patch
+- Update blobs from begonia V12.0.7.0.QGGMIXM 
+- Updated apn configs from RP1A.200720.011 
+- Updated media configs from begonia V12.0.7.0.QGGMIXM 
+- Updated nfc configs from begonia V12.0.7.0.QGGMIXM
+- Set arch variant to ARMv8.2-A 
+- Enabled Call Recording
+- Fixed Charging LED
+
+==== 2021-05-10 ====
+- 5.R Update based on Lineage 18.1
+- May Secuity Patch
+
+==== 2021-04-11 ====
+- 5.R Update based on Lineage 18.1
+- April Secuity Patch
+- Updated FP to Sunfish April
+- Upstreamed NextKernel
+
+==== 2021-01-19 = ====
+- Initial VNDK30 build
+- Kernel Upstream to linux 4.14.215+
+- Updated FP to Sunfish January
+- Changed Pixel Props to Sunfish RQ1A.201205.002
+- Fixed lockscreen charging info values
+
+==== 2021-01-09 =====
+- Synced with latest source changes
+- January Secuity Patch
+- Updated Xiaomi Parts
+- Fix ANXCam 64MP
+
+==== 2020-12-29 =====
+- 4.R Update based on Lineage 18.1
+- CTS true by default
 
 ===== 2020-12-24 =====
 - Kernel Upstream to v4.14.212+
@@ -23,40 +60,26 @@ Android Version: 11
 - Switched to OSS IMS & VT Service
 - little misc changes.
 
-==== 2020-12-29 =====
-- 4.R Update based on Lineage 18.1
-- CTS true by default
+==== 2020-12-14 =====
+- Initial Official Build
+- Added Face Unlock
+- Kernel upstream to linux 4.14.211+
+- Added Xiaomi Parts
+- Added Engineering Mode
+- Fixed CPU offline status
+- Fixed SystemUI freezing
+- Safetynet (CTS) true by magisk hide.
 
-==== 2021-01-09 =====
-- Synced with latest source changes
-- January Secuity Patch
-- Updated Xiaomi Parts
-- Fix ANXCam 64MP
 
-==== 2021-01-19 = ====
-- Initial VNDK30 build
-- Kernel Upstream to linux 4.14.215+
-- Updated FP to Sunfish January
-- Changed Pixel Props to Sunfish RQ1A.201205.002
-- Fixed lockscreen charging info values
 
-==== 2021-04-11 ====
-- 5.R Update based on Lineage 18.1
-- April Secuity Patch
-- Updated FP to Sunfish April
-- Upstreamed NextKernel
 
-==== 2021-05-10 ====
-- 5.R Update based on Lineage 18.1
-- May Secuity Patch
 
-==== 2021-06-19 ====
-- 5.1 Update based on Lineage 18.1
-- June Secuity Patch
-- Update blobs from begonia V12.0.7.0.QGGMIXM 
-- Updated apn configs from RP1A.200720.011 
-- Updated media configs from begonia V12.0.7.0.QGGMIXM 
-- Updated nfc configs from begonia V12.0.7.0.QGGMIXM
-- Set arch variant to ARMv8.2-A 
-- Enabled Call Recording
-- Fixed Charging LED
+
+
+
+
+
+
+
+
+
