@@ -1,0 +1,22 @@
+name: post-bot
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  postman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dep
+        run: sudo pip install pyTelegramBotAPI
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: 11
+
+      - name: Bot
+        run: ls && sudo python3 post-bot/post.py ${{ secrets.CHAT }} ${{ secrets.BOT_API }}
+
+      - name: Commit and Push Changes
+        run: sudo bash post-bot/push.sh
