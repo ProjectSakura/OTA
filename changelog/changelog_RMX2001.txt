@@ -4,6 +4,11 @@ Device: Realme 6 (RMX2001)
 Device maintainer: Tanmay (@tlas01) & Sharan (@sharanpai)
 Android Version: 11
 
+==== 2021-07-18 ====
+- Added performance profiles
+- Changed default dp to 411
+- Miscellaneous improvements
+
 ==== 2021-06-22 ====
 - Updated Gcam go to 1.11
 - Fixed percentage not showing while offline charging
