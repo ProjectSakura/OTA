@@ -4,6 +4,12 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 18 July 2021 =======
+- Added Smartcharging back
+- Kernel upstreamed to 4.14.239 QuicksilveR-v2.5
+- Wi-Fi Display Fixed
+- Fixed random reboots for few users
+
 ====== 15 July 2021 =======
 - Removed smartcharging
 - Updated blobs from MIUI 21.7.13

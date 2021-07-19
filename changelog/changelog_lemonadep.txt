@@ -10,6 +10,10 @@ hot fix fod
 sync last minute source changes
 trying a fix for android auto
 
+====07/17/2021====
+sync last minute source changes
+trying a fix for android auto
+
 ====07/14/2021====
 - July ASB
 - OTA re-authorized
