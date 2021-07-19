@@ -3,6 +3,8 @@ Build type: Monthly
 Device: OnePlus 9Pro
 Device maintainer: eduardo
 Android Version: 11
+====07/19/2021====
+hot fix fod
 
 ====07/17/2021====
 sync last minute source changes
