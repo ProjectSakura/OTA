@@ -24,3 +24,7 @@ Android Version: 11
 
 ==== 2021-06-26 =====
 - Some device source side changes
+
+==== 2021-07-19 =====
+- Fix Safety Net
+- Remove Lineage recovery
