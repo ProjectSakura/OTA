@@ -16,7 +16,9 @@ jobs:
           ref: 11
 
       - name: Bot
-        run: ls && sudo python3 post-bot/post.py ${{ secrets.CHAT }} ${{ secrets.BOT_API }}
-
+        run: ls && sudo -E python3 post-bot/post.py
+        env:
+          BOT_API: ${{ secrets.BOT_API }}
+          CHAT: ${{ secrets.CHAT }}
       - name: Commit and Push Changes
         run: sudo bash post-bot/push.sh

@@ -2,7 +2,9 @@
 #
 # Python code which automatically sends a Message in a Telegram Group if any new update is found.
 # Intended to be run on every push
-# USAGE : python post.py <Telegram API Key> <Chat ID>
+# USAGE : python post.py
+# See README for more.
+#
 # Copyright (C) 2021 Ashwin DS <astroashwin@outlook.com>
 #
 # This program is free software; you can redistribute it and/or modify
@@ -25,8 +27,8 @@ import time
 import telebot
 
 # Get secrets from Workflow
-BOT_API = sys.argv[2]
-CHAT_ID = sys.argv[1]
+BOT_API = os.environ.get("BOT_API")
+CHAT_ID = os.environ.get("CHAT")
 
 STICKER_ID = "CAADBQADhQEAAuMfMFaRTTlHKvI1RwI"
 

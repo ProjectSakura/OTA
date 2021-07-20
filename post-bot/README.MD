@@ -7,7 +7,7 @@ A code written in Python that is meant to be run using Github Actions on push wh
 
 ## Running the code
 
-Code is meant to be inside of a folder named ```post-bot``` in the ```OTA``` repository. To run it:  
+Code is meant to be inside of a folder named ```post-bot``` in the ```OTA``` repository. To run it, set environment variable ```BOT_API``` to your API Token and ```CHAT``` to chat ID, then run the code below : 
 ```shell
-python3 post-bot/post.py <Telegram API Key> <Chat ID>
+python3 post-bot/post.py
 ```
