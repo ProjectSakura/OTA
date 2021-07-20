@@ -28,6 +28,8 @@ import telebot
 BOT_API = sys.argv[2]
 CHAT_ID = sys.argv[1]
 
+STICKER_ID = "CAADBQADhQEAAuMfMFaRTTlHKvI1RwI"
+
 # Init the bot
 bot = telebot.TeleBot(BOT_API, parse_mode="HTML")
 
@@ -165,6 +167,7 @@ print(get_diff(new, old))
 for i in get_diff(new, old):
     print(i)
     info = get_info(i)
+    bot.send_sticker(CHAT_ID, STICKER_ID)
     send_mes(cook_content(info))
     send_photo("post-bot/post.jpg", cook_content(info))
     time.sleep(15)
