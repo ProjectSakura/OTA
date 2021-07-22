@@ -4,6 +4,11 @@ Device: Motorola moto g(7) play (channel)
 Device maintainer: Amy Grace (amyosx, 00p513)
 Android Version: 11
 
+======== 22 July 2021 =======
+
+- Moto apps dropped
+- July security patch
+
 ======== 15 May 2021 =========
 
 - Switch to Android GO
