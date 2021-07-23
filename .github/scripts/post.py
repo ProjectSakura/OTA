@@ -53,7 +53,7 @@ def send_photo(image, caption):
 
 # store MD5s in a file to compare
 def update(IDs):
-    with open("post-bot/log.txt", "w+") as f:
+    with open(".github/scripts/log.txt", "w+") as f:
         for s in IDs:
             f.write(str(s) + "\n")
 
@@ -77,7 +77,7 @@ def get_id():
 # Return previous IDs
 def read_old():
     old_id = []
-    file = open("post-bot/log.txt", "r")
+    file = open(".github/scripts/log.txt", "r")
     for line in file.readlines():
         old_id.append(line.replace("\n", ""))
     return old_id
@@ -171,7 +171,7 @@ for i in get_diff(new, old):
     info = get_info(i)
     bot.send_sticker(CHAT_ID, STICKER_ID)
     send_mes(cook_content(info))
-    send_photo("post-bot/post.jpg", cook_content(info))
+    send_photo(".github/scripts/post.jpg", cook_content(info))
     time.sleep(15)
 
 update(new)
