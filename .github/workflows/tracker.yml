@@ -1,0 +1,21 @@
+name: update_tracker
+on:
+  workflow_dispatch:
+
+jobs:
+  postman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dep
+        run: sudo pip install pyTelegramBotAPI
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: 11
+
+      - name: Bot
+        run: sudo -E python3 .github/scripts/list.py
+        env:
+          BOT_API: ${{ secrets.BOT_API }}
+          CHAT_PRIV: ${{ secrets.CHAT_PRIV }}
