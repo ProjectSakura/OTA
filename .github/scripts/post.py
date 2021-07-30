@@ -139,13 +139,19 @@ def get_info(id):
 
     return {
         "device": device,
-        "size": str((int(required['size'])/1000000).__trunc__()),
+        "size": str(required['size']),
         "maintainer": maintainer,
         "variant": variant,
         "version" : required['version'],
         'name' : name,
         "brand" : brand,
-        "notes" : notes
+        "notes" : notes,
+        "time" : required['datetime'],
+        "filename" : required['filename'],
+        "id" : required['id'],
+        "romtype" : required['romtype'],
+        "url" : required['url'],
+        "updater" : required['updater']
     }
 
 
@@ -172,6 +178,23 @@ def cook_content(information):
     return message
 
 
+def update_json(information):
+    new = "{\n" \
+          "\"response\": [\n" \
+          "{\n" \
+          " \"datetime\": \"" + information['time'] + "\",\n" \
+          " \"filename\": \"" + information['filename'] + "\",\n" \
+          " \"id\": \""+ information['id']+  "\",\n" \
+          " \"romtype\":\"" + information['romtype'] + "\",\n" \
+          " \"size\": " + information['size'] + ",\n" \
+          " \"url\": \"" + information['url'] + "\",\n"\
+          " \"version\": \"" + information['version'] + "\"\n"\
+          "}\n" \
+          "]\n" \
+          "}\n"
+    file = open("updater/" + information['device'] + ".json", "w+")
+    file.write(new)
+
 new = get_id()
 old = read_old()
 
@@ -186,6 +209,8 @@ for i in get_diff(new, old):
     bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
     send_photo(".github/scripts/banner.png", cook_content(info))
+    if info["updater"]:
+        update_json(info)
     time.sleep(15)
 
 update(new)
