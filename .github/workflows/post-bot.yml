@@ -16,7 +16,7 @@ jobs:
           ref: 11
 
       - name: Bot
-        run: ls && sudo -E python3 .github/scripts/post.py
+        run: sudo -E python3 .github/scripts/post.py
         env:
           BOT_API: ${{ secrets.BOT_API }}
           CHAT: ${{ secrets.CHAT }}
