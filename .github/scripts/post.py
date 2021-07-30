@@ -115,6 +115,12 @@ def get_info(id):
 
     if "VANILLA" in required['filename']:
         variant = "Vanilla"
+    elif "GAPPS-Core" in required['filename']:
+        variant = "GApps Core"
+    elif "GAPPS-Basic" in required['filename']:
+        variant = "GApps Basic"
+    elif "microg" in required['filename'].lower():
+        variant = "MicroG"
     else:
         variant = "GApps"
 
