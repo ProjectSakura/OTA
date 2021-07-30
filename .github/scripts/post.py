@@ -185,7 +185,7 @@ for i in get_diff(new, old):
     info = get_info(i)
     bot.send_sticker(CHAT_ID, STICKER_ID)
     send_mes(cook_content(info))
-    send_photo(".github/scripts/post.jpg", cook_content(info))
+    send_photo(".github/scripts/banner.png", cook_content(info))
     time.sleep(15)
 
 update(new)
