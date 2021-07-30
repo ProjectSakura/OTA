@@ -124,12 +124,18 @@ def get_info(id):
     else:
         variant = "GApps"
 
+    if required['updater']:
+        notes = "✅ OTA has been pushed; Clean flash not mandatory"
+    else:
+        notes = "❎ OTA not pushed; Clean flash mandatory"
+
     print("Device is : " + device)
     print("Size is : " + str(required['size']))
     print("Maintained by : " + maintainer)
     print("File name : " + required['filename'])
     print("Version : " + required['version'])
     print("Variant : " + variant)
+    print("Notes : " + notes)
 
     return {
         "device": device,
@@ -138,7 +144,8 @@ def get_info(id):
         "variant": variant,
         "version" : required['version'],
         'name' : name,
-        "brand" : brand
+        "brand" : brand,
+        "notes" : notes
     }
 
 
@@ -159,6 +166,7 @@ def cook_content(information):
         "❕ " + bold("Variant: ", str(information["variant"])) + "\n" + \
         "⬇️ " + bold("<a href=\"https://projectsakura.xyz/download/#/\">Download</a>", "") + "\n" + \
         "📰 " + bold("<a href=\"https://projectsakura.xyz/blog/#/\">Blog</a>", "") + "\n\n" + \
+        bold(information['notes'], "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
         "@ProjectSakuraUpdates | @ProjectSakura"
     return message
