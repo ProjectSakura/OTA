@@ -136,7 +136,7 @@ def get_info(id):
     }
 
 
-def space(text1, text2):
+def bold(text1, text2):
     message = "<b>" + text1 + "</b>" + text2
     return message
 
@@ -147,12 +147,12 @@ def cook_content(information):
     # links need to be in this format <a href="http://www.example.com/">inline URL</a>
     message = message + \
         "<b>New Update for " + information['name'] +  " (" + str(information['device'] ) + ") is here!</b>\n" + \
-        "👤 " + space("by ", str(information["maintainer"]) ) + "\n\n" + \
-        "ℹ️ " + space("Version : ", str(information['version'])) + "\n" +\
-        "📆 " + space("Date: ", str(datetime.date.today()).replace("-", "/") )+ "\n" + \
-        "❕ " + space("Variant: ", str(information["variant"]) ) + "\n" + \
-        "⬇️ " + space("<a href=\"https://projectsakura.xyz/download/#/\">Download</a>", "") + "\n" + \
-        "📰 " + space("<a href=\"https://projectsakura.xyz/blog/#/\">Blog</a>", "") + "\n\n" + \
+        "👤 " + bold("by ", str(information["maintainer"])) + "\n\n" + \
+        "ℹ️ " + bold("Version : ", str(information['version'])) + "\n" +\
+        "📆 " + bold("Date: ", str(datetime.date.today()).replace("-", "/")) + "\n" + \
+        "❕ " + bold("Variant: ", str(information["variant"])) + "\n" + \
+        "⬇️ " + bold("<a href=\"https://projectsakura.xyz/download/#/\">Download</a>", "") + "\n" + \
+        "📰 " + bold("<a href=\"https://projectsakura.xyz/blog/#/\">Blog</a>", "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
         "@ProjectSakuraUpdates | @ProjectSakura"
     return message
