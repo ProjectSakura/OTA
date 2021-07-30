@@ -36,7 +36,7 @@ STICKER_ID = "CAADBQADhQEAAuMfMFaRTTlHKvI1RwI"
 bot = telebot.TeleBot(BOT_API, parse_mode="HTML")
 
 # Where to look for .json files
-fileDir = "."
+fileDir = "website"
 fileExt = ".json"
 
 
@@ -68,7 +68,7 @@ def get_id():
 
     file_id = []
     for a in result:
-        file = open(a, "r")
+        file = open( fileDir + "/" + a, "r")
         json_processed = json.loads(file.read())
         file_id.append(json_processed['response'][0]['id'])
     return file_id
@@ -98,7 +98,7 @@ def get_info(id):
             if a != "devices.json":
                 devices.append(a)
     for a in devices:
-        file = open(a, "r")
+        file = open(fileDir + "/" + a, "r")
         json_processed = json.loads(file.read())
         if json_processed['response'][0]['id'] == id:
             print(json_processed['response'][0])
