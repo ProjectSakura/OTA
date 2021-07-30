@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1624252065",
+ "filename": "ProjectSakura-5.1-GAPPS-20210621-1037-phoenix-OFFICIAL.zip",
+ "id": "72d52d901112a7e62d9359904d100819",
+ "romtype":"nightly",
+ "size": 1737239485,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/phoenix/ProjectSakura-5.1-GAPPS-20210621-1037-phoenix-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.1"
+}
+]
+}

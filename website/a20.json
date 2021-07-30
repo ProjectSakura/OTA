@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1626352642",
+ "filename": "ProjectSakura-5.1-VANILLA-20210714-1618-a20-OFFICIAL.zip",
+ "id": "8ae539f49289ec22cee3314390758b5b",
+ "romtype":"nightly",
+ "size": 855894013,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a20/ProjectSakura-5.1-VANILLA-20210714-1618-a20-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.1"
+}
+]
+}

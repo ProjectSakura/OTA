@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1621315371",
+ "filename": "ProjectSakura-5.R-VANILLA-20210518-0525-CPH1859-OFFICIAL.zip",
+ "id": "460e57b3373d0593363dfcd8bc2a35f2",
+ "romtype":"nightly",
+ "size": 719927598,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/CPH1859/ProjectSakura-5.R-VANILLA-20210518-0525-CPH1859-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.R"
+}
+]
+}

@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1610224287",
+ "filename": "ProjectSakura-4.R-VANILLA-20210110-0205-m30lte-OFFICIAL.zip",
+ "id": "af45eb1a276692259165287726b61fb7",
+ "romtype":"nightly",
+ "size": 666945782,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/m30lte/ProjectSakura-4.R-VANILLA-20210110-0205-m30lte-OFFICIAL.zip",
+ "updater": false, 
+ "version": "4.R"
+}
+]
+}

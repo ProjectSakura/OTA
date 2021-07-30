@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1610226195",
+ "filename": "ProjectSakura-4.R-VANILLA-20210110-0236-a30-OFFICIAL.zip",
+ "id": "e4ff3755fd22cb62041880b07e2f9273",
+ "romtype":"nightly",
+ "size": 669987175,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a30/ProjectSakura-4.R-VANILLA-20210110-0236-a30-OFFICIAL.zip",
+ "updater": false, 
+ "version": "4.R"
+}
+]
+}

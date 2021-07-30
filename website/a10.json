@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1626352642",
+ "filename": "ProjectSakura-5.1-VANILLA-20210714-1756-a10-arm-OFFICIAL.zip",
+ "id": "ad236e1e9375a391bf7071ed6c1a3682",
+ "romtype":"nightly",
+ "size": 677476057,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a10/ProjectSakura-5.1-VANILLA-20210714-1756-a10-arm-OFFICIAL.zip",
+ "updater": false,
+ "version": "5.1"
+}
+]
+}

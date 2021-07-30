@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1626688633",
+ "filename": "ProjectSakura-5.1-VANILLA-20210719-1057-oneplus3-OFFICIAL.zip",
+ "id": "4a7c8648ed9979205a2ef1508231e04b",
+ "romtype":"nightly",
+ "size": 973923965,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/oneplus3/ProjectSakura-5.1-VANILLA-20210719-1057-oneplus3-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.1"
+}
+]
+}

@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1616274337",
+ "filename": "ProjectSakura-5.R-VANILLA-20210320-1807-jasmine_sprout-OFFICIAL.zip",
+ "id": "409ec66f6f36cc5662dcacbd124b42aa",
+ "romtype":"nightly",
+ "size": 868139900,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/jasmine_sprout/ProjectSakura-5.R-VANILLA-20210320-1807-jasmine_sprout-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.R"
+}
+]
+}

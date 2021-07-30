@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1626967922",
+ "filename": "ProjectSakura-5.1-VANILLA-20210722-1533-channel-OFFICIAL.zip",
+ "id": "3f202cb9b21178c7ddbdafc59597192e",
+ "romtype":"nightly",
+ "size": 692682492,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/channel/ProjectSakura-5.1-VANILLA-20210722-1533-channel-OFFICIAL.zip",
+ "updater": false, 
+ "version": "5.1"
+}
+]
+}
