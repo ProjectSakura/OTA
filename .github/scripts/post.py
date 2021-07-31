@@ -198,7 +198,7 @@ def update_json(information):
 new = get_id()
 old = read_old()
 
-if new == old:
+if len(get_diff(new, old)) == 0:
     print("All Updated\nNothing to do\nExiting")
     exit()
 
