@@ -203,6 +203,8 @@ if len(get_diff(new, old)) == 0:
     exit()
 
 print(get_diff(new, old))
+commit_message = "Update new IDs without pushing OTA"
+commit_descriptions = "Data for following device(s) were changed :\n"
 for i in get_diff(new, old):
     print(i)
     info = get_info(i)
@@ -211,6 +213,11 @@ for i in get_diff(new, old):
     send_photo(".github/scripts/banner.png", cook_content(info))
     if info["updater"]:
         update_json(info)
+        commit_message = "Update new IDs and push OTA"
+    commit_descriptions += info['name'] + " (" + info['device'] + ")\n"
     time.sleep(15)
+
+
+open("commit_mesg.txt", "w+").write( "OTA : " + commit_message + " [BOT]\n" + commit_descriptions)
 
 update(new)
