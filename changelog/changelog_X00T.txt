@@ -4,6 +4,15 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 01 August 2021 =======
+
+- Clean Flash is mandatory
+- Switched to userdebug builds
+- Switched to Darkonah kernel as default
+- Blur is completely smooth now
+- Shipping with BASIC gapps
+- Enabled rounded corners for Gboard
+
 ======= 15 July 2021 =========
 
 - Fixed Wrong slot detection for VoLTE icons
