@@ -4,7 +4,10 @@ Device: Poco X3 Pro (vayu)
 Device maintainer: kiam001
 Android Version: 11
 
-
+====== 01 August 2021 =======
+- Some tree fixes (Sample flash light full working) by SebaUbuntu
+- Netflix now Level 1 fix by Foxrot47
+- Project Sakura v5.2
 
 ====== 14 July 2021 =======
 -Tree now Based on OSS vendor and trees by SeabaUbuntu
