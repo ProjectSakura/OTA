@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1626343703",
- "filename": "ProjectSakura-5.1-VANILLA-20210715-1010-dream2lte-OFFICIAL.zip",
- "id": "c8a43c557cda1576c551e40683c845cb",
+ "datetime": "1627782664",
+ "filename": "ProjectSakura-5.2-VANILLA-20210801-0152-dream2lte-OFFICIAL.zip",
+ "id": "bdd721f2639a3e4e60c8c22f6e9fdcae",
  "romtype":"nightly",
- "size": 831350973,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/dream2lte/ProjectSakura-5.1-VANILLA-20210715-1010-dream2lte-OFFICIAL.zip",
- "version": "5.1"
+ "size": 828921310,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/dream2lte/ProjectSakura-5.2-VANILLA-20210801-0152-dream2lte-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
