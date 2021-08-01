@@ -4,6 +4,10 @@ Device: Motorola moto g7 power (ocean)
 Device maintainer: hisoka_simp
 Android Version: 11
 
+======= 01 August 2021 ======
+-switch to basic gapps
+-add rounded corners for gapps
+
 ======= 14 July 2021 =======
 -bump to latest sakura update
 -update moto apps
