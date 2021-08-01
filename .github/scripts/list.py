@@ -36,6 +36,8 @@ CHAT_ID = os.environ.get("CHAT_PRIV")
 # Init the bot
 bot = telebot.TeleBot(BOT_API, parse_mode="HTML")
 
+json_dir = "website"
+
 def send_mes(message):
     return bot.send_message(chat_id=CHAT_ID, text=message, disable_web_page_preview=True)
 
@@ -45,7 +47,7 @@ def active_devices ():
     devices = []
     for device in json_processed:
         if device['active']:
-            device_json = json.loads(open(device['codename'] + ".json").read())
+            device_json = json.loads(open(json_dir + "/" + device['codename'] + ".json").read())
             devices.append({
                 "codename" : device['codename'],
                 "maintainer" : device['maintainer_name'],
