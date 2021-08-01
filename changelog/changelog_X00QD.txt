@@ -4,6 +4,12 @@ Device: Asus Zenfone 5 2018 (X00QD)
 Device maintainer: henricaodopao
 Android Version: 11
 
+==== 2021-08-01 ====
+- Clean Flash mandatory
+- Improve charging speed
+- Ship with basic gapps
+
+
 ==== 2021-07-15 ====
 - July Security Patch
 - Switch to userdebug again
