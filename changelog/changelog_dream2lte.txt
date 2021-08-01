@@ -6,6 +6,9 @@ Android Version: 11
 
 Recommended gapps: https://opengapps.org/
 
+==== 2021-08-01 =====
+- Fixed Galaxy Wearable App. (Can be installed using apk. Spoofing device is not needed.)
+
 ==== 2021-07-16 =====
 - July Patch 
 

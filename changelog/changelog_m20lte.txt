@@ -4,6 +4,16 @@ Device: Samsung Galaxy M20 (m20lte)
 Device maintainer: Haridhayal
 Android Version: 11
 
+Recommended gapps: https://opengapps.org/
+
+==== 2021-08-01 ===== (CLEAN FLASH REQUIRED)
+- Included vendor (source built, full vndk 30(R))
+- Compiled as much as possible blobs from source
+- Nuked samsung junks from vendor
+- Enabled 5Ghz wifi support, yes!
+- Updated Midgard GPU driver to r26p0
+- Fixed Galaxy Wearable App. (Can be installed using apk. Spoofing device is not needed.)
+
 ==== 2021-06-17 ===== (CLEAN FLASH REQUIRED)
 - Switched to Vanilla. (If you want gapps flash Nikgapps after flashing ROM)
 - June Patch
