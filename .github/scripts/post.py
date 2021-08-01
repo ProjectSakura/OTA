@@ -172,6 +172,7 @@ def cook_content(information):
         "❕ " + bold("Variant: ", str(information["variant"])) + "\n" + \
         "⬇️ " + bold("<a href=\"https://projectsakura.xyz/download/#/\">Download</a>", "") + "\n" + \
         "📰 " + bold("<a href=\"https://projectsakura.xyz/blog/#/\">Blog</a>", "") + "\n\n" + \
+        bold(information['notes'], "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
         "@ProjectSakuraUpdates | @ProjectSakura"
     return message
