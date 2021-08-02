@@ -4,5 +4,18 @@ Device: Redmi 8 Series (olives)
 Device maintainer: deadlylxrd
 Android Version: 11
 
+==== 2021-08-01 ====
+Device side:
+- Updated to 5.2
+- Clean flash is mandatory
+- Added some scrolling tweaks
+- Added some baterry tweaks
+- Using blur from ProtonAOSP
+- Enable GBoard rounded corners
+- Shipping with CORE gapps
+
+Kernel side:
+- Upstreamed to 4.9.276
+
 ==== 2021-07-15 ====
 - Initial OFFICIAL build
