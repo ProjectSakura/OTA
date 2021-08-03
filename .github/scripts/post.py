@@ -210,7 +210,7 @@ for i in get_diff(new, old):
     info = get_info(i)
     bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
-    send_photo(".github/scripts/banner.png", cook_content(info))
+    send_photo(".github/assets/banner.png", cook_content(info))
     if info["updater"]:
         update_json(info)
         commit_message = "Update new IDs and push OTA"
