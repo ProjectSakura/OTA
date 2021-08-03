@@ -1,14 +1,14 @@
 {
 "response": [
 {
- "datetime": "1624442212",
- "filename": "ProjectSakura-5.1-VANILLA-20210623-1257-tucana-OFFICIAL.zip",
- "id": "494b8191874768c1b38505f9d50ad277",
+ "datetime": "1627981707",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210803-1213-tucana-OFFICIAL.zip",
+ "id": "db0610eb60074c9e6521898d475ea2b0",
  "romtype":"nightly",
- "size": 1459890007,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-5.1-VANILLA-20210623-1257-tucana-OFFICIAL.zip",
- "updater": false, 
- "version": "5.1"
+ "size": 1623014557,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-5.2-GAPPS-Basic-20210803-1213-tucana-OFFICIAL.zip",
+ "updater": false,
+ "version": "5.2"
 }
 ]
 }
