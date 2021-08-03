@@ -4,6 +4,14 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: abhixv
 Android Version: 11
 
+==== 2021-08-03 ====
+- 5.2 Update based on Lineage 18.1
+- July Secuity Patch
+- Initial Gapps Build
+- Added brightness values from sunfish 
+- Added MIUI poweroff charging animation 
+- Improved System Stability
+
 ==== 2021-07-15 ====
 - 5.1 Update based on Lineage 18.1
 - July Secuity Patch
