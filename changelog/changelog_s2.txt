@@ -4,6 +4,11 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-08-03 =====
+- Clean Flash is mandatory!
+- Changing vanilla to Core Gapps
+- SafetyNet Passed
+- New Fingerprint props (for SafetyNet)
 ==== 2021-07-15 =====
 - July security patch
 - system.prop: cleanup and reorganized
