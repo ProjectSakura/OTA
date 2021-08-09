@@ -4,6 +4,10 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 08 August 2021 =======
+- August Security Patch
+- Kernel Upstreamed to QS 4.14.242
+
 ====== 01 August 2021 =======
 - Kernel Upstreamed to QS 4.14.241
 - Update MIUI blobs to V12.0.1.0.RCOMIXM

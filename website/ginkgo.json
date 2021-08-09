@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1627800986",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210801-0659-ginkgo-OFFICIAL.zip",
- "id": "0b539160c7462b67aafb4adb447e04bf",
+ "datetime": "1628383501",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210808-0047-ginkgo-OFFICIAL.zip",
+ "id": "f864fd95ac3097fc1391de935da38223",
  "romtype":"nightly",
- "size": 1381557241,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20210801-0659-ginkgo-OFFICIAL.zip",
- "updater": false,
+ "size": 1374843165,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/ginkgo/ProjectSakura-5.2-GAPPS-Basic-20210808-0047-ginkgo-OFFICIAL.zip",
+ "updater": true,
  "version": "5.2"
 }
 ]
