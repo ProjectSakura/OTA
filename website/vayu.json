@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1627745068",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210731-1729-vayu-OFFICIAL.zip",
- "id": "03cdce22521fc7361c8ddaaa337f46a5",
+ "datetime": "1628427450",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210808-1504-vayu-OFFICIAL.zip",
+ "id": "51b740dc362e075ae788bf286d4c0280",
  "romtype":"nightly",
- "size": 1447414529,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/vayu/ProjectSakura-5.2-GAPPS-Basic-20210731-1729-vayu-OFFICIAL.zip",
- "updater": false,
+ "size": 1448395314,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/vayu/ProjectSakura-5.2-GAPPS-Basic-20210808-1504-vayu-OFFICIAL.zip",
+ "updater": true,
  "version": "5.2"
 }
 ]
