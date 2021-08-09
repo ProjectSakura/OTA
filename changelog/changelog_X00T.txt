@@ -4,6 +4,11 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 09 August 2021 =======
+
+- Added support for freeform windows
+- Fixed NFC (Maybe) with darkonah
+
 ======= 01 August 2021 =======
 
 - Clean Flash is mandatory
