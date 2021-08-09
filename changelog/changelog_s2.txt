@@ -4,6 +4,13 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-08-09 =====
+- August security patch
+- Update build fp and desc to redfin August release
+- Translation of Camera Settings (Thanks to @alonsoj636)
+- Stereo Mode by default
+- WFD Fixed!
+- Increase config_screenBrightnessSettingMinimum a lot
 ==== 2021-08-03 =====
 - Clean Flash is mandatory!
 - Changing vanilla to Core Gapps
