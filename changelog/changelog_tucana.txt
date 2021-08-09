@@ -4,6 +4,9 @@ Device: Xiaomi Mi Note 10 (tucana)
 Device maintainer: Sanya Pilot
 Android Version: 11
 
+==== 2021-08-09 ====
+- August security patch
+
 ==== 2021-08-03 ====
 - Fixed FOD auth in apps
 - Sakura 5.2 Update (https://projectsakura.xyz/blog/#/5.2-Project-Sakura-Update)
