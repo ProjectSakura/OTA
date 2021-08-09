@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1627981707",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210803-1213-tucana-OFFICIAL.zip",
- "id": "db0610eb60074c9e6521898d475ea2b0",
+ "datetime": "1628422393",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210808-1433-tucana-OFFICIAL.zip",
+ "id": "7d6f28e8226ad29b81eb1838d4249e10",
  "romtype":"nightly",
- "size": 1623014557,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-5.2-GAPPS-Basic-20210803-1213-tucana-OFFICIAL.zip",
- "updater": false,
+ "size": 1623802202,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/tucana/ProjectSakura-5.2-GAPPS-Basic-20210808-1433-tucana-OFFICIAL.zip",
+ "updater": true,
  "version": "5.2"
 }
 ]
