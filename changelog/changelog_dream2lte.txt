@@ -6,6 +6,11 @@ Android Version: 11
 
 Recommended gapps: https://opengapps.org/
 
+==== 2021-08-10 =====
+(Can be dirtyflashed. If it bootloops Just Flash ROM & the same gapps package you used before)
+- August Patch
+- Adjusted in-call volume.(Increased a bit)
+
 ==== 2021-08-01 =====
 - Fixed Galaxy Wearable App. (Can be installed using apk. Spoofing device is not needed.)
 
