@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1624377580",
- "filename": "ProjectSakura-5.1-GAPPS-20210622-1601-gauguin-OFFICIAL.zip",
- "id": "51959f4a772a63e7397ab0aa97ed3cf9",
+ "datetime": "1628595306",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210810-1735-gauguin-OFFICIAL.zip",
+ "id": "554e3983b63db8e153085f634d5ffcf1",
  "romtype":"nightly",
- "size": 1119472073,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/gauguin/ProjectSakura-5.1-GAPPS-20210622-1601-gauguin-OFFICIAL.zip",
- "version": "5.1"
+ "size": 1025970201,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/gauguin/ProjectSakura-5.2-GAPPS-Basic-20210810-1735-gauguin-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
