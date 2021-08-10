@@ -4,6 +4,10 @@ Device: Mi 10i 5G | Mi 10T Lite (gauguin)
 Device maintainers: Prajwal & Nitish
 Android Version: 11
 
+==== 2021-10-08 =====
+- August security patch
+- minor bug fixes and improvements
+
 ==== 2021-22-06 =====
 - june security patch
 - swtiched to oss kernel
