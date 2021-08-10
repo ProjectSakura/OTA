@@ -1,17 +1,18 @@
 {
 "response": [
 {
- "datetime": "1624039206",
- "filename": "ProjectSakura-5.1-GAPPS-20210618-1407-enchilada-OFFICIAL.zip",
- "id": "a3aaf0d7708247c4bbdd9f90b6892a3c",
+ "datetime": "1628556485",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210809-2053-enchilada-OFFICIAL.zip",
+ "id": "3b7d8b04dfaac40cff95979db3140af6",
  "romtype":"monthly",
- "size": 1009619120,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/enchilada/ProjectSakura-5.1-GAPPS-20210618-1407-enchilada-OFFICIAL.zip",
- "updater": false, 
- "version": "5.1"
+ "size": 918721428,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/enchilada/ProjectSakura-5.2-GAPPS-Basic-20210809-2053-enchilada-OFFICIAL.zip",
+ "updater": true,
+ "version": "5.2"
 }
 ]
 }
+
 
 
 
