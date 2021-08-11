@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1624252065",
- "filename": "ProjectSakura-5.1-GAPPS-20210621-1037-phoenix-OFFICIAL.zip",
- "id": "72d52d901112a7e62d9359904d100819",
+ "datetime": "1628596923",
+ "filename": "ProjectSakura-5.2-GAPPS-Core-20210810-1204-phoenix-OFFICIAL.zip",
+ "id": "d6795fba9faabd0a7418c71544a1b925",
  "romtype":"nightly",
- "size": 1737239485,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/phoenix/ProjectSakura-5.1-GAPPS-20210621-1037-phoenix-OFFICIAL.zip",
- "version": "5.1"
+ "size": 1566884025,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/phoenix/ProjectSakura-5.2-GAPPS-Core-20210810-1204-phoenix-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
