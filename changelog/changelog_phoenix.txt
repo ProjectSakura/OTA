@@ -4,6 +4,14 @@ Device: Poco X2 (Phoenix)
 Device maintainer: Kunal
 Android Version: 11
 
+==== 11-08-2021 ====
+August 2021 Secruity patch
+Update redfin fp to august
+Switch to AOSP BT 
+Update Blobs from 21.7.14
+Update graphic stack from LA.UM.9.1.r1-09600-SMxxx0.0
+
+
 ==== 21-06-2021 ====
 - Added new POCO Parts (Kcal,Vibration intensity, etc)
 - Show turbo charging instead of charging rapidly 
