@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1627924906",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210802-1723-begonia-OFFICIAL.zip",
- "id": "ad455851335b2cefdd4434d4b4a735a6",
+ "datetime": "1628519973",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210809-1441-begonia-OFFICIAL.zip",
+ "id": "718f12169110a362d132c6e8151f14ca",
  "romtype":"nightly",
- "size": 1359231946,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-5.2-GAPPS-Basic-20210802-1723-begonia-OFFICIAL.zip", 
- "updater": false, 
+ "size": 1354119576,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/begonia/ProjectSakura-5.2-GAPPS-Basic-20210809-1441-begonia-OFFICIAL.zip", 
+ "updater": true, 
  "version": "5.2"
 }
 ]

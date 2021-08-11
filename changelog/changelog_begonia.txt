@@ -4,9 +4,17 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: abhixv
 Android Version: 11
 
+==== 2021-08-11 ====
+- 5.2 Update based on Lineage 18.1
+- August Security Patch
+- Initial User Build
+- SELinux Enforcing
+- Fixed Offline Charging LED Indicator
+- Gapps Varient(Basic)
+
 ==== 2021-08-03 ====
 - 5.2 Update based on Lineage 18.1
-- July Secuity Patch
+- July Security Patch
 - Initial Gapps Build
 - Added brightness values from sunfish 
 - Added MIUI poweroff charging animation 
@@ -14,7 +22,7 @@ Android Version: 11
 
 ==== 2021-07-15 ====
 - 5.1 Update based on Lineage 18.1
-- July Secuity Patch
+- July Security Patch
 - Enable MTK 1.3 neural networks HAL 
 - Update Neural Networks stack from begonia V12.5.1.0 RGGCNXM 
 - Updated apn configs from RP1A.200720.011 
@@ -23,7 +31,7 @@ Android Version: 11
 
 ==== 2021-06-19 ====
 - 5.1 Update based on Lineage 18.1
-- July Secuity Patch
+- July Security Patch
 - Update blobs from begonia V12.0.7.0.QGGMIXM 
 - Updated apn configs from RP1A.200720.011 
 - Updated media configs from begonia V12.0.7.0.QGGMIXM 
@@ -34,11 +42,11 @@ Android Version: 11
 
 ==== 2021-05-10 ====
 - 5.R Update based on Lineage 18.1
-- May Secuity Patch
+- May Security Patch
 
 ==== 2021-04-11 ====
 - 5.R Update based on Lineage 18.1
-- April Secuity Patch
+- April Security Patch
 - Updated FP to Sunfish April
 - Upstreamed NextKernel
 
@@ -51,7 +59,7 @@ Android Version: 11
 
 ==== 2021-01-09 =====
 - Synced with latest source changes
-- January Secuity Patch
+- January Security Patch
 - Updated Xiaomi Parts
 - Fix ANXCam 64MP
 
