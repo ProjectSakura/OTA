@@ -4,6 +4,16 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: SpicyDoughnut
 Android Version: 11
 
+==== 2021-12-08 =====
+- August security patch merged
+- Improved thermals to fix charging issues
+- Updated Moto Dolby and more audio fixes
+- Switched default kernel to Vertigo by Rokusenpai
+- Fixed issues with mic gain during recording
+- Tweaked vibration patterns
+- Switched to a Basic GApps build
+- source side improvements
+
 ==== 2021-07-07 =====
 - june security patch merged
 - disabled wlan logging
