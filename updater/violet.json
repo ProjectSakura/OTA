@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1625637041",
- "filename": "ProjectSakura-5.1-GAPPS-20210707-0550-violet-OFFICIAL.zip",
- "id": "e101760f61495a9bc2e09fb5a2975a4f",
+ "datetime": "1628749390",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210812-1223-violet-OFFICIAL.zip",
+ "id": "d7ff86bac2bce16e6dc863968b755872",
  "romtype":"nightly",
- "size": 1496260138,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-5.1-GAPPS-20210707-0550-violet-OFFICIAL.zip",
- "version": "5.1"
+ "size": 1323809315,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/violet/ProjectSakura-5.2-GAPPS-Basic-20210812-1223-violet-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
