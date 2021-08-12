@@ -4,6 +4,12 @@ Device: Xiaomi Redmi Note 7 Pro (violet)
 Device maintainers: SpicyDoughnut
 Android Version: 11
 
+==== 2021-12-08 =====
+- August security patch merged
+- switched kernel to vertigo
+- source side improvements
+- misc changes and improvements 
+
 ==== 2021-07-07 =====
 - june security patch merged
 - disabled wlan logging
