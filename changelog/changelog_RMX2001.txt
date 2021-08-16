@@ -4,6 +4,12 @@ Device: Realme 6 (RMX2001)
 Device maintainer: Sharan (@sharanpai)
 Android Version: 11
 
+==== 2021-08-16 ====
+- Added Realme Dirac
+- Improved padding
+- Improved performance
+- Introduced new icon to Realme Parts
+
 ==== 2021-07-18 ====
 - Added performance profiles
 - Changed default dp to 411
