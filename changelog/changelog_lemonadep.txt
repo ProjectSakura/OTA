@@ -3,6 +3,12 @@ Build type: Monthly
 Device: OnePlus 9Pro
 Device maintainer: eduardo
 Android Version: 11
+
+====08/16/2021====
+Introducing v5.2
+August ASB release
+Back to Lineage kernel
+
 ====07/19/2021====
 hot fix fod
 
