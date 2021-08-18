@@ -6,6 +6,10 @@ Android Version: 11
 
 Recommended gapps: https://opengapps.org/
 
+==== 2021-08-18 ===== 
+- August Security Patch
+- Fixed memory management issues
+
 ==== 2021-08-01 ===== (CLEAN FLASH REQUIRED)
 - Included vendor (source built, full vndk 30(R))
 - Compiled as much as possible blobs from source
@@ -18,34 +22,11 @@ Recommended gapps: https://opengapps.org/
 - Switched to Vanilla. (If you want gapps flash Nikgapps after flashing ROM)
 - June Patch
 
-==== 2020-11-22 =====
-- Intital Android R release
+==== 2021-05-26 =====
+- Fixed Blur
 
-
-==== 2020-12-11 =====
-- Fixed Fingerprint authentication in third party apps
-- Fixed Browser crashes
-
-==== 2020-12-29 =====
-- 4.R Update based on Lineage 18.1
-- Fixed Statusbar settings crash
-- Fixed Video flicker issue
-
-==== 2021-01-10 =====
-- Jan Security Patch
-- Fixed Proximity Sensor
-- Enabled double tap to wake on m30, a30, a40
-- OSS Exynos PowerHal (Better Performance & battery life)
-
-==== 2021-02-10 =====
-- Feb Security Patch
-
-==== 2021-03-08 =====
-- March Security Patch
-- Fixed MagiskHide
-
-==== 2021-03-21 =====
-- New Faceunlock
+==== 2021-05-10 =====
+- May Security Patch
 
 ==== 2021-04-12 ===== (Clean Flash needed)
 - Switched to GAPPS build
@@ -54,9 +35,30 @@ Recommended gapps: https://opengapps.org/
 - ZRAM improvements
 - Corrected lowest brightness level
 
-==== 2021-05-10 =====
-- May Security Patch
+==== 2021-03-21 =====
+- New Faceunlock
 
-==== 2021-05-26 =====
-- Fixed Blur
-- 
+==== 2021-03-08 =====
+- March Security Patch
+- Fixed MagiskHide
+
+==== 2021-02-10 =====
+- Feb Security Patch
+
+==== 2021-01-10 =====
+- Jan Security Patch
+- Fixed Proximity Sensor
+- Enabled double tap to wake on m30, a30, a40
+- OSS Exynos PowerHal (Better Performance & battery life)
+
+==== 2020-12-29 =====
+- 4.R Update based on Lineage 18.1
+- Fixed Statusbar settings crash
+- Fixed Video flicker issue
+
+==== 2020-12-11 =====
+- Fixed Fingerprint authentication in third party apps
+- Fixed Browser crashes
+
+==== 2020-11-22 =====
+- Intital Android R release
