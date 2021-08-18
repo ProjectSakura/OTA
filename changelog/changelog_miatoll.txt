@@ -4,6 +4,18 @@ Device: Xiaomi Redmi Note 9 S/Pro/Pro Max (miatoll)
 Device maintainer: a9ito
 Android Version: 11
 
+==== 2021-08-18 ====
+- Source Update to 5.2
+- Merged August Security Patch
+- Updated Redfin's FP to August Builds
+- Now Using 4.14.238-Yuki-Iridium for Inbuilt Kernel
+- Nuked XiaomiParts
+- Encryption Builds And Support Decryption.
+
+Note :
+- Add APN Manually because we using a brand new CarrierSetting.
+- Facing Slow Charging? Make Your Phone Cooler under 30C.
+
 ==== 2021-06-29 ====
 - Source update to 5.1
 - Merged June Security Patch
