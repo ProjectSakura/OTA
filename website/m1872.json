@@ -1,14 +1,14 @@
 {
 "response": [
 {
- "datetime": "1621923220",
- "filename": "ProjectSakura-5.R-GAPPS-20210525-0917-m1872-OFFICIAL.zip",
- "id": "e96adee12c02ef3e69fa34e2bd5784ed",
+ "datetime": "1629112800",
+ "filename": "ProjectSakura-5.2-VANILLA-20210812-1003-m1872-OFFICIAL.zip",
+ "id": "78244a2a10d744b6d266aea2ab04b32a",
  "romtype":"nightly",
- "size": 1397509505,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/m1872/ProjectSakura-5.R-GAPPS-20210525-0917-m1872-OFFICIAL.zip",
- "updater": false, 
- "version": "5.R"
+ "size": 1059231602,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/m1872/ProjectSakura-5.2-VANILLA-20210812-1003-m1872-OFFICIAL.zip",
+ "updater": false,
+ "version": "5.2"
 }
 ]
 }
