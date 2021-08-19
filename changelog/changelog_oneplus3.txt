@@ -31,3 +31,6 @@ Android Version: 11
 
 ==== 2021-08-17 =====
 -Some device sided fixes
+
+==== 2021-08-19 =====
+-Removed Gcam and OP gallery (Hotfix)
