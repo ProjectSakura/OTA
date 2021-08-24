@@ -5,6 +5,13 @@ Device maintainer: Agus ( @agustkid )
 Android Version: 11 
 
 ==== 2021-07-18 =====
+- Initial 5.2 Source Update
+- Rebased over Kenny3fcb tree
+- Switch to BasicGapps build
+- Many underhood improvements and fixes
+- CLEAN FLASH IS MANDATORY as many source & tree changes
+
+==== 2021-07-18 =====
 - Update graphics & adreno blobs from LA.UM.9.1.r1-10200-SMxxx0.0
 - Update NFC configs from MIUI V12.0.1.0.RJGMIXM
 - Fixed LED while Offline Charging
