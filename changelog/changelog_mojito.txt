@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 (mojito)
+Device maintainer: Ashwin DS 
+Android Version: 11
+
+==== 2021-08-24 ====
+- Initial official build

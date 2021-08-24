@@ -482,5 +482,16 @@
       "xda_thread": "",
       "active": true,
       "donation_link":""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 10",
+      "codename": "mojito",
+      "maintainer_name": "Ashwin DS",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
     }
   ]
