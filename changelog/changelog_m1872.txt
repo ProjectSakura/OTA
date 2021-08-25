@@ -4,6 +4,10 @@ Device: Meizu 16/X (m1872)
 Device maintainer: c0nfid
 Android Version: 11
 
+==== 2021-08-25 =====
+- Add fastcharge hal
+- OTA is working!
+
 ==== 2021-08-18 =====
 - Used LOS aod part`s
 - Try removed flash with fod
