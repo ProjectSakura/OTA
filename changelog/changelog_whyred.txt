@@ -4,7 +4,6 @@ Device: Xiaomi Redmi Note 5 Pro (whyred)
 Device maintainer: Sipun Ku Mahanta (Darkstar085)
 Android Version: 11
 
-======= 11 Aug 2021 ========
+======= 02 Sept 2021 ========
 
-- Rebased tree over sakil's tree.
 - Upstreamed kernel from strombreaker.
