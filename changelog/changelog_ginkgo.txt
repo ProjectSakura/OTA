@@ -4,23 +4,33 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
-====== 08 August 2021 =======
+====== 03 September 2021 ======
+- Enable the pre-rendering feature, this can improve FPS and reduce the janks in scrolling cases
+- Drop A10 Widewine hack
+- Boost I/O performance during bootup
+- Kernel Upstreamed to QS 4.14.245
+- Improve faceunlock speeds
+- Disable annoying safe headphone volume
+- Address some radio denials
+- Update MIUI blobs to V12.0.3.0.RCOMIXM
+
+====== 08 August 2021 ======
 - August Security Patch
 - Kernel Upstreamed to QS 4.14.242
 
-====== 01 August 2021 =======
+====== 01 August 2021 ======
 - Kernel Upstreamed to QS 4.14.241
 - Update MIUI blobs to V12.0.1.0.RCOMIXM
 - Smaller GApps Build
 - Project Sakura v5.2
 
-====== 18 July 2021 =======
+====== 18 July 2021 ======
 - Added Smartcharging back
 - Kernel upstreamed to 4.14.239 QuicksilveR-v2.5
 - Wi-Fi Display Fixed
 - Fixed random reboots for few users
 
-====== 15 July 2021 =======
+====== 15 July 2021 ======
 - Removed smartcharging
 - Updated blobs from MIUI 21.7.13
 - Switched to QTI health implementation
@@ -29,5 +39,5 @@ Android Version: 11
 - Freed some RAM from useless virtual framebuffer
 - Kernel upstreamed to 4.14.238 QuicksilveR-v2.5 
 
-====== 27 June 2021 =======
+====== 27 June 2021 ======
 - Initial official build

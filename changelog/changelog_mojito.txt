@@ -4,5 +4,8 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
-==== 2021-08-24 ====
+====== 03 September 2021 ======
+- Sync latest source changes
+
+====== 24 August 2021 ======
 - Initial official build
