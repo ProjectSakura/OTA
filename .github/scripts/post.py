@@ -214,7 +214,7 @@ for i in get_diff(new, old):
         update_json(info)
         commit_message = "Update new IDs and push OTA"
     commit_descriptions += info['name'] + " (" + info['device'] + ")\n"
-    time.sleep(15)
+    time.sleep(8)
 
 
 open("commit_mesg.txt", "w+").write( "OTA : " + commit_message + " [BOT]\n" + commit_descriptions)
