@@ -6,6 +6,11 @@ Android Version: 11
 
 Recommended gapps: https://opengapps.org/ 
 
+==== 2021-09-04 =====
+
+- No device specific changes. 
+- Refer to Blog for ROM side changes.
+
 ==== 2021-08-10 =====
 (Can be dirtyflashed. If it bootloops Just Flash ROM & the same gapps package you used before)
 - August Patch
