@@ -1,13 +1,14 @@
 {
 "response": [
 {
- "datetime": "1610191023",
- "filename": "ProjectSakura-4.R-GAPPS-20210109-1117-sakura-OFFICIAL.zip",
- "id": "c950a529d9144ebdf24f7148ef6498ea",
+ "datetime": "1630736878",
+ "filename": "ProjectSakura-5.2-VANILLA-20210904-0630-sakura-OFFICIAL.zip",
+ "id": "1efde68dcb17e7295c73a7e41510f6d1",
  "romtype":"nightly",
- "size": 1091988071,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/sakura/ProjectSakura-4.R-GAPPS-20210109-1117-sakura-OFFICIAL.zip",
- "version": "4.R"
+ "size": 855780871,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/sakura/ProjectSakura-5.2-VANILLA-20210904-0630-sakura-OFFICIAL.zip",
+ "updater": true,
+ "version": "5.2"
 }
 ]
 }
