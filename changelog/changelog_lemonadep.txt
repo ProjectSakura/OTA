@@ -4,6 +4,10 @@ Device: OnePlus 9Pro
 Device maintainer: eduardo
 Android Version: 11
 
+====09/05/2021====
+Latest Source w/Lineage 18.1 changes
+inbuilt CTS fix
+
 ====08/16/2021====
 Introducing v5.2
 August ASB release
