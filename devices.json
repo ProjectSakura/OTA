@@ -176,6 +176,17 @@
       "donation_link":""
     },
     {
+      "brand": "Realme",
+      "name": "Realme C2",
+      "codename": "RMX1941",
+      "maintainer_name": "Anoos Ragh",
+      "maintainer_xda": "https://forum.xda-developers.com/m/ano0.10677975/",
+      "maintainer_country": "IN",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-a11-projectsakura-5-2-official-realme-c2.4329247/",
+      "active": true,
+      "donation_link":""
+    },  
+    {
       "brand": "Samsung",
       "name": "Galaxy A10",
       "codename": "a10",

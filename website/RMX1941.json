@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1630831077",
+ "filename": "ProjectSakura-5.2-GAPPS-Core-20210905-1410-RMX1941-OFFICIAL.zip",
+ "id": "e8c19d08507d8e142e8dfefbeceeef34",
+ "romtype":"nightly",
+ "size": 874290907,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/RMX1941/ProjectSakura-5.2-GAPPS-Core-20210905-1410-RMX1941-OFFICIAL.zip",
+ "updater": true,
+ "version": "5.2"
+}
+]
+}

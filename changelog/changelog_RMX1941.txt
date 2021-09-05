@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme C2 (RMX1941)
+Device maintainer: AnoosRagh
+Android Version: 11
+
+==== 05-09-2021 ====
+- Initial Build
