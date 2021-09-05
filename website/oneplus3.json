@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1629339226",
- "filename": "ProjectSakura-5.2-VANILLA-20210819-0313-oneplus3-OFFICIAL.zip",
- "id": "929e667e3309baee398ed1a637b8c2f6",
+ "datetime": "1630858249",
+ "filename": "ProjectSakura-5.2-VANILLA-20210905-1717-oneplus3-OFFICIAL-signed.zip",
+ "id": "b3305361211c835aebabb962b1cb7256",
  "romtype":"nightly",
- "size": 814137869,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/oneplus3/ProjectSakura-5.2-VANILLA-20210819-0313-oneplus3-OFFICIAL.zip",
+ "size": 817873400,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/oneplus3/ProjectSakura-5.2-VANILLA-20210905-1717-oneplus3-OFFICIAL-signed.zip",
  "updater": true,
  "version": "5.2"
 }

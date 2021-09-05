@@ -4,33 +4,39 @@ Device: OnePlus 3/3T (Sakura)
 Device maintainer: Deepak Jr.
 Android Version: 11
 
-==== 2021-01-23 =====
-- First official Android 11 release
-- Switched to Bromite system webview
-- Added GCAM 
-- Kernel tweaks and updated to V1.4
+==== 2021-09-05 =====
+-Switch to signed builds
+
+==== 2021-08-19 =====
+-Removed Gcam and OP gallery (Hotfix)
+
+==== 2021-08-17 =====
+-Some device sided fixes
+
+==== 2021-08-17 =====
+-Some device sided fixes
+
+==== 2021-07-19 =====
+- Fix Safety Net
+- Remove Lineage recovery
+
+==== 2021-06-26 =====
+- Some device source side changes
+
+==== 2021-05-01 =====
+-Kernel Improvements
+
+==== 2021-03-11 =====
+- Added dirac
+- Update to Redfin March fingerprints
 
 ==== 2021-02-16 =====
 - Rebased LOS kernel
 - Switched to enforcing builds
 - Added OPGallery and App warden
 
-==== 2021-03-11 =====
-- Added dirac
-- Update to Redfin March fingerprints
-
-==== 2021-05-01 =====
--Kernel Improvements
-
-==== 2021-06-26 =====
-- Some device source side changes
-
-==== 2021-07-19 =====
-- Fix Safety Net
-- Remove Lineage recovery
-
-==== 2021-08-17 =====
--Some device sided fixes
-
-==== 2021-08-19 =====
--Removed Gcam and OP gallery (Hotfix)
+==== 2021-01-23 =====
+- First official Android 11 release
+- Switched to Bromite system webview
+- Added GCAM 
+- Kernel tweaks and updated to V1.4
