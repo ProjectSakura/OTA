@@ -4,6 +4,10 @@ Device: OnePlus 6 (enchilada)
 Device maintainer: eduardo
 Android Version: 11
 
+====09/05/2021====
+Latest Source w/Lineage 18.1 changes
+inbuilt CTS fix
+
 ====15/05/2021====
 - UPDATE to 5.1!
 - June patch
