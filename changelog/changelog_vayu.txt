@@ -4,6 +4,11 @@ Device: Poco X3 Pro (vayu)
 Device maintainer: kiam001
 Android Version: 11
 
+====== 06 September 2021 =======
+-Update Trees to last Offical LineageOS sources
+-Rom Fixes see Blog for more
+-No Security Patch but comming soon
+
 ====== 09 August 2021 =======
 -August 2021 Secruity patch
 -New Fetures ROM side
