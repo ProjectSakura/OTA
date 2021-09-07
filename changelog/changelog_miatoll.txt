@@ -4,6 +4,10 @@ Device: Xiaomi Redmi Note 9 S/Pro/Pro Max (miatoll)
 Device maintainer: a9ito
 Android Version: 11
 
+==== 2021-09-07 ====
+- HOTFIX BUILD
+- Upstreamed kernel to 4.14.246-Etherious
+
 ==== 2021-09-05 ====
 - Updated Source
 - Merged September Security Patch
