@@ -1,14 +1,15 @@
 {
 "response": [
 {
- "datetime": "1628426031",
- "filename": "ProjectSakura-5.2-GAPPS-Core-20210808-1534-jd2019-OFFICIAL.zip",
- "id": "039aa3116fa75033358ef85004b0abbf",
+ "datetime": "1630772474",
+ "filename": "ProjectSakura-5.2-GAPPS-Core-20210904-1921-jd2019-OFFICIAL.zip",
+ "id": "e32b0f441052ac2dd1ddc9b9b24456df",
  "romtype":"Monthly",
- "size": 851449850,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/jd2019/ProjectSakura-5.2-GAPPS-Core-20210808-1534-jd2019-OFFICIAL.zip",
- "updater": true,
+ "size": 1094795816,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/jd2019/ProjectSakura-5.2-GAPPS-Core-20210904-1921-jd2019-OFFICIAL.zip",
+ "updater": false,
  "version": "5.2"
 }
 ]
 }
+
