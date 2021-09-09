@@ -4,6 +4,9 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 09 September 2021 ======
+- Fix SafetyNet Failing [HOTFIX]
+
 ====== 03 September 2021 ======
 - Enable the pre-rendering feature, this can improve FPS and reduce the janks in scrolling cases
 - Drop A10 Widewine hack
