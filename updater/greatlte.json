@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1630410009",
- "filename": "ProjectSakura-5.2-VANILLA-20210831-1341-greatlte-OFFICIAL.zip",
- "id": "f553c9fca499b7049fe3be378559099c",
+ "datetime": "1631588024",
+ "filename": "ProjectSakura-5.2-VANILLA-20210914-0455-greatlte-OFFICIAL.zip",
+ "id": "6e7227056aebbe6e4c84d21de00c0d79",
  "romtype":"nightly",
- "size": 830110827,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/greatlte/ProjectSakura-5.2-VANILLA-20210831-1341-greatlte-OFFICIAL.zip",
+ "size": 834850702,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/greatlte/ProjectSakura-5.2-VANILLA-20210914-0455-greatlte-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
