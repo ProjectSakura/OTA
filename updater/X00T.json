@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1631590804",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210909-1807-X00T-OFFICIAL.zip",
- "id": "bca139138ba67e8c9311e7b253047ee6",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210914-0542-X00T-OFFICIAL.zip",
+ "id": "0c6199d68da10f4e28c8833e6361470b",
  "romtype":"nightly",
- "size": 1101765234,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.2-GAPPS-Basic-20210909-1807-X00T-OFFICIAL.zip",
+ "size": 1101771150,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/X00T/ProjectSakura-5.2-GAPPS-Basic-20210914-0542-X00T-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
