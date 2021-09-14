@@ -4,5 +4,8 @@ Device: Realme C2 (RMX1941)
 Device maintainer: AnoosRagh
 Android Version: 11
 
-==== 05-09-2021 ====
-- Initial Build
+==== 12-09-2021 ====
+- Source side changes
+- Fixed volte instability
+- September security patch
+- Fixed status bar height and tuned overlays
