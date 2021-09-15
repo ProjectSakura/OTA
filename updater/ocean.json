@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1628518408",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210809-1625-ocean-OFFICIAL.zip",
- "id": "34028d130581455b6597886a26db351d",
+ "datetime": "1631539425",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210913-1530-ocean-OFFICIAL.zip",
+ "id": "c3603d6806fad950fd8b2732021a1a42",
  "romtype":"nightly",
- "size": 1066749722,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/ocean/ProjectSakura-5.2-GAPPS-Basic-20210809-1625-ocean-OFFICIAL.zip",
+ "size": 1070551174,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/ocean/ProjectSakura-5.2-GAPPS-Basic-20210913-1530-ocean-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
