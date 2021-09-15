@@ -4,6 +4,12 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 15 September 2021 ======
+- Added headphones warning for clear speaker [Xiaomi Parts]
+- Update clear speaker audio from MIUI 12 [Xiaomi Parts]
+- Update fingerprint to Pixel 5 (RQ3A.210905.001)
+- Add support for LCD HBM and CABC [Xiaomi Parts]
+
 ====== 09 September 2021 ======
 - Fix SafetyNet Failing [HOTFIX]
 
