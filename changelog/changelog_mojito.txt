@@ -4,6 +4,10 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 15 September 2021 ======
+- Sync latest source changes
+- Fix SafetyNet failing
+
 ====== 03 September 2021 ======
 - Sync latest source changes
 
