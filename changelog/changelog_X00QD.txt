@@ -4,6 +4,23 @@ Device: Asus Zenfone 5 2018 (X00QD)
 Device maintainer: henricaodopao
 Android Version: 11
 
+==== 2021-09-15 ====
+- September security patch
+- Drop unused ImproveTouch blobs
+- Drop unused peripheral manager blobs
+- Drop unused voice fingerprint blobs
+- Switch multiple hals to OSS
+- Checkout GPS hal from LA.UM.8.2.r1-04300-sdm660.0
+- Import notch configuration from 5z
+- Update media profiles from UL-ASUS_X00T-WW-17.2017.2006.429-user
+- Fix delay on getting network service after boot
+- Sync propertiers from LA.UM.8.2.r1-07100-sdm660.0 and X01BD
+- Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0 and LA.UM.9.6.2.r1-04100-89xx.0
+- Update lib-imsvtcore from mojito
+- Enable zygote preforking
+- Silence IMS debug logs
+- Add Flipendo powerhint
+
 ==== 2021-09-03 ====
 - Donwgrade audio configs to A9
 - Compile kernel with Azure Clang
@@ -12,7 +29,6 @@ Android Version: 11
 ==== 2021-08-09 ====
 - August Security Patch
 - Reduce screenshot delay to 0
-
 
 ==== 2021-08-01 ====
 - Clean Flash mandatory
