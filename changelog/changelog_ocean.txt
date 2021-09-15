@@ -4,6 +4,10 @@ Device: Motorola moto g7 power (ocean)
 Device maintainer: hisoka_simp
 Android Version: 11
 
+======= 15 September 2021 =======
+-September Security Patch
+-Fix statusbar padding
+
 ======= 13 August 2021 ======
 -bump to latest Sakura version
 
