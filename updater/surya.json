@@ -1,13 +1,13 @@
 {
- "response": [
+"response": [
 {
- "datetime": "1626613208",
- "filename": "ProjectSakura-5.1-VANILLA-20210718-2002-surya-OFFICIAL.zip",
- "id": "977ad0819a3eecdd121bc21b920ba1c9",
- "romtype":"nightly",
- "size": 1090863330,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/surya/ProjectSakura-5.1-VANILLA-20210718-2002-surya-OFFICIAL.zip", 
- "version": "5.1"
+ "datetime": "1631783507",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210916-1614-surya-OFFICIAL.zip",
+ "id": "a4d5db163e81cc6e5d168b15b4e4b23a",
+ "romtype":"monthly",
+ "size": 1414478321,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/surya/ProjectSakura-5.2-GAPPS-Basic-20210916-1614-surya-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
