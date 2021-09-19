@@ -4,6 +4,15 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 16 September 2021 ======
+- Fixed touch issue
+- Decommonized display color modes
+- Drop soundtrigger hal
+- Update blobs from CAF
+- import Xiaomi mlipay service blobs
+- Added Alipay and WeChat fingerprint payment support
+- More misc changes
+
 ====== 15 September 2021 ======
 - Sync latest source changes
 - Fix SafetyNet failing
