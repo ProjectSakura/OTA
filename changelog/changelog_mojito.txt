@@ -4,6 +4,9 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 20 September 2021 ======
+- [OTA] Now use "Seamless Updates" to update to the latest version with just a restart
+
 ====== 16 September 2021 ======
 - Fixed touch issue
 - Decommonized display color modes
