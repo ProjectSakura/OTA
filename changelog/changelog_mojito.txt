@@ -4,6 +4,16 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 22 September 2021 ======
+- Update blobs from V12.5.3.0.RKGMIXM
+- Added main display cutout overlays
+- Fixed dimens values for display cutout
+- Updated brightness overlay configs 
+- Added camera cutout ring like MIUI
+- Removed virtual framebuffer cmdline
+- Labeled some more wakeup nodes
+- Mic issue is fixed for some people
+
 ====== 20 September 2021 ======
 - [OTA] Now use "Seamless Updates" to update to the latest version with just a restart
 
