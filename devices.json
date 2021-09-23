@@ -419,17 +419,6 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "Redmi Note 5 PRO",
-      "codename": "whyred",
-      "maintainer_name": "DarkStar",
-      "maintainer_xda": "null",
-      "maintainer_country": "IND",
-      "xda_thread": "",
-      "active": true,
-      "donation_link":"https://www.paypal.me/Sipun"
-    },
-    {
-      "brand": "Xiaomi",
       "name": "Redmi 8 Series",
       "codename": "olives",
       "maintainer_name": "Deadlylxrd",
@@ -438,7 +427,18 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-olives-project-sakura-v5-1-for-redmi-8-8a-8a-dual-unified.4306071",
       "active": true,
       "donation_link":"https://www.paypal.com/paypalme/fxcknglxrd"
-    },    
+    }, 
+    {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 5 PRO",
+      "codename": "whyred",
+      "maintainer_name": "DarkStar",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://www.paypal.me/Sipun"
+    },   
     {
       "brand": "Xiaomi",
       "name": "Redmi Note 7",
