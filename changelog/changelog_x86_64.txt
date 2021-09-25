@@ -10,6 +10,7 @@ Android Version: 11
 - Fixed broken Bluetooth (require restarting bluetooth app)
 - Adding thermal-daemon from Project Celadon
 - Adding Thermal HAL from Project Celadon
+- Pull houdini and Widevine from ChromeOS 92 recovery file for hatch
 - Now comes with both GMS and FOSS build
 
 ==== 04-09-2021 ====
