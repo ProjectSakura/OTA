@@ -1,11 +1,18 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Nightly
 Device: Realme C2 (RMX1941)
 Device maintainer: AnoosRagh
 Android Version: 11
 
-==== 12-09-2021 ====
-- Source side changes
-- Fixed volte instability
-- September security patch
-- Fixed status bar height and tuned overlays
+==== 24-09-2021 ====
+- Reduce screenshot delay to 0
+- Fixed overlay issues
+- Added zram shell script for better ram management
+- Updated prebuilts to C.55
+- Fixed high app ram usage
+- Enable Zygote preforking
+- Fixed volte for many gay sim carriers
+- Updated build fp to Coral RQ3A.210905.001
+- Fixed perf profile in realme settings
+- Fixed night light
+- More misc changes and fixes
