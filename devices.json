@@ -399,12 +399,12 @@
       "brand": "Xiaomi",
       "name": "Redmi 5",
       "codename": "rosy",
-      "maintainer_name": "Shriiyansh",
-      "maintainer_xda": "null",
+      "maintainer_name": "Ebin",
+      "maintainer_xda": "https://forum.xda-developers.com/m/arulebin.10604733/",
       "maintainer_country": "IND",
-      "xda_thread": "",
-      "active": false,
-      "donation_link":"https://paypal.me/shriiyansh210"
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-project-sakura-unofficial.4336989/",
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
