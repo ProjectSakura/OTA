@@ -7,7 +7,7 @@
       "maintainer_xda": "null",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true,
+      "active": false,
       "donation_link":"https://ko-fi.com/lordshen"
     },
     {
@@ -249,7 +249,7 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/haridhayal.9053429",
       "maintainer_country": "SL",
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4193417",
-      "active": true,
+      "active": false,
       "donation_link":"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url"
     },
     {
@@ -322,12 +322,12 @@
       "brand": "Xiaomi",
       "name": "Poco X3 Pro",
       "codename": "vayu",
-      "maintainer_name": "kiam001",
-      "maintainer_xda": "kiam001",
+      "maintainer_name": "kiam001 and LordShenron",
+      "maintainer_xda": "kiam001 and LordShenron",
       "maintainer_country": "GER",
       "xda_thread": "",
       "active": true,
-      "donation_link":""
+      "donation_link":"https://ko-fi.com/lordshen"
     },    
     {
       "brand": "Xiaomi",
@@ -399,12 +399,12 @@
       "brand": "Xiaomi",
       "name": "Redmi 5",
       "codename": "rosy",
-      "maintainer_name": "Shriiyansh",
-      "maintainer_xda": "null",
+      "maintainer_name": "Ebin",
+      "maintainer_xda": "https://forum.xda-developers.com/m/arulebin.10604733/",
       "maintainer_country": "IND",
-      "xda_thread": "",
-      "active": false,
-      "donation_link":"https://paypal.me/shriiyansh210"
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-project-sakura-unofficial.4336989/",
+      "active": true,
+      "donation_link":""
     },
     {
       "brand": "Xiaomi",
@@ -419,17 +419,6 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "Redmi Note 5 PRO",
-      "codename": "whyred",
-      "maintainer_name": "DarkStar",
-      "maintainer_xda": "null",
-      "maintainer_country": "IND",
-      "xda_thread": "",
-      "active": true,
-      "donation_link":"https://www.paypal.me/Sipun"
-    },
-    {
-      "brand": "Xiaomi",
       "name": "Redmi 8 Series",
       "codename": "olives",
       "maintainer_name": "Deadlylxrd",
@@ -438,7 +427,18 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-olives-project-sakura-v5-1-for-redmi-8-8a-8a-dual-unified.4306071",
       "active": true,
       "donation_link":"https://www.paypal.com/paypalme/fxcknglxrd"
-    },    
+    }, 
+    {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 5 PRO",
+      "codename": "whyred",
+      "maintainer_name": "DarkStar",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"https://www.paypal.me/Sipun"
+    },   
     {
       "brand": "Xiaomi",
       "name": "Redmi Note 7",
@@ -447,7 +447,7 @@
       "maintainer_xda": "null",
       "maintainer_country": "BR",
       "xda_thread": "",
-      "active": true,
+      "active": false,
       "donation_link":"https://www.paypal.com/donate/?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url"
     },
     {

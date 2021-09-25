@@ -6,7 +6,7 @@ Android Version: 11
 
 Recommended gapps: https://opengapps.org/ 
 
-==== 2021-09-04 =====
+==== 2021-09-14 =====
 
 - No device specific changes. 
 - Refer to Blog for ROM side changes.

@@ -4,6 +4,11 @@ Device: ASUS ZenFone Max Pro M1 (X00T/X00TD)
 Device maintainer: Shen (LordShenron)
 Android Version: 11
 
+======= 14 September 2021 =======
+
+- Final Update for X00T.
+- Fixed Safetynet by default (with and without magisk).
+
 ======= 04 September 2021 =======
 
 - Switched to Skywalker kernel as default

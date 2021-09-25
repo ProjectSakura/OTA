@@ -4,6 +4,13 @@ Device: Redmi 8 Series (olives)
 Device maintainer: deadlylxrd
 Android Version: 11
 
+==== 2021-09-15 ====
+- Updated to Project Sakura 5.2 September
+- Switch to new kernel base
+- Switch to new trees
+- September security patch
+- Thanks @kiam001 for build server!
+ 
 ==== 2021-08-01 ====
 Device side:
 - Updated to 5.2
