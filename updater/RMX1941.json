@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1631445423",
- "filename": "ProjectSakura-5.2-GAPPS-Core-20210912-1648-RMX1941-OFFICIAL.zip",
- "id": "874e055e521dfa0430159031059decd9",
- "romtype":"monthly",
- "size": 875967847,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/RMX1941/ProjectSakura-5.2-GAPPS-Core-20210912-1648-RMX1941-OFFICIAL.zip",
+ "datetime": "1632497740",
+ "filename": "ProjectSakura-5.2-GAPPS-Core-20210924-1735-RMX1941-OFFICIAL.zip",
+ "id": "f593c92b1163dfa2350d448e3d3e0461",
+ "romtype":"nightly",
+ "size": 874588249,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/RMX1941/ProjectSakura-5.2-GAPPS-Core-20210924-1735-RMX1941-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
