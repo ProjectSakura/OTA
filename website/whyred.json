@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1630393389",
-      "filename": "ProjectSakura-5.2-VANILLA-20210831-0903-whyred-OFFICIAL.zip",
-      "id": "79061a8b9e9898a2bb6d17a54f10a2b2",
+      "datetime": "1632625534",
+      "filename": "ProjectSakura-5.2-VANILLA-20210926-0507-whyred-OFFICIAL.zip",
+      "id": "c977ff8f72335dba55209e13f34d841e",
       "romtype": "nightly",
-      "size": 878227623,
-      "url": "https://master.dl.sourceforge.net/project/projectsakura/whyred/ProjectSakura-5.2-VANILLA-20210831-0903-whyred-OFFICIAL.zip",
+      "size": 884261456,
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/whyred/ProjectSakura-5.2-VANILLA-20210926-0507-whyred-OFFICIAL.zip",
       "updater": true,
       "version": "5.2"
     }
