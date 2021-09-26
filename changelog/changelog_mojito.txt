@@ -4,6 +4,27 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 26 September 2021 ======
+- Fixed libperfmgr nodes crash
+- Added power stats moke service hals
+- Fixed FPS Meter
+- Smarter decisions on whether to use 2/5Ghz AP
+- Disabled wifi firmware logging
+- Disabled NUD failure occurs logging
+- Added stock permission for hwcomposer service
+- Fixed ueventd permissions crash
+- Switched to multihal sensor service hal to 2.1
+- Enabled Wi-Fi hals power saving
+- Switched to Codec2 by default
+- Enabled Codec2 input surface
+- Enabled dalvik dex2oat64
+- Fixed props crashes in logs
+- Added minimal xiaomi parts
+- Fixed SDM and ultrasound_extn  crashes
+- Fixed whatsapp mic delay or crashes
+- Improved overall system performance
+- Mic issue is fixed other variant
+
 ====== 22 September 2021 ======
 - Update blobs from V12.5.3.0.RKGMIXM
 - Added main display cutout overlays
