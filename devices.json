@@ -152,6 +152,16 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-lemonadep-official.4302751/",
       "active": true,
       "donation_link":"https://paypal.me/eduardoroms"
+    },
+    {
+      "brand": "OnePlus",
+      "name": "OnePlus Nord 5G",
+      "codename": "avicii",
+      "maintainer_name": "HMTheBoy154",
+      "maintainer_xda": "https://forum.xda-developers.com/m/hmtheboy154.9207498/",
+      "maintainer_country": "VN",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-x-for-oneplus-nord-avicii-unofficial-vanilla.4338023/",
+      "active": true
     },    
     {
       "brand": "Realme",
