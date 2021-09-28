@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 8T (kebab)
+Device maintainer: azoller1
+Android Version: 11
+
+
+=== 09/13/2021 ===
+- Sakura september update changes
+- September security patch
+- Android 11.0.0_r43 merged
+
+=== 08/30/2021 ===
+- Fingerprint should be quicker now
+- Added Wichiya Google Cam app instead of stock aosp camera
+- Synced latest LineageOS upstream code for device/kernel/vendor trees
+- Synced latest Sakura source
+
+=== 08/21/2021 ===
+- Initial build
