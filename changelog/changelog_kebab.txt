@@ -4,8 +4,6 @@ Device: OnePlus 8T (kebab)
 Device maintainer: azoller1
 Android Version: 11
 
-
-
 === 09/28/2021 ===
 - Official builds now
 - Warp charging now says "warp charging" properly
