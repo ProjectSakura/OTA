@@ -4,6 +4,12 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 2 October 2021 ======
+- Fixed random reboots 
+- Rebase to ArrowOS trees
+- Many other misc changes
+- CLEAN FLASH MUST
+
 ====== 15 September 2021 ======
 - Added headphones warning for clear speaker [Xiaomi Parts]
 - Update clear speaker audio from MIUI 12 [Xiaomi Parts]
