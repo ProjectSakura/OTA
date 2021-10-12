@@ -1,0 +1,5 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 9 Pro (joyeuse)
+Device maintainer: a9ito
+Android Version: 11

@@ -324,7 +324,7 @@
       "maintainer_xda": "https://forum.xda-developers.com/m/kunal-facebook.11415481/",
       "maintainer_country": "IND",
       "xda_thread": "",
-      "active": true,
+      "active": false,
       "donation_link":""
     },
     {
@@ -505,8 +505,19 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "Redmi Note 9 PRO",
+      "name": "Redmi Note 9 S/PRO/PRO MAX",
       "codename": "miatoll",
+      "maintainer_name": "A9ito",
+      "maintainer_xda": "null",
+      "maintainer_country": "ID",
+      "xda_thread": "",
+      "active": false,
+      "donation_link":""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 9 PRO",
+      "codename": "joyeuse",
       "maintainer_name": "A9ito",
       "maintainer_xda": "null",
       "maintainer_country": "ID",
