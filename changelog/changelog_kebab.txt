@@ -4,6 +4,14 @@ Device: OnePlus 8T (kebab)
 Device maintainer: azoller1
 Android Version: 11
 
+=== 10/11/2021 ===
+- October Security Patch
+- Better GBoard Padding
+- Better StatusBar Padding
+- Better Ambient Pocket Mode Detection
+- Vibration When Pulling Down StatusBar
+- Other Source Changes
+
 === 09/28/2021 ===
 - Official builds now
 - Warp charging now says "warp charging" properly
