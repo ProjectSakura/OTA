@@ -3,3 +3,14 @@ Build type: Monthly
 Device: Xiaomi Redmi Note 9 Pro (joyeuse)
 Device maintainer: a9ito
 Android Version: 11
+
+==== 13/10/2021 ====
+- Initial Official Build
+- Using 4.14.248 Yuki-Iridium as inlined kernel
+- Merged October Security Patch
+- Merged Redfin October Builds Fingerprint
+
+NOTE :
+- THIS IS A SPECIFIED BUILD FOR JOYEUSE, ANY PROBLEMS WHO CONCURRENT BESIDES JOYEUSE ARE IGNORED.
+- Clean flash are mandatory, any bugs or error while doing dirty flash are fully ignored.
+- Uninstall any magisk modules/theming apps before reporting some bugs.
