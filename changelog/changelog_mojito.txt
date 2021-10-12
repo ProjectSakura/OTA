@@ -4,6 +4,15 @@ Device: Redmi Note 10 (mojito)
 Device maintainer: Ashwin DS 
 Android Version: 11
 
+====== 12 October 2021 ======
+- Added stock HVDCP props
+- Fixed camera video recoding issue
+- Fixed screen recoding lags
+- Removed ANX camera
+- Added Snap Camera
+- Include Neternels Kernel
+- Enabled Smart Charging
+
 ====== 26 September 2021 ======
 - Fixed libperfmgr nodes crash
 - Added power stats moke service hals
