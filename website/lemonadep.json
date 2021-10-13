@@ -1,17 +1,18 @@
 {
 "response": [
 {
- "datetime": "1631811916",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210916-1308-lemonadep-OFFICIAL.zip",
- "id": "cf1775a2b7f73de0953d267694d47edc",
+ "datetime": "1634075692",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20211012-1756-lemonadep-OFFICIAL.zip",
+ "id": "a261027dcf69118e1a001297445111bec60dc3253451d8424558334d8a64cf19",
  "romtype":"monthly",
- "size": 1473256638,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-5.2-GAPPS-Basic-20210916-1308-lemonadep-OFFICIAL.zip",
+ "size": 1478709569,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-5.2-GAPPS-Basic-20211012-1756-lemonadep-OFFICIAL.zip",
  "updater": true,
  "version": "5.2"
 }
 ]
 }
+
 
 
 
