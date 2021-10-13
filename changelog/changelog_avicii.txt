@@ -17,7 +17,7 @@ Android Version: 11
 - Fixed choosing refresh rate (both min/max) not showing up.
 - Lineage's Gallery got replaced with OneplusGallery (preparing to port OneplusCamera soon)
 - z-order FOD combining with the new source-built kernel fixed a lot of problem relate to FOD.
-
+- Fixed WARP Charging not visible.
 
 ==== 23-09-2021 ====
 - Initial Vanilla Build
