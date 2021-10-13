@@ -4,6 +4,10 @@ Device: Lenovo Z5s (jd2019)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-10-13 =====
+- October security patch
+- Swap RSSI threshold values
+- Kang GNSS from polaris
 ==== 2021-09-16 =====
 - September security patch
 ==== 2021-09-08 =====
