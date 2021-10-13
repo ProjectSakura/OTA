@@ -1,12 +1,12 @@
 {
     "response": [
     {
-     "datetime": "1632623423",
+     "datetime": "1634128598",
      "filename": "ProjectSakura-5.2-VANILLA-20210926-0231-avicii-OFFICIAL.zip",
-     "id": "ed32d9c38a8bf3c61aee8ff6b67e9f58",
+     "id": "042ec3a77156558b81f167ea50dde3dfe019697215dc76a24b87c04fb14c598ef1dde93c51707376bcccdc5e332698000af6d6babce505c0131b3b8545dc16980a5f02cf230aaee4f068d6b210fa8b33d6a74f2d4f1785d61e6f94402857a4e2",
      "romtype":"nightly",
-     "size": 1186439388,
-     "url": "https://master.dl.sourceforge.net/project/projectsakura/avicii/ProjectSakura-5.2-VANILLA-20210926-0231-avicii-OFFICIAL.zip",
+     "size": 1371753436,
+     "url": "https://master.dl.sourceforge.net/project/projectsakura/avicii/ProjectSakura-5.2-VANILLA-20211013-1149-avicii-OFFICIAL.zip",
      "updater": false,
      "version": "5.2"
     }
