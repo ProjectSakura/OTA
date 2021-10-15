@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1630736878",
- "filename": "ProjectSakura-5.2-VANILLA-20210904-0630-sakura-OFFICIAL.zip",
- "id": "1efde68dcb17e7295c73a7e41510f6d1",
+ "datetime": "1634274542",
+ "filename": "ProjectSakura-5.2-VANILLA-20211015-0511-sakura-OFFICIAL.zip",
+ "id": "9bf07ba7bbe617e69a02a8268e90b3412f93d757a355f4eb20851f643cd51f9e",
  "romtype":"nightly",
- "size": 855780871,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/sakura/ProjectSakura-5.2-VANILLA-20210904-0630-sakura-OFFICIAL.zip",
+ "size": 854777761,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/sakura/ProjectSakura-5.2-VANILLA-20211015-0511-sakura-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
