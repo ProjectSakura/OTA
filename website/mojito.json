@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1630422616",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20210831-1513-mojito-OFFICIAL.zip",
- "id": "df0dbe72abbf7aa021718e68f8e88be2",
+ "datetime": "1633953802",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20211011-1406-mojito-OFFICIAL.zip",
+ "id": "03995b31034c5ae85f4863506dff62876063b29f449310ca18ddb92f27b42327",
  "romtype":"nightly",
- "size": 1432280368,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/mojito/ProjectSakura-5.2-GAPPS-Basic-20210831-1513-mojito-OFFICIAL.zip",
+ "size": 1265944979,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/mojito/ProjectSakura-5.2-GAPPS-Basic-20211011-1406-mojito-OFFICIAL.zip",
  "updater": true,
  "version": "5.2"
 }

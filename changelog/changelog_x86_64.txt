@@ -1,0 +1,23 @@
+Highlights & Device Specific Changes:
+Build type: Maybe Monthly
+Device: x86_64 PCs (require SSE4.2)
+Device maintainer: HMTheBoy154
+Android Version: 11
+
+==== 25-09-2021 ====
+- Upstream to September Security patch
+- Update Mesa to 21.2.2
+- Fixed broken Bluetooth (require restarting bluetooth app)
+- Adding thermal-daemon from Project Celadon
+- Adding Thermal HAL from Project Celadon
+- Pull houdini and Widevine from ChromeOS 92 recovery file for hatch
+- Now comes with both GMS and FOSS build
+
+==== 04-09-2021 ====
+- Initial Build
+- Mesa 21.2.1, libdrm 2.4.107 and LLVM12.0.1
+- alsa-utils and alsa-lib are on version 1.2.5.1 with alsamixer tool
+- My customized Kernel 5.10.61 which include patches from GoogleLTS (kernel/common android13-5.10 branch), xanmod and Android-x86
+- AOSP SystemWebView got replaced with Bromite SystemWebView (big thanks to them for providing x86_64 builds)
+- Using FakeStore 0.1.0 instead of 0.0.2 provided by FOSS package.
+- Adding Open Camera since the stock Camera app is broken.

@@ -1,0 +1,23 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus Nord 5G (avicii)
+Device maintainer: HMTheBoy154
+Android Version: 11
+
+==== 13-10-2021 ====
+- Merged latest October patch
+- Using new source built kernel with some changes like :
+ + DT2W
+ + NFC fixed
+ + Latest kona/11.0.0 CAF tag merged (LA.UM.9.12.r1-13200-SMxx50.0)
+ + Updated simple_lmk
+ + Wireguard
+ + Westwood TCP Congestion, BBR is the 2nd choice.
+ + Compile with crDroid clang 12.0.7 + LTO + Polly optimization.
+- Fixed choosing refresh rate (both min/max) not showing up.
+- Lineage's Gallery got replaced with OneplusGallery (preparing to port OneplusCamera soon)
+- z-order FOD combining with the new source-built kernel fixed a lot of problem relate to FOD.
+- Fixed WARP Charging not visible.
+
+==== 23-09-2021 ====
+- Initial Vanilla Build

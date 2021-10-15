@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1629218420",
- "filename": "ProjectSakura-5.2-VANILLA-20210817-2342-miatoll-OFFICIAL.zip",
- "id": "7a2724e0ea31515dd96717d5eb36c051",
+ "datetime": "1632418454",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20210923-1737-miatoll-OFFICIAL.zip",
+ "id": "a8e30dd0f594c4ea2bce6f9a2f896e9c",
  "romtype":"nightly",
- "size": 1302099825,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-5.2-VANILLA-20210817-2342-miatoll-OFFICIAL.zip",
- "updater": true,
+ "size": 1567118667,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-5.2-GAPPS-Basic-20210923-1737-miatoll-OFFICIAL.zip",
+ "updater": false,
  "version": "5.2"
 }
 ]

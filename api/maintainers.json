@@ -108,16 +108,16 @@
     "maintainer_photo": "https://avatars.githubusercontent.com/u/62203009?s=120&v=4"
   },
   {
-    "maintainer_name": "Shriiyansh",
-    "devices_mantaining": ["Former Xiaomi Redmi 5 Maintainer"],
+    "maintainer_name": "Ebin",
+    "devices_mantaining": [" Xiaomi Redmi 5 Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
-    "telegram_link": "https://t.me/shriiyansh210",
-    "github_link": "https://github.com/shriiyansh210",
-    "maintainer_photo": "https://avatars.githubusercontent.com/u/42801416?s=96&v=4"
+    "telegram_link": "https://t.me/Ebin_A",
+    "github_link": "https://github.com/arulebin/",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/68118222?v=4"
   },
   {
     "maintainer_name": "Chatur",
-    "devices_mantaining": ["Samsung Galaxy A10 and A20 Maintainer"],
+    "devices_mantaining": ["Former Samsung Galaxy A10 and A20 Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-mauritius_1f1f2-1f1fa.png",
     "telegram_link": "https://t.me/chatur2709",
     "github_link": "https://github.com/Chatur27",
@@ -125,7 +125,7 @@
   },
   {
     "maintainer_name": "Henrique",
-    "devices_mantaining": ["ASUS ZenFone 5 Maintainer"],
+    "devices_mantaining": ["Former ASUS ZenFone 5 Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-brazil_1f1e7-1f1f7.png",
     "telegram_link": "https://t.me/henricaodopao",
     "github_link": "https://github.com/henricaodopao",
@@ -181,7 +181,7 @@
   },
   {
     "maintainer_name": "Amy",
-    "devices_mantaining": ["moto g(7) play Maintainer"],
+    "devices_mantaining": ["Former moto g(7) play Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-united-kingdom_1f1ec-1f1e7.png",
     "telegram_link": "https://t.me/amyosx",
     "github_link": "https://github.com/00p513-dev",
@@ -189,7 +189,7 @@
   },
   {
     "maintainer_name": "Kunal",
-    "devices_mantaining": ["Poco X2 Maintainer"],
+    "devices_mantaining": ["Former Poco X2 Maintainer"],
     "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
     "telegram_link": "https://t.me/facebook6ix9ine",
     "github_link": "https://github.com/facebook6ix9ine",
@@ -250,6 +250,30 @@
     "telegram_link": "https://t.me/Pr1nc_3",
     "github_link": "https://github.com/mithuprince",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/71539684?v=4"
+  },
+  {
+    "maintainer_name": "Anoos Ragh",
+    "devices_mantaining": ["Realme C2 Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+    "telegram_link": "https://t.me/cArN4gE_is_DeD",
+    "github_link": "https://github.com/cArN4gEisDeD",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/83896147?v=4" 
+  },
+  {
+    "maintainer_name": "HMTheBoy154",
+    "devices_mantaining": ["Oneplus Nord 5G and x86_64 PCs Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-vietnam_1f1fb-1f1f3.png",
+    "telegram_link": "https://t.me/hmtheboy154",
+    "github_link": "https://github.com/hmtheboy154/",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/39849246?v=4"
+  },
+  {
+    "maintainer_name": "azoller1",
+    "devices_mantaining": ["OnePlus 8T Maintainer"],
+    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-united-states_1f1fa-1f1f8.png",
+    "telegram_link": "https://t.me/Azollr",
+    "github_link": "https://github.com/azoller1/",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/2552829?v=4"
   }
 ]
 

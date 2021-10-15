@@ -4,6 +4,27 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: abhixv
 Android Version: 11
 
+==== 2021-09-24 ====
+- 5.2 Update based on Lineage 18.1
+- September Security Patch
+- SElinux Enforcing
+- Enable VNDK runtime isolation 
+- Update kernel from begonia-r-oss
+- Kernel upstream from to 4.14.246
+- Inlined kernel modules
+- Update firmware begonia V12.5.3.0.RGGMIXM
+- Update audio configs from begonia V12.5.1.0.RGGMIXM 
+- Update blobs from begonia V12.5.3.0.RGGMIXM 
+- Update media configs from begonia V12.5.1.0.RGGMXM
+- Update seccomp configs from begonia V12.5.1.0.RGGMIXM
+- Update public.libraries from begonia V12.5.1.0.RGGMIXM
+- Update permissions from begonia V12.5.1.0.RGGMIXM
+- Update rootdir from begonia V12.5.1.0.RGGMIXM 
+- Update dtbo certs from begonia V12.5.1.0.RGGMIXM
+- Update properties from begonia V12.5.1.0.RGGMIXM 
+- Turn on BOARD_USES_METADATA_PARTITION
+- Enforce RRO for all resource overlays
+
 ==== 2021-08-11 ====
 - 5.2 Update based on Lineage 18.1
 - August Security Patch

@@ -4,6 +4,16 @@ Device: Lenovo Z5s (jd2019)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-10-13 =====
+- October security patch
+- Swap RSSI threshold values
+- Kang GNSS from polaris
+==== 2021-09-16 =====
+- September security patch
+==== 2021-09-08 =====
+- Comes with OSS Vendor (https://t.me/z5supdates/163) only
+- Fixed WFD
+- Misc changes and fixes
 ==== 2021-08-09 =====
 - August security patch
 - Update build fp and desc to redfin August release

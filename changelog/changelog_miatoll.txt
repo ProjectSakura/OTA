@@ -4,6 +4,37 @@ Device: Xiaomi Redmi Note 9 S/Pro/Pro Max (miatoll)
 Device maintainer: a9ito
 Android Version: 11
 
+==== 2021-09-23 ====
+- update to Redfin's September FP & Desc
+- Squash & Drop widevine L1 hacks
+- using 4.14.246-Yuki-Iridium as inlined Kernel
+- fixed black screen issue on kernel after deepsleep state
+- nt36xxxx - ft8756_spi Make more responsivenes touch events
+- codecs: Allow 320K AAC encoding
+- wakeup_stats: Don't export device info to sysfs
+- PM / Sleep: Kill wakelocks after 90s
+- sched: core: Limite task iterations
+- smp: Wait 1 second to turn off a cpu
+- Kernel: process: Short Timeuot for stoping process
+- Build rmNET performance modules
+- Merge LA.UM.9.1.r1-11100-SMxxx0.0 for qcacld-3.0, fw-api, qca-wifi-host-cmn, techpack/audio and data
+- qcacld-3.0: Free a bunch of pkts at once
+- qcacld-3.0: Do not allow any wakelocks to be held
+- qcacld-3.0: Check if auth_tag_len exceeds sizeof(hash)
+- Storage is now encrypted as default
+
+Notes : This is a USER BUILD, doing DIRTY FLASH isn't recommended.
+
+==== 2021-09-07 ====
+- HOTFIX BUILD
+- Upstreamed kernel to 4.14.246-Etherious
+
+==== 2021-09-05 ====
+- Updated Source
+- Merged September Security Patch
+- Merged Redfin's FP to September Builds
+- Moved out inbuilt kernel to 4.14.245-Etherious-LA.UM.9.1.r1-10900.02-SMxxx0.QSSI12.0
+
 ==== 2021-08-18 ====
 - Source Update to 5.2
 - Merged August Security Patch

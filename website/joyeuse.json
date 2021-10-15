@@ -1,0 +1,14 @@
+{
+"response": [
+{
+ "datetime": "1634065240",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20211012-1903-joyeuse-OFFICIAL.zip",
+ "id": "29c8c469fd9233a62ebde8ec09618c4f3e2ecfcdadfae05111e9540a04920986",
+ "romtype":"nightly",
+ "size": 1460671779,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/joyeuse/ProjectSakura-5.2-GAPPS-Basic-20211012-1903-joyeuse-OFFICIAL.zip",
+ "updater": false,
+ "version": "5.2"
+}
+]
+}
