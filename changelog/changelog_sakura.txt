@@ -4,6 +4,11 @@ Device: Xiaomi Redmi 6 Pro (Sakura)
 Device maintainer: mithuprince
 Android Version: 11
 
+======= 15 September 2021 =======
+- Enforcing Build
+- Added miui cam
+- some optimisation
+
 ======= 04 September 2021 =======
 - Shipping user build now instead of userdebug
 - Nuked xiaomi parts
