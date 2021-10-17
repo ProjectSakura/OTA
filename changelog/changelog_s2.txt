@@ -4,6 +4,8 @@ Device: LeEco Le 2 (s2)
 Device maintainer: CakesTwix
 Android Version: 11 
 
+==== 2021-10-16 =====
+- October security patch
 ==== 2021-09-23 =====
 - September security Patch
 ==== 2021-09-04 =====
