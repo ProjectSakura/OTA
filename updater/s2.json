@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1631780185",
- "filename": "ProjectSakura-5.2-GAPPS-Core-20210916-1121-s2-OFFICIAL.zip",
- "id": "45ac553cfb74a0cf2ea91ffa9098f090",
+ "datetime": "1634218930",
+ "filename": "ProjectSakura-5.2-GAPPS-Core-20211014-1647-s2-OFFICIAL.zip",
+ "id": "4d6c2c4ce634e73f3619f72a9f697fed80c8562647ab8af5173b7164565b9102",
  "romtype":"Monthly",
- "size": 880590887,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-5.2-GAPPS-Core-20210916-1121-s2-OFFICIAL.zip",
+ "size": 888542949,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/s2/ProjectSakura-5.2-GAPPS-Core-20211014-1647-s2-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
