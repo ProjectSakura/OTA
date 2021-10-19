@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1621141417",
- "filename": "ProjectSakura-5.R-VANILLA-20210516-0505-rosy-OFFICIAL.zip",
- "id": "b8cdf5dd3a5f3d61065f84a509fb9f27",
- "romtype":"nightly",
- "size": 768606470,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/rosy/ProjectSakura-5.R-VANILLA-20210516-0505-rosy-OFFICIAL.zip",
- "version": "5.R"
+ "datetime": "1634567020",
+ "filename": "ProjectSakura-5.2-VANILLA-20211018-1424-rosy-OFFICIAL.zip",
+ "id": "ced0b4e0add7acfe7e34d29c37123ae7f8c56a4f23cebc344a4ee7a0591e720a",
+ "romtype":"monthly",
+ "size": 820799342,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/rosy/ProjectSakura-5.2-VANILLA-20211018-1424-rosy-OFFICIAL.zip",
+ "version": "5.2"
 }
 ]
 }
