@@ -1,15 +1,18 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Realme C2 (RMX1941)
-Device maintainer: AnoosRagh
+Device maintainer: Anoosragh
 Android Version: 11
 
-==== 11-10-2021 ====
-- Reduce screenshot delay to 0
-- Added A13 style GBoard overlay
-- Removed RealmeDirac
-- Fixed auto-brightness
-- Added some power saving props
-- Oct SPL
+==== 30-12-2021 ====
+- December ASB
+- Enable encryption
+- Switch to enforcing
+- Update and cleanup overlay
+- Enable zygote preforking
+- Add RealmeDirac
+- Stop serial console notification
+- Fix performance profile
+- Drop SafailNet
 - Source side changes
-- More misc changes and fixes
+- Misc changes and bug fixes
