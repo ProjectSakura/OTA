@@ -111,7 +111,7 @@
     },
     {
       "brand": "Moto",
-      "name": "Former moto g(7) power",
+      "name": "moto g(7) power",
       "codename": "ocean",
       "maintainer_name": "hisoka_simp",
       "maintainer_xda": "https://forum.xda-developers.com/m/hisoka_simp.11481799/",
@@ -522,7 +522,7 @@
       "maintainer_xda": "null",
       "maintainer_country": "ID",
       "xda_thread": "",
-      "active": true,
+      "active": false,
       "donation_link":""
     },
     {
