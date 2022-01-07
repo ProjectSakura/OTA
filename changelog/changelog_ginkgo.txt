@@ -4,6 +4,11 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 7 January 2022 ======
+- Updated MIUI blobs to V12.0.2.0.RCOMIXM
+- December Security Patch
+- Misc changes
+
 ====== 2 October 2021 ======
 - Fixed random reboots 
 - Rebase to ArrowOS trees
