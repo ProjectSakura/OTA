@@ -4,8 +4,11 @@ Device: Redmi Note 8 (ginkgo)
 Device maintainer: Ashwin DS and Karan Parashar
 Android Version: 11
 
+====== 8 January 2022 ======
+- [HOTFIX] Fix camera related issues 
+
 ====== 7 January 2022 ======
-- Updated MIUI blobs to V12.0.2.0.RCOMIXM
+- Updated MIUI blobs from V12.5.1.0.RCOMIXM
 - December Security Patch
 - Misc changes
 
