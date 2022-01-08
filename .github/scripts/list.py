@@ -60,8 +60,15 @@ def active_devices ():
 current_month = datetime.date.today().month
 current_year = datetime.date.today().year
 month_start = datetime.datetime(current_year, current_month, 1, 0, 0, 1)
-last_month_start = datetime.datetime(current_year, current_month - 1, 1, 0, 0, 1)
-last_2month_start = datetime.datetime(current_year, current_month - 2, 1, 0, 0, 1)
+if current_month == 1:
+    last_month_start = datetime.datetime(current_year -1 , 12, 1, 0, 0, 1)
+    last_2month_start = datetime.datetime(current_year -1 , 11, 1, 0, 0, 1)
+elif current_month == 2:
+    last_month_start = datetime.datetime(current_year, current_month - 1, 1, 0, 0, 1)
+    last_2month_start = datetime.datetime(current_year -1 , 12, 1, 0, 0, 1)
+else:
+    last_month_start = datetime.datetime(current_year, current_month - 1, 1, 0, 0, 1)
+    last_2month_start = datetime.datetime(current_year, current_month - 2, 1, 0, 0, 1)
 
 
 yetToUpdate = []
