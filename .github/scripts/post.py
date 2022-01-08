@@ -208,7 +208,7 @@ commit_descriptions = "Data for following device(s) were changed :\n"
 for i in get_diff(new, old):
     print(i)
     info = get_info(i)
-    bot.send_sticker(CHAT_ID, STICKER_ID)
+    # bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
     send_photo(".github/assets/banner.png", cook_content(info))
     if info["updater"]:
