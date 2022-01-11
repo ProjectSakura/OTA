@@ -4,6 +4,11 @@ Device: OnePlus 9Pro
 Device maintainer: eduardo
 Android Version: 11
 
+====01/10/2022====
+December ASB patch
+some smaller source changes
+latest blobs
+
 ====10/12/2021====
 October ASB patch
 some smaller source changes
