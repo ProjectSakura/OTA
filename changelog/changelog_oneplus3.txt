@@ -4,6 +4,9 @@ Device: OnePlus 3/3T (Sakura)
 Device maintainer: Deepak Jr.
 Android Version: 11
 
+==== 2022-01-16 =====
+- Enable msm_irqbalance
+
 ==== 2021-09-05 =====
 -Switch to signed builds
 
