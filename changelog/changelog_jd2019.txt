@@ -5,6 +5,8 @@ Device maintainer: CakesTwix
 Android Version: 11 
 
 ==== 2021-10-13 =====
+- December security patch
+==== 2021-10-13 =====
 - October security patch
 - Swap RSSI threshold values
 - Kang GNSS from polaris
