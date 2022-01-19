@@ -4,6 +4,12 @@ Device: OnePlus 8T (kebab)
 Device maintainer: azoller1
 Android Version: 11
 
+=== 19/01/2022 ===
+- December security patch
+- Latest OOS Blobs/Vendor
+- Enabled smart charging/smart cutoff
+- Latest upstream kernel changes
+
 === 10/11/2021 ===
 - October Security Patch
 - Better GBoard Padding
