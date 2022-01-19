@@ -5,6 +5,10 @@ Device maintainer: azoller1
 Android Version: 11
 
 === 19/01/2022 ===
+- Fix stuck at boot :(
+- GCam updated to latest wichaya version
+
+=== 19/01/2022 ===
 - December security patch
 - Latest OOS Blobs/Vendor
 - Enabled smart charging/smart cutoff
