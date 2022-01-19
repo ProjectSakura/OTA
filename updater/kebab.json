@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1642520071",
- "filename": "ProjectSakura-5.2-GAPPS-Basic-20220118-1136-kebab-OFFICIAL.zip",
- "id": "41615a17f555c5cdcd7551616e33d664",
+ "datetime": "1642579598",
+ "filename": "ProjectSakura-5.2-GAPPS-Basic-20220119-0221-kebab-OFFICIAL.zip",
+ "id": "eaad000d6001ccb4f8e19b493a9b07cc",
  "romtype":"monthly",
- "size": 1418874444,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/kebab/ProjectSakura-5.2-GAPPS-Basic-20220118-1136-kebab-OFFICIAL.zip",
+ "size": 1418839490,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/kebab/ProjectSakura-5.2-GAPPS-Basic-20220119-0221-kebab-OFFICIAL.zip",
  "version": "5.2"
 }
 ]
