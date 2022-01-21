@@ -4,9 +4,10 @@ Device: OnePlus 8T (kebab)
 Device maintainer: azoller1
 Android Version: 11
 
-=== 19/01/2022 ===
-- Fix stuck at boot :(
-- GCam updated to latest wichaya version
+=== 21/01/2022 ===
+- Fix stuck at boot FINALLY :(
+- Removed built-in gcam
+- Same as 19/01 build, but quick fix
 
 === 19/01/2022 ===
 - December security patch
