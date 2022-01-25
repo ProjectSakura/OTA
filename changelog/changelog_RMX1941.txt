@@ -4,15 +4,9 @@ Device: Realme C2 (RMX1941)
 Device maintainer: Anoosragh
 Android Version: 11
 
-==== 30-12-2021 ====
-- December ASB
-- Enable encryption
-- Switch to enforcing
-- Update and cleanup overlay
-- Enable zygote preforking
-- Add RealmeDirac
-- Stop serial console notification
-- Fix performance profile
-- Drop SafailNet
+==== 25-01-2022 ====
+- January ASB
+- Fix some performance issues
+- Switch to C.53 prebuilts
 - Source side changes
 - Misc changes and bug fixes
