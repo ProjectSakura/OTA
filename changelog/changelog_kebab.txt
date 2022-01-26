@@ -4,6 +4,12 @@ Device: OnePlus 8T (kebab)
 Device maintainer: azoller1
 Android Version: 11
 
+=== 26/01/2022 ===
+- Jan security patch
+- GBoard padding back
+- Ambient pocket mode added back
+- Other overlays fixed
+
 === 21/01/2022 ===
 - Fix stuck at boot FINALLY :(
 - Removed built-in gcam
