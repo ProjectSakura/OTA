@@ -1,8 +1,12 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 (surya)
-Device maintainer: Agus ( @agustkid )
+Device maintainer: ArmSM
 Android Version: 11 
+
+==== 2022-02-05 =====
+- Merge January Security Patch 
+- Safetynet is pass by default
 
 ==== 2021-09-16 =====
 - Merge September Patch 
