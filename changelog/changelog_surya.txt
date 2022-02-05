@@ -1,27 +1,12 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco X3 (surya)
-Device maintainer: Agus ( @agustkid )
+Device maintainer: ArmSM&Agus 
 Android Version: 11 
 
-==== 2021-09-16 =====
-- Merge September Patch 
+==== 2022-02-05 =====
+- Merge January Security Patch 
 - Safetynet is pass by default
-- Fixed bootlop for some user
-- Fixed sleept of dead issue
-- Fixed lags in some condition 
-- Fixed HD quality in some video streaming apps
-- Switch arch variant to armv8-2a-dotprod
-- Update blobs from MIUI 12.5.2
-- Add support of wechat & alipay fp payment
-- Add mlipay blobs from miui
-- Introduce haptic feedback level
-- Introduce KCAL support
-- Improved refresh rate stuff
-- Hardcoded to only supported refresh rate
-- Merge latest linux kernel tags
-
-NOTE : This probably last a11 update from me as iam busy in real life
 
 ==== 2021-08-24 =====
 - Initial 5.2 Source Update
