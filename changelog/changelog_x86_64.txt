@@ -4,6 +4,29 @@ Device: x86_64 PCs (require SSE4.2)
 Device maintainer: HMTheBoy154
 Android Version: 11
 
+==== 31-01-2022 ====
+- Merge latest January patch
+- Bromite SystemWebview updated to 96.0.4664.54
+- Implement a DPI fix by PrimeOS Team (big thanks to them)
+- Update alsa-lib/alsa-utils/alsa-ucm-conf to 1.2.6.3
+- firmware now getting all the latest from linux-firmware, including some silead linux firmware from gsl-firmware repo
+- Replace rusty-magisk with Project Kokoro, a new way to implement Magisk into Android-x86 build with Zygisk and modules support
+- Everything relate to koushSU is removed.
+- Added input wiring to AUDIO_DEVICE_IN_WIRED_HEADSET, hoping that it can help detect mics better.
+- NTFS can now being mounted as SDCard (default is using ntfs-3g + fuse, there's also Paragon's ntfs3)
+- ntfs-3g merged to latest commit
+- libhoudini now change from ChromeOS one to WSA, which increase compability as some people report.
+- Update Mesa3d to 23.1.4 with LLVM13 + libdrm 2.4.109
++ For Intel, i965 driver is being default instead of crocus and iris to prevent glitches and crashes
++ You can now use drirc, a drirc file is in /system/etc, you can add your config folder at /data/drirc.d/ and add your own *.conf file in
+- drm_gralloc now completely removed (goodbye)
+- gbm_gralloc change to the branch that BlissOS 15 use
+- minigbm change to maurossi's gbm_mesa_y22_w02_R which is the version with gbm_backend
+- drm_hwcomposer updated
+- Import some sepolicy from Project Celadon, this include graphics/mesa, thermal and houdini
+- Kernel is now updated to 5.15.16 with lots of improvement. (more on this soon)
+- system.sfs, initrd.img and install.img now compressed with zstd.
+
 ==== 25-09-2021 ====
 - Upstream to September Security patch
 - Update Mesa to 21.2.2
