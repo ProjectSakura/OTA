@@ -535,5 +535,15 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-mojito-sunny-project-sakura-official-aosp.4325663/",
       "active": true,
       "donation_link":""
-    }
+    },
+    {
+     "brand": "Xiaomi",
+      "name": "Redmi Note 10 Pro",
+      "codename": "sweet",
+      "maintainer_name": "Paras Dhiman",
+      "maintainer_xda": "https://forum.xda-developers.com/m/dhimanparas20.8789230/",
+      "maintainer_country": "IND",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-sweet-monthly-updates-gapps-core.4405825/",
+      "active": true,
+      "donation_link":"paypal.me/luffymst"
   ]
