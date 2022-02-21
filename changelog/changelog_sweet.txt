@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro
+Device maintainer: Paras_Dhiman (Ken_kaneki_69)
+Android Version: 11
+
+==== 21-02-2022 ===
+* Initial Official Build.
+* Prebuilt Fully Functional ANXCamera.
+* Recommended to use google photos with ANXCamera.
+* Prebuilt with Vantom Kernel.
