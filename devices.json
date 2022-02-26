@@ -205,7 +205,18 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-a11-projectsakura-5-2-official-realme-c2.4329247/",
       "active": true,
       "donation_link":""
-    },  
+    },
+    {
+      "brand": "Realme",
+      "name": "Realme 7 pro",
+      "codename": "RMX2170",
+      "maintainer_name": "mithuprince",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
     {
       "brand": "Samsung",
       "name": "Galaxy A10",
