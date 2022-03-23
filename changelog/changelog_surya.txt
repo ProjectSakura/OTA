@@ -4,9 +4,23 @@ Device: Poco X3 (surya)
 Device maintainer: ArmSM
 Android Version: 11 
 
-==== 2022-02-05 =====
-- Merge January Security Patch 
+==== 2022-03-05 =====
+-- DT/Vendor/Kernel based on Los Official--
+- Merge March Security Patch 
 - Safetynet is pass by default
+• Added dirac & misoundfx
+• Added overlay for CPU temperature & FPS info
+• Enable min/max refresh rate
+• Added support for LCD HBM and CABC
+• Fixed parts crash while changing volume
+• UI is more smoother than before
+• Force set vendor.display.idle_time to 0
+• vendor: add dirac blobs
+• Allow priv access to camera apps
+• Set TARGET_SCREEN_DENSITY to 400
+• overlay: Show battery icon in QS header
+• Enable zram writeback
+• For more changelog check DT .
 
 ==== 2021-09-16 =====
 - Merge September Patch 

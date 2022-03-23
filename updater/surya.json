@@ -1,12 +1,13 @@
 {
 "response": [
 {
- "datetime": "1647190475",
- "filename": "ProjectSakura-5.2-VANILLA-20220313-1654-surya-OFFICIAL.zip",
- "id": "7f2c8902109587984c50973a750c58b44216ab4b8b8c2bd3b1b76df4e59c9935",
- "romtype":"monthly",
- "size": 1104345156,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/surya/ProjectSakura-5.2-VANILLA-20220313-1654-surya-OFFICIAL.zip",
+ "datetime": "1648023451",
+ "filename": "ProjectSakura-5.2-VANILLA-20220322-1431-surya-OFFICIAL.zip",
+ "id": "9d926a0a0e55d23184098b7bd4a691323c5749ced20dbba8be1b47786a45ae34",
+ "romtype":"nightly",
+ "size": 1121759206,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/surya/ProjectSakura-5.2-VANILLA-20220322-1431-surya-OFFICIAL.zip",
+ "updater": true,
  "version": "5.2"
 }
 ]
