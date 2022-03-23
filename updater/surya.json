@@ -4,10 +4,9 @@
  "datetime": "1648023451",
  "filename": "ProjectSakura-5.2-VANILLA-20220322-1431-surya-OFFICIAL.zip",
  "id": "9d926a0a0e55d23184098b7bd4a691323c5749ced20dbba8be1b47786a45ae34",
- "romtype":"nightly",
+ "romtype":"monthly",
  "size": 1121759206,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/surya/ProjectSakura-5.2-VANILLA-20220322-1431-surya-OFFICIAL.zip",
- "updater": true,
  "version": "5.2"
 }
 ]
