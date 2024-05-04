@@ -75,5 +75,16 @@
     "xda_thread": "",
     "active": true,
     "donation_link":"paypal.me/ArmSMA"
- }
-  ]
+ },
+ {
+    "brand": "OnePlus",
+    "name": "OnePlus 9 Pro",
+    "codename": "lemonadep",
+    "maintainer_name": "eduardo",
+    "maintainer_xda": "null",
+    "maintainer_country": "USA",
+    "xda_thread": "",
+    "active": true,
+    "donation_link":"paypal.me/eduardoroms"
+  }
+   ]
