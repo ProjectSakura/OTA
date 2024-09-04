@@ -1,0 +1,15 @@
+{
+"response": [
+{
+ "datetime": "1725460814",
+ "filename": "ProjectSakura-9.4-20240904-1642-GAPPS-a71-OFFICIAL.zip",
+ "id": "69b51d700a6dbd2c42854334440f2cc2",
+ "romtype":"monthly",
+ "size": 1536215477,
+ "support": false,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a71/ProjectSakura-9.4-20240904-1642-GAPPS-a71-OFFICIAL.zip",
+ "updater": true,
+ "version": "9.4"
+}
+]
+}
