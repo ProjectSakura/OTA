@@ -119,5 +119,16 @@
    "xda_thread": "https://xdaforums.com/t/project-sakura-14-official-raven.4680634/",
    "active": true,
    "donation_link":""
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71 4G",
+   "codename": "a71",
+   "maintainer_name": "Legofan",
+   "maintainer_xda": "null",
+   "maintainer_country": "DE",
+   "xda_thread": "",
+   "active": true,
+   "donation_link":""
 }
    ]
