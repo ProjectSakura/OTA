@@ -67,6 +67,17 @@
  },
  {
    "brand": "Nothing",
+   "name": "Nothing Phone 1",
+   "codename": "Spacewar",
+   "maintainer_name": "abhixv",
+   "maintainer_xda": "null",
+   "maintainer_country": "IND",
+   "xda_thread": "",
+   "active": true,
+   "donation_link":"https://paypal.me/abhixv"
+ },
+ {
+   "brand": "Nothing",
    "name": "Nothing Phone 2",
    "codename": "pong",
    "maintainer_name": "MNoxx74",

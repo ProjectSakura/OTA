@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": "1725693235",
+      "filename": "ProjectSakura-9.4-20240907-0719-GAPPS-Spacewar-OFFICIAL.zip",
+      "id": "36cf665886ca0dea0f887e21dd2619da",
+      "romtype": "monthly",
+      "size": 1943056846,
+      "support": "ProjectSakura",
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/Spacewar/ProjectSakura-9.4-20240907-0719-GAPPS-Spacewar-OFFICIAL.zip",
+      "updater": false,
+      "version": "9.4"
+    }
+  ]
+}
