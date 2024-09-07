@@ -1,3 +1,11 @@
+September-07-2024
+- Added MIUI Camera
+- New trees as base
+- Yamk Kernel by default
+- Fixed PowerOff Alarm
+- Kill some log spams
+- Miscellaneous changes for stability and performance
+
 August-02-2024
 - Initial Build
 - Includes Google Apps

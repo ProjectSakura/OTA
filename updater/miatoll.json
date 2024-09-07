@@ -1,15 +1,7 @@
-{
-"response": [
-{
- "datetime": "1722534812",
- "filename": "ProjectSakura-9.3-20240801-1753-GAPPS-miatoll-OFFICIAL.zip",
- "id": "9e651e2b1c877d48a725e85cdf1ff221",
- "romtype":"monthly",
- "size": 1736108681,
- "support": "ProjectSakuraXiaomi",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-9.3-20240801-1753-GAPPS-miatoll-OFFICIAL.zip",
- "updater": false,
- "version": "9.3"
+{ "response": [ { "datetime": "1725705501", "filename": "ProjectSakura-9.4-20240907-1038-VANILLA-miatoll-OFFICIAL.zip", "id": 
+ "fafca412c8de9af0f1938f34ae9c1208", "romtype":"monthly", "size": 1513387980, "support": "ProjectSakuraXiaomi", "url": 
+ "https://master.dl.sourceforge.net/project/projectsakura/miatoll/ProjectSakura-9.4-20240907-1038-VANILLA-miatoll-OFFICIAL.zip", 
+ "updater": false, "version": "9.4"
 }
 ]
 }
