@@ -22,22 +22,12 @@
   {
     "maintainer_name": "Christo Paul",
     "devices_mantaining": [
-      "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max/10 Lite"
+      "Poco M2 Pro/Redmi Note 9 Series/10 Lite"
     ],
     "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-india_1f1ee-1f1f3.png",
     "telegram_link": "https://t.me/orionphoenix",
     "github_link": "https://github.com/christop23",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/50113036?v=4"
-  },
-  {
-    "maintainer_name": "RDX463",
-    "devices_mantaining": [
-      "Poco X5 Pro 5G Maintainer"
-    ],
-    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-india_1f1ee-1f1f3.png",
-    "telegram_link": "https://t.me/rdx463",
-    "github_link": "https://github.com/RDX463",
-    "maintainer_photo": "https://avatars.githubusercontent.com/u/129583236?v=4"
   },
   {
     "maintainer_name": "MNoxx74",
@@ -48,6 +38,36 @@
     "telegram_link": "https://t.me/MNoxx74",
     "github_link": "https://github.com/MNoxx74",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/81765576?v=4"
+  },
+  {
+    "maintainer_name": "Abhixv",
+    "devices_mantaining": [
+      "Nothing Phone 1"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-india_1f1ee-1f1f3.png",
+    "telegram_link": "https://t.me/abhixv",
+    "github_link": "https://github.com/abhixv",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/66074182?v=4"
+  },
+  {
+    "maintainer_name": "Legofan",
+    "devices_mantaining": [
+      "Samsung Galaxy A71 4G"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/408/flag-germany_1f1e9-1f1ea.png",
+    "telegram_link": "https://t.me/legofan5151",
+    "github_link": "https://github.com/legofanlovessayori",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/94994630?v=4"
+  },
+  {
+    "maintainer_name": "Aquariusjr10",
+    "devices_mantaining": [
+      "Google Pixel 6 Pro"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/408/flag-united-kingdom_1f1ec-1f1e7.png",
+    "telegram_link": "https://t.me/Deepak_jr",
+    "github_link": "https://github.com/aquariusjr10",
+    "maintainer_photo": "https://avatars.githubusercontent.com/u/46277303?v=4"
   },
   {
     "maintainer_name": "Eduardo",

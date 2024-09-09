@@ -34,7 +34,7 @@
  },
   {
     "brand": "Xiaomi",
-    "name": "Poco M2 Pro/Redmi Note 9S/Pro/Pro Max/10 Lite",
+    "name": "Poco M2 Pro/Redmi Note 9 Series/10 Lite",
     "codename": "miatoll",
     "maintainer_name": "Christo Paul",
     "maintainer_xda": "null",
@@ -51,7 +51,7 @@
     "maintainer_xda": "null",
     "maintainer_country": "IND",
     "xda_thread": "",
-    "active": true,
+    "active": false,
     "donation_link":"paypal.me/RohanBalsaraf"
  },
  {
