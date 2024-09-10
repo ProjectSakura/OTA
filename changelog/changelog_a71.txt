@@ -1,3 +1,7 @@
-September 4th 2024
+September 10th 2024
+- Merged September 2024 Android Security Patches
+- Passes Strong Play integrity verdict by default
 
+
+September 4th 2024
 - Initial Official Build
