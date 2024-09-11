@@ -1,6 +1,6 @@
 ~ Build Specifications ~
 
-September-06-2024
-- Trees updated 
-- Kernel Updated
-- August Sec Patch
+- Make UI smoother 
+- Adjust some status bar padding 
+- CTS , Strong integrity passes default
+- September Sec Patch
