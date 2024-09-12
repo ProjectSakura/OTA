@@ -6,20 +6,7 @@
  "id": "3e3365103f821cced4411f4ddd8e2560",
  "romtype":"monthly",
  "size": 1166539807,
- "support": "linagstone",
  "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.4-20240912-1506-VANILLA-stone-OFFICIAL.zip",
- "updater": "false",
- "version": "9.4"
-},
-{
- "datetime": "1726153544",
- "filename": "ProjectSakura-9.4-20240912-1707-GAPPS-stone-OFFICIAL.zip",
- "id": "43903f129e58cf6b593018bb0f2d884b",
- "romtype":"monthly",
- "size": 1423979725,
- "support": "linagstone",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.4-20240912-1707-GAPPS-stone-OFFICIAL.zip",
- "updater": "false",
  "version": "9.4"
 }
 ]
