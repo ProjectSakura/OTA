@@ -141,5 +141,16 @@
    "xda_thread": "",
    "active": true,
    "donation_link":""
+},
+{
+   "brand": "Xiaomi",
+   "name": "Poco X5 5G / Redmi Note 12 5G",
+   "codename": "stone",
+   "maintainer_name": "KamiKaonashi",
+   "maintainer_xda": "KamiKaonashi",
+   "maintainer_country": "AT",
+   "xda_thread": "",
+   "active": true,
+   "donation_link":""
 }
    ]
