@@ -1,3 +1,8 @@
+September-14-2024
+- Fixed MIUI Camera
+- Smoother UI
+- September security patch
+
 September-07-2024
 - Added MIUI Camera
 - New trees as base
