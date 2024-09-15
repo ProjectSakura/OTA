@@ -1,15 +1,15 @@
 {
 "response": [
 {
- "datetime": "1721926328",
- "filename": "ProjectSakura-9.3-20240725-2224-GAPPS-lemonadep-OFFICIAL.zip",
- "id": "e1f260320d3704a48c7276cd91b1366c",
+ "datetime": "1726332886",
+ "filename": "ProjectSakura-9.4-20240914-1257-GAPPS-lemonadep-OFFICIAL.zip",
+ "id": "6dcae294b29e799a22563d4627d9959c",
  "romtype":"monthly",
- "size": 1857163552,
+ "size": 1984310994,
  "support": false,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-9.3-20240725-2224-GAPPS-lemonadep-OFFICIAL.zip",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-9.4-20240914-1257-GAPPS-lemonadep-OFFICIAL.zip",
  "updater": true,
- "version": "9.3"
+ "version": "9.4"
 }
 ]
 }
