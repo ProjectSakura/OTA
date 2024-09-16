@@ -6,11 +6,8 @@
  "id": "6dcae294b29e799a22563d4627d9959c",
  "romtype":"monthly",
  "size": 1984310994,
- "support": false,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-9.4-20240914-1257-GAPPS-lemonadep-OFFICIAL.zip",
- "updater": true,
  "version": "9.4"
 }
 ]
 }
-
