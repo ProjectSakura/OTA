@@ -163,8 +163,16 @@ def banner():
             return "2"
         elif b == 2:
             f.seek(0)
-            f.write('0')
+            f.write('3')
             return "3"
+        elif b == 3:
+            f.seek(0)
+            f.write('4')
+            return "4"
+        elif b == 4:
+            f.seek(0)
+            f.write('0')
+            return "5"
         else:
             print("ayo code died")
 
