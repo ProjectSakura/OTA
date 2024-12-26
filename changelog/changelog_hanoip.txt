@@ -1,3 +1,17 @@
+Dec-26-2024
+
+- Use KSU
+- Import susfs4ksu
+- Fix thumbnail issues in gallery apps
+- Add back Aperture
+- Add ultrawide and macro support to Aperture
+- Revert to patched ims apk
+- Import custom splash screen
+- Tweak some landscape statusbar padding
+- Address some sepolicy denials
+- Switch to user builds
+- Misc perf and stability improvements
+
 July-26-2024
 
 - Initial qpr3 stable release
