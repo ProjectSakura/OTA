@@ -1,13 +1,15 @@
 {
 "response": [
 {
- "datetime": "1725983286",
- "filename": "ProjectSakura-9.4-20240910-1750-GAPPS-a71-OFFICIAL.zip",
- "id": "90bcab8c71219d281022d5d820a32d23",
+  "datetime": "1735256809",
+ "filename": "ProjectSakura-9.5-20241227-0047-GAPPS-a71-OFFICIAL.zip",
+ "id": "f33ef16a7625101d2d02aefc47c33e35",
  "romtype":"monthly",
- "size": 1536578101,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/a71/ProjectSakura-9.4-20240910-1750-GAPPS-a71-OFFICIAL.zip",
- "version": "9.4"
+ "size": 1741206858,
+ "support": false,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/a71/ProjectSakura-9.5-20241227-0047-GAPPS-a71-OFFICIAL.zip",
+ "updater": true,
+ "version": "9.5"
 }
 ]
 }
