@@ -1,6 +1,8 @@
 ~ Build Specifications ~
-
-- Make UI smoother 
-- Adjust some status bar padding 
+- 
+- New Trees
+- Added Missing brightness prop
+- Correct Peak refresh rate values
+- Uprev fp hal to 2.3
 - CTS , Strong integrity passes default
-- September Sec Patch
+- December Sec Patch
