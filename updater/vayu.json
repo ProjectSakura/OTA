@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1726059404",
- "filename": "ProjectSakura-9.4-20240911-1512-GAPPS-vayu-OFFICIAL.zip",
- "id": "92482633b7138690b8bae6d32bcd532c",
+ "datetime": "1735239985",
+ "filename": "ProjectSakura-9.5-20241226-2006-GAPPS-vayu-OFFICIAL.zip",
+ "id": "f7f04a072f8b2bf9a719e002e0b8162f",
  "romtype":"monthly",
- "size": 2006502427,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/vayu/ProjectSakura-9.4-20240911-1512-GAPPS-vayu-OFFICIAL.zip",
- "version": "9.4"
+ "size": 1962291868,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/vayu/ProjectSakura-9.5-20241226-2006-GAPPS-vayu-OFFICIAL.zip",
+ "version": "9.5"
 }
 ]
 }
