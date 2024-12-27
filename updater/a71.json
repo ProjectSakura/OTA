@@ -1,14 +1,12 @@
 {
 "response": [
 {
-  "datetime": "1735256809",
+ "datetime": "1735256809",
  "filename": "ProjectSakura-9.5-20241227-0047-GAPPS-a71-OFFICIAL.zip",
  "id": "f33ef16a7625101d2d02aefc47c33e35",
  "romtype":"monthly",
  "size": 1741206858,
- "support": false,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/a71/ProjectSakura-9.5-20241227-0047-GAPPS-a71-OFFICIAL.zip",
- "updater": true,
  "version": "9.5"
 }
 ]
