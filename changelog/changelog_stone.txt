@@ -1,2 +1,9 @@
+December 28th 2024
+- upstream kernel
+- add DC dimming and HBM
+- clean up tree and vendor
+- tweak for way smoother experience
+- custom kernel
+
 September 12th 2024
 - Initial Official Build

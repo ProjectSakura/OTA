@@ -1,26 +1,26 @@
 {
 "response": [
 {
- "datetime": "1726146201",
- "filename": "ProjectSakura-9.4-20240912-1506-VANILLA-stone-OFFICIAL.zip",
- "id": "3e3365103f821cced4411f4ddd8e2560",
+ "datetime": "1735369272",
+ "filename": "ProjectSakura-9.5-20241228-0803-VANILLA-stone-OFFICIAL.zip",
+ "id": "2d3a9c47e0d4f4e900a34f9fdec1e91a",
  "romtype":"monthly",
- "size": 1166539807,
+ "size": 1144444789,
  "support": "linagstone",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.4-20240912-1506-VANILLA-stone-OFFICIAL.zip",
- "updater": "false",
- "version": "9.4"
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.5-20241228-0803-VANILLA-stone-OFFICIAL.zip",
+ "updater": true,
+ "version": "9.5"
 },
 {
- "datetime": "1726153544",
- "filename": "ProjectSakura-9.4-20240912-1707-GAPPS-stone-OFFICIAL.zip",
- "id": "43903f129e58cf6b593018bb0f2d884b",
+ "datetime": "1735371308",
+ "filename": "ProjectSakura-9.5-20241228-0836-GAPPS-stone-OFFICIAL.zip",
+ "id": "389ad7698242c44975e2e0658ee626f3",
  "romtype":"monthly",
- "size": 1423979725,
+ "size": 1401309455,
  "support": "linagstone",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.4-20240912-1707-GAPPS-stone-OFFICIAL.zip",
- "updater": "false",
- "version": "9.4"
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/stone/ProjectSakura-9.5-20241228-0836-GAPPS-stone-OFFICIAL.zip",
+ "updater": true,
+ "version": "9.5"
 }
 ]
 }
