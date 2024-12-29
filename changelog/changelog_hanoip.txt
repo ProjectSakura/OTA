@@ -1,5 +1,6 @@
 Dec-26-2024
 
+- Switch to 90Hz refresh rate
 - Use KSU
 - Import susfs4ksu
 - Fix thumbnail issues in gallery apps
