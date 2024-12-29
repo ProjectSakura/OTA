@@ -1,15 +1,15 @@
 {
 "response": [
 {
- "datetime": "1724375714",
- "filename": "ProjectSakura-9.4-20240823-0645-GAPPS-sky-OFFICIAL.zip",
- "id": "5fedcf9dd2ae6ab01fc47196026d8eca",
- "romtype": "monthly",
- "size": 1434138168,
+ "datetime": "1735497087",
+ "filename": "ProjectSakura-9.5-20241229-1834-GAPPS-sky-OFFICIAL.zip",
+ "id": "2eed0749b3b2be89c920252377b5798f",
+ "romtype":"monthly",
+ "size": 1385448322,
  "support": "ProjectSakuraPoco",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-9.4-20240823-0645-GAPPS-sky-OFFICIAL.zip",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-9.5-20241229-1834-GAPPS-sky-OFFICIAL.zip",
  "updater": false,
- "version": "9.4"
+ "version": "9.5"
 }
 ]
 }

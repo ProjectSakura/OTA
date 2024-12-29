@@ -1,3 +1,9 @@
+Dec-30-2024
+
+- Drop useless blobs
+- Fix qs lag
+- Misc perf and stability improvements
+
 Aug-30-2024
 - Initial QPR3 release
 - Fixed some stability issues
