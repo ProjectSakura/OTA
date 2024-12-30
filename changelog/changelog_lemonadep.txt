@@ -1,3 +1,10 @@
+December-30-2024
+-Updated to 9.5 December patch
+-OPLus camera (video needs to be set 1080/60fps)
+-rm Device Settings 
+-KSU kernel
+-Dolby Atmos
+
 September-14-2024
 -Updated to 9.4 w/August patch
 -added OPLus camera (video needs to be set 1080/60fps)
