@@ -1,15 +1,15 @@
 {
 "response": [
 {
- "datetime": "1725287078",
- "filename": "ProjectSakura-9.4-20240902-1642-GAPPS-veux-OFFICIAL.zip",
- "id": "573610b4069aad7cacc258e04d5f695a",
+ "datetime": "1736143682",
+ "filename": "ProjectSakura-9.5-20250106-0724-GAPPS-veux-OFFICIAL.zip",
+ "id": "b6ccd259937fbf5c265437c469fbfe2a",
  "romtype":"monthly",
- "size": 1843285213,
+ "size": 1710387103,
  "support": "ProjectSakuraPoco",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/veux/ProjectSakura-9.4-20240902-1642-GAPPS-veux-OFFICIAL.zip",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/veux/ProjectSakura-9.5-20250106-0724-GAPPS-veux-OFFICIAL.zip",
  "updater": false,
- "version": "9.4"
+ "version": "9.5"
 }
 ]
 }
