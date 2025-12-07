@@ -1,5 +1,0 @@
-7th August 2024
-
-- Initial release
-
-(! Has a white tint in the lock screen and AOD sometimes when light theme is enabled.)

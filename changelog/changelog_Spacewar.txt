@@ -1,5 +1,0 @@
-September-07-2024
-- Initial build
-- Added NOS Camera
-- Gapps included
-- Fixed Vibration issues
