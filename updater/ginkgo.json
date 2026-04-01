@@ -1,0 +1,16 @@
+{
+"response": [
+{
+ "datetime": "1775057702",
+ "filename": "ProjectSakura-16.2.0-20260401-1800-GAPPS-ginkgo-OFFICIAL.zip",
+ "id": "0781fd931d40be567791a50a22cbc99b",
+ "romtype":"nightly",
+ "size": 1804053065,
+ "support": false,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/ginkgo/ProjectSakura-16.2.0-20260401-1800-GAPPS-ginkgo-OFFICIAL.zip",
+ "version": "16.2.0",
+ "maintainer": "momenabdulrazek",
+ "updater": true
+}
+]
+}
