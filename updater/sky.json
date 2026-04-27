@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1777524151",
+      "filename": "ProjectSakura-16.2.1-20260430-2008-GAPPS-sky-OFFICIAL.zip",
+      "id": "6d8f27b2a3765b8d583fdec6cc5f933",
+      "romtype": "nightly",
+      "size": 167958128,
+      "support": "TheToplexy",
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-16.2.1-20260430-2008-GAPPS-sky-OFFICIAL.zip",
+      "version": "16.2.1",
+      "updater": true,
+      "maintainer": "𝚂αяιм_𝚁αѕσσℓ"
+    }
+  ]
+}
