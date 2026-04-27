@@ -1,0 +1,4 @@
+- dropped firmware integration
+- added kernel localname
+- added mglru initial implimentation 
+- some kernel related performance tweaks 
