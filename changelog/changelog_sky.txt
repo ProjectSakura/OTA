@@ -1,4 +1,16 @@
+Projet Sakura v16.2.1
+Build date: 30/04/2026
+Device changelogs:
+- Added Dolby + BCR
 - dropped firmware integration
+- Added Debloater
+- Reverted config_screenBrightnessDoze to float conversion
+- Haptics Inhacement
+
+Kernel changelogs:
 - added kernel localname
 - added mglru initial implimentation 
-- some kernel related performance tweaks 
+- patched ksun
+- Added CONFIG_HZ value to 100
+- Disabled CONFIG_NTFS_DEBUG
+- Removed CONFIG_ZRAM_WRITEBACK & CONFIG_ZRAM_WRITEBACK
