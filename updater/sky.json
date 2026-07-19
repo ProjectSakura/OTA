@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1782742705",
-      "filename": "ProjectSakura-16.2.1-20260629-1621-GAPPS-sky-OFFICIAL.zip",
-      "id": "db0c5db4670de155fe5502fb4bc29097",
+      "datetime": "1784478860",
+      "filename": "ProjectSakura-16.3.0-20260719-1454-GAPPS-sky-OFFICIAL.zip",
+      "id": "b53099b257e4b16e4418d14bffc29245",
       "romtype": "nightly",
-      "size": 1736454878,
+      "size": 1777584341,
       "support": "TheToplexy",
-      "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-16.2.1-20260629-1621-GAPPS-sky-OFFICIAL.zip",
-      "version": "16.2.1",
+      "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-16.3.0-20260719-1454-GAPPS-sky-OFFICIAL.zip",
+      "version": "16.3.0",
       "updater": true,
       "maintainer": "𝚂αяιм_𝚁αѕσσℓ"
     }

@@ -1,3 +1,37 @@
+Projet Sakura v16.3.0
+Build date: 19/07/2026
+Device changelogs:
+- qca_cld3 as Wifi Driver
+- raised powerhint INTERACTION min frequencies
+- enabled sparse images
+- enabled sustained performance
+- overrided cpufreq governor 
+- disabled rcu expedited 
+- firmware included
+- And Many More...
+
+Kernel changelogs:
+- Upstream 5.10.257 Kernel
+- integrated Backend MGLRU (Disabled in Boot)
+- pre-Root KSUN Dropped (Use LKM)
+- reduced IPI overhead
+- Fixed Reboot Panic/Bug
+- And More...
+
+Source Changelogs:
+- Bumped July Security Patch
+- Added Reality Engine
+- Added Blur From Axion
+- Added peek aod
+- Added GPU screen composition Setting
+- Fixed some DynamicBar Bugs
+- Silent Some Logspams
+- And More...
+
+
+---
+
+
 Projet Sakura v16.2.1 June Update
 Build date: 29/06/2026
 Device changelogs:
