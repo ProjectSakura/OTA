@@ -1,0 +1,16 @@
+{
+"response": [
+{
+ "datetime": "1784982193",
+ "filename": "ProjectSakura-16.3.0-20260725-1441-GAPPS-zorn-OFFICIAL.zip",
+ "id": "2ecf07628d8b3c84905871c997ad7aac",
+ "romtype":"nightly",
+ "size": 3824725387,
+ "support": false,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/zorn/ProjectSakura-16.3.0-20260725-1441-GAPPS-zorn-OFFICIAL.zip",
+ "version": "16.3.0",
+ "updater": true,
+ "maintainer": "ArmSM",
+}
+]
+}

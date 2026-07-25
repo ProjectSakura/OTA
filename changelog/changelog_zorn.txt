@@ -1,0 +1,11 @@
+Projet Sakura v16.3.0
+Build date: 125/07/2026
+Device changelogs:
+- Leica Cam present
+- Allow games to use 120 fps
+
+Source Changelogs:
+- July Security Patch
+- Fixed some DynamicBar Bugs
+- Silent Some Logspams
+- And More...
