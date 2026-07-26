@@ -31,5 +31,16 @@
    "xda_thread": "",
    "active": true,
    "donation_link":"https://paypal.me/ArmSMA"
+},
+   {
+  "brand": "Nothing",
+  "name": "CMF Phone 1",
+  "codename": "Tetris",
+  "maintainer_name": "Anshuman X",
+  "maintainer_xda": "null",
+  "maintainer_country": "JP",
+  "xda_thread": "",
+  "active": true,
+  "donation_link":""
 }
   ]
