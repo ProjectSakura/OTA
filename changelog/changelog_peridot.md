@@ -1,5 +1,11 @@
+# Project Sakura-16.3
 # Changelog
 
+## Jul 31, 2026
+- Added Dolby Stack thanks to @Blazing-Forest
+- Overall Optimisation
+- Tuned Interaction And Gaming Hints
+- 
 ## Jul 16, 2026
 - XiaomiParts Rework: separate notification/icon for GamingProfile
 - XiaomiParts Rework: PowerProfile control settings screen
