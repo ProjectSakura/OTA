@@ -191,7 +191,7 @@ def cook_content(information):
         "👤 " + "by " + str(information["maintainer"]) + "\n\n" + \
         "ℹ️ " + "Version : " + str(information['version']) + "\n" +\
         "📆 " + "Date: " + str(datetime.date.today()).replace("-", "/") + "\n" + \
-        "⬇️ " + "<a href=\"https://projectsakura.me/download/#/\">Download</a>" + "" + "\n" + \
+        "⬇️ " + "<a href=\"https://projectsakura.github.io/download/#/\">Download</a>" + "" + "\n" + \
         f"{support_chat(information['support'])}" + \
         bold(information['ota'], "") + "\n" + \
         bold(information['flash'], "") + "\n\n" + \
